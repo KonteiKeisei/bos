@@ -1,0 +1,116 @@
+---
+{"dg-publish":true,"permalink":"/player-characters/jacques-le-coq/"}
+---
+
+
+# Jacques le Coq
+
+> [!infobox]
+> ![Jacques le Coq.webp|Jacques le Coq|162](/img/user/Images/Player%20Characters/Jacques%20le%20Coq.webp)
+
+> [!info] Character Summary
+> **Player:** Anthilz
+> **Nickname:** "The Rooster"
+> **Age:** Late 20s
+> **Class:** Paladin 3
+> **Subclass:** Oath of the Ice *(reskinned Oath of Protection)*
+> **Race:** Goliath *(perceived by non-awakened as an unusually large, pale man)*
+> **Hometown:** Quebec, Canada
+> **Awakened Status:** Awakened since birth
+> **Alignment:** Lawful Good
+> **HP:** 28
+
+## Ability Scores
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 17  | 8   | 14  | 8   | 10  | 16  |
+
+## Personality
+
+**Traits:**
+- I use sports terms to describe everything, and am surprised when people don't know what I'm talking about.
+- I will use whatever advantage I can to win. There is always a way to win — you just have to see it.
+
+**Ideal:** For love of the Game. I play because I love the game and the joy it brings my fans, and even my opponents. *(Good)*
+
+**Bond:** *(To be developed)*
+
+**Flaw:** I train hard, I play hard, and I party hard. All of my drinks are hard as well.
+
+---
+
+## Backstory
+
+Jacques Leqoc was born in the cold places where the world never quite forgot the old ways.
+
+His people have lived alongside humanity in Canada since time immemorial, hidden not by magic alone but by familiarity. To the unawakened, Jacques has always appeared as an unusually large, pale man. Tall. Broad. Powerful in a way that makes people stop asking questions before they finish forming them. To those who know better, he is something older — a people shaped by ice, endurance, and oathbound honor.
+
+Jacques grew up with two truths held tightly together: duty to his people — the quiet responsibility to protect the fragile boundary between the Awakened and the mundane — and hockey.
+
+**The Montreal Canadiens** were not just a team. They were heritage. Pride. A banner carried from generation to generation. Jacques did not merely cheer for them — he served them. As an enforcer, his role was simple: protect the stars, punish the reckless, make the ice remember your name.
+
+When the trade came, it felt like exile.
+
+Boston. The Bruins. The enemy.
+
+To play for them was to betray something deep and instinctual. Jacques wore the black and gold like armor that did not quite fit, knowing every Canadiens fan who saw him would feel the same ache he did. Still, he played. Loyalty to the team was a kind of oath, even if it was not the one he would have chosen.
+
+**October 1986. The Boston Garden.**
+
+A Rangers player took a dirty run at **Cam Neely**. The hit was late. Unnecessary. Malicious. Neely went down hard. Jacques did not think. He moved.
+
+What followed was not a fight. It was a declaration. Jacques struck with a ferocity that silenced part of the arena and woke something ancient in the ice beneath his skates. It was excessive. Uncontrolled. His fists carried more than anger. They carried judgment.
+
+The officials ejected him. The league handed down a suspension. Paid. Public. Convenient.
+
+For the first time in his life, Jacques had nowhere he was required to be.
+
+That absence is where the oath found him.
+
+Away from the rink, away from the roar of the crowd, Jacques felt the cold settle deeper than muscle and bone. Something old answered something older. Not a god with a name, but a presence shaped like frost, endurance, and the promise that protection sometimes requires violence. Not rage. Purpose.
+
+Jacques did not stop being an enforcer. He became something else. A shield. A bulwark. A guardian who understands that loyalty is not blind obedience, and that protection sometimes means standing between the innocent and what would break them.
+
+In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques returned — changed. The ice still obeyed him. The crowd still feared him. But something had shifted. Boston had awakened something in him, and the city, whether it knows it or not, has a habit of doing that.
+
+---
+
+## Class Features & Spells
+
+**Sacred Oath:** Oath of the Ice *(reskinned Oath of Protection)*
+**Fighting Style:** Protection
+**Lay on Hands:** Yes
+**Divine Health:** Yes
+**Channel Divinity:** Protection
+
+**Racial Features (Goliath):** Little Giant, Mountain Born, Powerful Build
+
+**Spells:** Divine Smite, Ceremony, Cure Wounds, Detect Evil and Good, Detect Poison and Disease, Purify Food and Drink, Wrathful Smite, Bless, Command, Compelled Duel
+
+---
+
+## Equipment
+
+- **La Sainte Paix** *(his signature weapon)*
+- **Arrêt** *(shield or secondary)*
+- Hockey Pads *(worn as armor)*
+- Unarmed Strike
+- Clothes, Casual
+
+---
+
+## Connections
+
+| NPC / Faction | Relationship |
+|---------------|--------------|
+| Boston Bruins | Employer; fiercely loyal to |
+| Montreal Canadiens | Former team; exile; complicated emotional loyalty |
+| Cam Neely | Teammate defended — inciting incident |
+| Lyndon Byers | Replaced him during suspension |
+
+---
+
+## Session Notes
+
+*Notes updated each session.*
