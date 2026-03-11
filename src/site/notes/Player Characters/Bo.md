@@ -133,7 +133,7 @@ The spores are restless. Forces older than the mob are paying attention.
 
 | NPC / Faction | Relationship |
 |---------------|--------------|
-| [[Benjamin Franklin (Dr. Richard Sparks)\|Benjamin Franklin (Dr. Richard Sparks)]] | Future patron — holds the key to Harvard |
+| [[NPCs/Vox Libertas — The Voice of Liberty\|Vox Libertas — The Voice of Liberty]] | Future patron — holds the key to Harvard |
 | Boston Orc community | Informal network; mob-adjacent survival connections |
 | Harvard University | Rejected him; he is not done |
 

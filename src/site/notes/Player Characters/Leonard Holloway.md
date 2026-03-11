@@ -100,7 +100,7 @@ Whatever he had been looking for at the harbor, it had just looked back.
 |---------------|--------------|
 | The Paranormal Society | Member and gadget builder |
 | [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] | Met at Long Wharf; both witnessed the Spectacle Island event |
-| [[Buzz Aldrin (Vox Innovatum)\|Buzz Aldrin (Vox Innovatum)]] | Unaware — the Voice of Innovation is seeking a successor |
+| [[NPCs/Vox Innovatum — The Voice of Innovation\|Vox Innovatum — The Voice of Innovation]] | Unaware — the Voice of Innovation is seeking a successor |
 
 ---
 
