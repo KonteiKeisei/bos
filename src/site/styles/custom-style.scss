@@ -793,16 +793,21 @@ main.content blockquote {
   max-width:   500px;
 }
 
-/* Images fill the wrapper up to 500px */
+/* Images fill the wrapper — capped at 500px wide, 560px tall */
 .glitch-wrap > img {
-  display:   block;
-  width:     100%;
-  max-width: 500px;
-  height:    auto;
+  display:          block;
+  width:            100%;
+  max-width:        500px;
+  max-height:       560px;
+  object-fit:       contain;
+  object-position:  top center;
+  height:           auto;
 }
 
-/* ── A retro-box containing an image floats right with text wrapping ── */
-.retro-box:has(.glitch-wrap) {
+/* ── Only float a retro-box that is a PURE image box (no headings in it).
+   If the note puts "# Title" in the same section as the image the box
+   stays in normal flow so the title doesn't get dragged to the right. ── */
+.retro-box:has(.glitch-wrap):not(:has(h1, h2, h3)) {
   float:      right;
   max-width:  520px;   /* 500px image + box padding */
   width:      auto;
@@ -810,9 +815,9 @@ main.content blockquote {
   clear:      right;
 }
 
-/* The box immediately after an image-box (e.g. Character Summary) also
-   floats right, stacking below the portrait */
-.retro-box:has(.glitch-wrap) + .retro-box {
+/* The box immediately after a pure-image box (e.g. Character Summary)
+   also floats right, stacking below the portrait */
+.retro-box:has(.glitch-wrap):not(:has(h1, h2, h3)) + .retro-box {
   float:      right;
   max-width:  520px;
   width:      auto;
@@ -821,13 +826,20 @@ main.content blockquote {
 }
 
 /* Don't double-float the glitch-wrap inside its already-floating box */
-.retro-box:has(.glitch-wrap) .glitch-wrap {
+.retro-box:has(.glitch-wrap):not(:has(h1, h2, h3)) .glitch-wrap {
   float:     none;
   max-width: 100%;
   margin:    0;
 }
 
-/* Clearfix on the content area so it stretches past the floats */
+/* Mixed box (title + image): image stays inline, just constrained */
+.retro-box:has(.glitch-wrap):has(h1, h2, h3) .glitch-wrap {
+  display:   block;
+  max-width: 500px;
+  margin:    0 auto 12px;
+}
+
+/* Clearfix so the content area stretches past the floats */
 main.content::after {
   content: "";
   display: table;
