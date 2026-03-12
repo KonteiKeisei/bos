@@ -177,10 +177,16 @@ function userEleventySetup(eleventyConfig) {
 
     headings.forEach(function (h) {
       var len = (h.textContent || '').trim().length || 1;
-      var dur = Math.max(0.35, len * 0.055);
+      var dur = Math.max(0.6, len * 0.07); // ~70ms per character
 
+      // ── Measure the heading's natural text width BEFORE clamping ──
+      // white-space:nowrap ensures it's on one line for measurement.
+      h.style.whiteSpace = 'nowrap';
+      var fullWidth = h.scrollWidth;
+      h.style.setProperty('--tw-w', fullWidth + 'px');
+
+      // ── Apply typewriter state ──
       h.style.overflow    = 'hidden';
-      h.style.whiteSpace  = 'nowrap';
       h.style.borderRight = '2px solid oklch(73% 0.14 192)';
       h.style.animation   = [
         'typewriter '      + dur   + 's steps(' + len + ', end) ' + cumDelay + 's 1 both',
@@ -188,17 +194,18 @@ function userEleventySetup(eleventyConfig) {
         'crt-text-flicker 0.02s infinite alternate'
       ].join(', ');
 
-      // Clean up cursor once this heading finishes typing
+      // ── Clean up once this heading finishes typing ──
       (function (d, du) {
         setTimeout(function () {
           h.style.borderRight = 'none';
           h.style.overflow    = '';
           h.style.whiteSpace  = '';
+          h.style.removeProperty('--tw-w');
           h.style.animation   = 'crt-text-flicker 0.02s infinite alternate';
         }, (d + du + 0.15) * 1000);
       })(cumDelay, dur);
 
-      cumDelay += dur + 0.25;
+      cumDelay += dur + 0.3;
     });
   }
 
