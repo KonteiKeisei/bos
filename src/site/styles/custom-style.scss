@@ -364,3 +364,106 @@ body {
 .filetree-sidebar > .folder::-webkit-scrollbar-thumb:hover {
   background: var(--rc-cyan);
 }
+
+
+/* ================================================================
+   RETRO SECTION BOXES
+   Applied to content wrapped by the userSetup.js transform:
+   each block between <hr> separators becomes a .retro-box
+   ================================================================ */
+
+.retro-box {
+  position: relative;
+  margin:   18px 0;
+  padding:  18px 20px 16px;
+
+  /* Rounded grooved border — the "carved panel" look */
+  border:        3px groove var(--rg-border);
+  border-radius: 8px;
+
+  background-color: oklch(24% 0.014 200 / 55%);
+  /* 3D outer drop shadow + subtle inner glow */
+  box-shadow:
+    -3px  3px 0px var(--rg-shadow),
+     0px  0px 0px 1px oklch(38% 0.025 200 / 25%) inset,
+     0px  1px 6px oklch(60% 0.10 195 / 08%) inset;
+}
+
+/* First box directly after <header> — tighter top margin */
+main.content > .retro-box:first-of-type {
+  margin-top: 8px;
+}
+
+/* Headings inside a box inherit the folder-color accent */
+.retro-box h1,
+.retro-box h2 {
+  color: var(--rc-orange);
+  margin-top: 0;
+}
+
+.retro-box h3,
+.retro-box h4 {
+  color: var(--rc-yellow);
+}
+
+/* Horizontal rules that may remain after splitting are hidden */
+.retro-box hr {
+  display: none;
+}
+
+
+/* ================================================================
+   CALLOUT BOXES (.callout)
+   Obsidian callouts — > [!info], > [!warning], etc.
+   Styled as grooved retro panels with accent colour per type.
+   ================================================================ */
+
+.callout {
+  margin:   14px 0;
+  padding:  12px 16px;
+  border:        3px groove var(--callout-color, var(--rg-border));
+  border-radius: 8px;
+  background-color: oklch(from var(--callout-color, oklch(42% 0.03 200)) 20% calc(c * 0.6) h / 45%);
+  box-shadow:
+    -3px 3px 0px var(--rg-shadow),
+    0px 0px 0px 1px oklch(from var(--callout-color, oklch(42% 0.03 200)) 50% c h / 20%) inset;
+}
+
+/* Per-callout-type accent colours */
+.callout[data-callout="info"]    { --callout-color: var(--rc-cyan);   }
+.callout[data-callout="tip"]     { --callout-color: var(--rc-green);  }
+.callout[data-callout="note"]    { --callout-color: var(--rc-cyan);   }
+.callout[data-callout="warning"] { --callout-color: var(--rc-orange); }
+.callout[data-callout="danger"]  { --callout-color: var(--rc-red);    }
+.callout[data-callout="success"] { --callout-color: var(--rc-green);  }
+.callout[data-callout="question"]{ --callout-color: var(--rc-yellow); }
+.callout[data-callout="quote"]   { --callout-color: var(--rc-purple); }
+.callout[data-callout="abstract"]{ --callout-color: var(--rc-cyan);   }
+.callout[data-callout="summary"] { --callout-color: var(--rc-cyan);   }
+.callout[data-callout="tldr"]    { --callout-color: var(--rc-yellow); }
+
+/* Title row */
+.callout-title {
+  display:     flex;
+  align-items: center;
+  gap:         8px;
+  margin-bottom: 8px;
+  font-family: "W95font", ui-monospace, monospace;
+  font-weight: bold;
+  font-size:   0.85rem;
+  color:       var(--callout-color, var(--rc-cyan));
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.callout-icon svg,
+.callout-icon i {
+  color:   var(--callout-color, var(--rc-cyan));
+  opacity: 0.9;
+}
+
+.callout-content {
+  font-size: 0.88rem;
+  color:     var(--rg-text);
+  line-height: 1.6;
+}
