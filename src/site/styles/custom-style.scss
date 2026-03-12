@@ -532,8 +532,8 @@ main.content > .retro-box:first-of-type {
   margin:          14px auto 6px;
   padding:         10px 40px 8px;
 
-  /* Pill shape */
-  border-radius: 999px;
+  /* Rounded corners matching the retro-box content panels */
+  border-radius: 8px;
 
   /* Retroma groove border */
   border:        3px groove var(--rg-border);
