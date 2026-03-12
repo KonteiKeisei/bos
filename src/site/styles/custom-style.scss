@@ -1,12 +1,21 @@
 /* ================================================================
-   UNSLEEPING CITY: BOSTON — CUSTOM GARDEN LAYOUT
+   UNSLEEPING CITY: BOSTON — CUSTOM GARDEN LAYOUT + RETROMA THEME
    Three-column fluid layout:
      Left sidebar  : anchored left,  max 350px
      Center content: fluid,          min 700px
      Right sidebar : anchored right, max 350px
+
+   Left pane styling translated from Obsidian Retroma theme
+   (Retroma targets .nav-folder / .nav-files-container, which don't
+    exist in the Digital Garden HTML — so we retranslate here using
+    the garden's actual class names while reusing the Retroma CSS
+    custom properties that ARE inherited via the fetched theme CSS.)
    ================================================================ */
 
-/* == Layout variable overrides == */
+/* ================================================================
+   SECTION 1 — LAYOUT
+   ================================================================ */
+
 body {
   /* Left sidebar (filetree) */
   --dg-filetree-width:     280px;
@@ -19,7 +28,7 @@ body {
   --dg-sidebar-gap:         32px;
 }
 
-/* == LEFT SIDEBAR: fill its panel to max 350px == */
+/* Left sidebar panel */
 .filetree-wrapper {
   width:           var(--dg-filetree-width);
   max-width:       350px;
@@ -32,7 +41,7 @@ body {
   max-width: 350px;
 }
 
-/* == CENTER CONTENT: stretch between the two sidebars == */
+/* Center content: stretch between the two sidebars */
 .content {
   max-width: none !important;
   min-width: 700px;
@@ -40,7 +49,7 @@ body {
   margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap))  !important;
 }
 
-/* == RIGHT SIDEBAR: pin to the right edge of the screen == */
+/* Right sidebar: pin to the right edge */
 .sidebar {
   position:  fixed !important;
   left:      auto !important;
@@ -52,16 +61,14 @@ body {
   padding-left: 12px;
 }
 
-/* == BREAKPOINT: 1000px – 1400px
-      Filetree stays, sidebar stays fixed to right edge == */
+/* 1000px – 1400px */
 @media (max-width: 1400px) {
   .content {
-    margin-left:  calc(var(--dg-filetree-width) + 20px)          !important;
-    margin-right: calc(var(--dg-sidebar-max-width) + 20px)        !important;
+    margin-left:  calc(var(--dg-filetree-width) + 20px)         !important;
+    margin-right: calc(var(--dg-sidebar-max-width) + 20px)      !important;
     max-width: none !important;
     min-width: 400px;
   }
-
   .sidebar {
     position:     fixed  !important;
     left:         auto   !important;
@@ -72,8 +79,7 @@ body {
   }
 }
 
-/* == BREAKPOINT: < 1000px
-      Filetree hides, sidebar stacks below content == */
+/* < 1000px: filetree hides, sidebar stacks below content */
 @media (max-width: 1000px) {
   .content {
     margin-left:  auto    !important;
@@ -81,7 +87,6 @@ body {
     max-width:    700px   !important;
     min-width:    unset;
   }
-
   .sidebar {
     position:  relative !important;
     left:      auto     !important;
@@ -93,4 +98,193 @@ body {
     height:    auto;
     padding-left: 0;
   }
+}
+
+/* ================================================================
+   SECTION 2 — RETROMA LEFT PANE TRANSLATION
+   The Retroma theme CSS (fetched via cssUrl) provides these
+   custom properties in the garden because the body carries class
+   "theme-dark" and "retroma-font-w95font" from styleSettingsBodyClasses.
+   We use them directly below; oklch fallbacks provided for safety.
+   ================================================================ */
+
+/* -- Folder color palette for cycling (6 hues) -- */
+:root {
+  --rc-red:    oklch(65% 0.17 25);
+  --rc-orange: oklch(72% 0.15 55);
+  --rc-yellow: oklch(80% 0.14 95);
+  --rc-green:  oklch(68% 0.14 145);
+  --rc-cyan:   oklch(72% 0.13 195);
+  --rc-purple: oklch(65% 0.14 290);
+
+  /* Dark-theme panel tones matching Retroma dark + #233D43 accent */
+  --rg-bg-base:    oklch(22% 0.03 200);
+  --rg-bg-raised:  oklch(26% 0.035 200);
+  --rg-bg-sunken:  oklch(18% 0.025 200);
+  --rg-shadow:     oklch(14% 0.02 200);
+  --rg-border:     oklch(38% 0.07 200);
+  --rg-text:       oklch(82% 0.02 200);
+  --rg-text-muted: oklch(55% 0.02 200);
+}
+
+/* == FILETREE SIDEBAR CONTAINER == */
+.filetree-sidebar {
+  font-family: "W95font", ui-monospace, monospace;
+  font-size: 0.82rem;
+  background-color: var(--rg-bg-base);
+  border-right: 2px solid var(--rg-border);
+  padding: 6px 8px 24px;
+  overflow-y: auto;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+/* == SITE TITLE (shown when no logo is set) == */
+.filetree-sidebar > a h1 {
+  font-family: "W95font", ui-monospace, monospace;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: center;
+  line-height: 1.4;
+  margin: 0 0 14px;
+  padding: 10px 8px;
+  color: var(--rc-cyan);
+  background-color: var(--rg-bg-raised);
+  border: 2px solid var(--rg-border);
+  border-radius: 6px;
+  /* Retroma 3D "pressed" shadow */
+  box-shadow:
+    inset  2px  2px 0px oklch(38% 0.04 200 / 40%),
+    inset -2px -2px 0px oklch(10% 0.01 200 / 60%),
+    -3px 3px 0px var(--rg-shadow);
+  text-shadow: 0 0 8px oklch(72% 0.13 195 / 50%);
+}
+
+/* == SEARCH BUTTON == */
+.search-button-wrapper,
+.search-button {
+  font-family: "W95font", monospace;
+  font-size: 0.78rem;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  border: 1px solid var(--rg-border) !important;
+  background-color: var(--rg-bg-raised) !important;
+  box-shadow: -2px 2px 0px var(--rg-shadow);
+  color: var(--rg-text-muted) !important;
+}
+
+/* == ROOT FOLDER CONTAINER == */
+.filetree-sidebar > nav > .folder {
+  padding: 0;
+}
+
+/* == TOP-LEVEL FOLDER ITEMS (color cycling — Retroma style) == */
+.filelist > .folder.inner-folder {
+  margin-block: 7px;
+  border-radius: 6px;
+  background-color: var(--rg-bg-raised);
+  border: 2px solid var(--rc-cyan);
+  box-shadow: -3px 3px 0px var(--rg-shadow);
+  padding: 0 2px 2px;
+  overflow: hidden;
+}
+
+.filelist > .folder.inner-folder:nth-child(6n + 1) { border-color: var(--rc-red);    --folder-color: var(--rc-red);    }
+.filelist > .folder.inner-folder:nth-child(6n + 2) { border-color: var(--rc-orange); --folder-color: var(--rc-orange); }
+.filelist > .folder.inner-folder:nth-child(6n + 3) { border-color: var(--rc-yellow); --folder-color: var(--rc-yellow); }
+.filelist > .folder.inner-folder:nth-child(6n + 4) { border-color: var(--rc-green);  --folder-color: var(--rc-green);  }
+.filelist > .folder.inner-folder:nth-child(6n + 5) { border-color: var(--rc-cyan);   --folder-color: var(--rc-cyan);   }
+.filelist > .folder.inner-folder:nth-child(6n + 6) { border-color: var(--rc-purple); --folder-color: var(--rc-purple); }
+
+/* Open top-level folder gets a tinted background */
+.filelist > .folder.inner-folder[x-data]:not([style*="display:none"]) {
+  background-color: oklch(28% 0.04 200 / 50%);
+}
+
+/* == FOLDER TITLE ROW == */
+.foldername-wrapper {
+  padding: 5px 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.foldername-wrapper svg,
+.foldername-wrapper i {
+  flex-shrink: 0;
+  color: var(--folder-color, var(--rc-cyan));
+}
+
+/* == FOLDER NAME TEXT == */
+.foldername {
+  font-family: "W95font", monospace;
+  font-weight: bold;
+  font-size: 0.82rem;
+  color: var(--folder-color, var(--rc-cyan));
+  letter-spacing: 0.03em;
+}
+
+/* == NESTED FOLDER ITEMS (second level and deeper) == */
+.filelist .filelist .folder.inner-folder {
+  border-width: 1px;
+  box-shadow: -2px 2px 0px var(--rg-shadow);
+  margin-block: 3px;
+  /* Inherit parent folder-color at reduced saturation */
+  border-color: oklch(from var(--folder-color, var(--rc-cyan)) l c h / 60%);
+}
+
+/* == FILE / NOTE LINKS == */
+.notelink {
+  margin: 3px 4px;
+}
+
+.notelink .filename {
+  display: block;
+  padding: 3px 10px;
+  border-radius: 4px;
+  border: 1px solid oklch(40% 0.03 200);
+  background-color: oklch(24% 0.03 200 / 65%);
+  font-family: "W95font", monospace;
+  font-size: 0.78rem;
+  color: var(--rg-text);
+  text-decoration: none;
+  line-height: 1.5;
+  transition: border-color 0.1s, background-color 0.1s;
+}
+
+.notelink .filename:hover {
+  border-color: var(--rc-cyan);
+  background-color: oklch(30% 0.05 200 / 50%);
+  color: oklch(90% 0.04 200);
+}
+
+/* Active/current note */
+.notelink.active-note .filename {
+  border-color: var(--rc-cyan);
+  background-color: oklch(32% 0.08 200 / 60%);
+  color: oklch(90% 0.06 195);
+  font-weight: bold;
+  box-shadow: inset 2px 2px 0px oklch(14% 0.02 200 / 40%);
+}
+
+/* == INDENTED FILELIST PADDING == */
+.filelist {
+  padding-left: 4px;
+}
+
+/* == SCROLLBAR (retro style) == */
+.filetree-sidebar::-webkit-scrollbar {
+  width: 6px;
+}
+.filetree-sidebar::-webkit-scrollbar-track {
+  background: var(--rg-bg-sunken);
+}
+.firetree-sidebar::-webkit-scrollbar-thumb {
+  background: var(--rg-border);
+  border-radius: 0;
+}
+.firetree-sidebar::-webkit-scrollbar-thumb:hover {
+  background: var(--rc-cyan);
 }
