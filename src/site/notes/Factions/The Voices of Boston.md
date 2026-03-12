@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/factions/the-voices-of-boston/"}
 ---
 
-
 # The Voices of Boston
 
 > [!info] Faction Summary
@@ -52,8 +51,6 @@ Embodies invention, intellect, and the relentless pursuit of progress. Represent
 A Vox cannot die while bearing their title. Only by voluntarily relinquishing the role may their soul pass on — at which point another inherits the mantle. The city itself seems to guide the selection of new bearers.
 
 ---
-
-## GM Notes
 
 >
 > | Title | True Bearer | Cover Identity |
