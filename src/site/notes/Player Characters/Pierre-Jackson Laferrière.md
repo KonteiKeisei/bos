@@ -5,7 +5,7 @@
 
 # Pierre-Jackson Laferrière
 
-> [!infobox]
+> [!info] Character Image
 > ![Pierre-Jackson Laferriere.webp|Pierre-Jackson Laferrière|202](/img/user/Images/Player%20Characters/Pierre-Jackson%20Laferriere.webp)
 
 > [!info] Character Summary

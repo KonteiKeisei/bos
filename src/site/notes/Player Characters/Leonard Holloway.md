@@ -5,7 +5,7 @@
 
 # Leonard Holloway
 
-> [!infobox]
+> [!info] Character Image
 > ![Leonard Holloway.webp|Leonard Holloway|199](/img/user/Images/Player%20Characters/Leonard%20Holloway.webp)
 
 > [!info] Character Summary

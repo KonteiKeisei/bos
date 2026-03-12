@@ -5,7 +5,7 @@
 
 # Jacques le Coq
 
-> [!infobox]
+> [!info] Character Image
 > ![Jacques le Coq.webp|Jacques le Coq|162](/img/user/Images/Player%20Characters/Jacques%20le%20Coq.webp)
 
 > [!info] Character Summary

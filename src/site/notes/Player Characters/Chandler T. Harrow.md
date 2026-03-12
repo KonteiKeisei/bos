@@ -5,7 +5,7 @@
 
 # Chandler T. Harrow
 
-> [!infobox]
+> [!info] Character Image
 > ![Chandler T. Harrow.webp|Chandler T. Harrow|179](/img/user/Images/Player%20Characters/Chandler%20T.%20Harrow.webp)
 
 > [!info] Character Summary

@@ -4,8 +4,7 @@
 
 
 # Lee Smith
-
-> [!info] Character Summary
+> [!info] Character Image
 > **Player:** *(TBD)*
 > **Alias:** None that matters
 > **Age:** 26
