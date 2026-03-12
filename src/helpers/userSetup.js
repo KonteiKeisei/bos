@@ -114,6 +114,41 @@ function userEleventySetup(eleventyConfig) {
     );
   });
 
+
+
+  // ── Transform 4: Image glitch wrapper ────────────────────────────────────────
+  //
+  // Wraps every <img> inside the main content area in a .glitch-wrap div,
+  // passing the image src as a CSS variable (--gi) so the pseudo-element
+  // overlays can reference the same image for the glitch effect.
+  // A small random per-image delay (--gd) staggers the animations.
+  //
+  //   Before:  <img src="/notes/map.jpg" alt="map">
+  //   After:   <div class="glitch-wrap" style="--gi:url('/notes/map.jpg');--gd:2.34s">
+  //              <img src="/notes/map.jpg" alt="map">
+  //            </div>
+
+  eleventyConfig.addTransform("image-glitch-wrap", function(str, outputPath) {
+    if (!str) return str;
+    if (outputPath && !outputPath.endsWith(".html")) return str;
+
+    return str.replace(
+      /(<main[^>]+class="[^"]*\bcontent\b[^"]*"[^>]*>)([\s\S]*?)(<\/main>)/i,
+      function(match, openTag, body, closeTag) {
+        const wrappedBody = body.replace(
+          /(<img\b[^>]*?\bsrc=["']([^"']+)["'][^>]*?\/?>)/gi,
+          function(imgMatch, imgTag, src) {
+            // Skip data URIs
+            if (src.startsWith("data:")) return imgMatch;
+            const delay = (Math.random() * 6).toFixed(2);
+            return `<div class="glitch-wrap" style="--gi:url('${src}');--gd:${delay}s">${imgTag}</div>`;
+          }
+        );
+        return openTag + wrappedBody + closeTag;
+      }
+    );
+  });
+
 }
 
 exports.userMarkdownSetup = userMarkdownSetup;
