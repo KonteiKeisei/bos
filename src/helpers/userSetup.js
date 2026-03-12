@@ -149,6 +149,70 @@ function userEleventySetup(eleventyConfig) {
     );
   });
 
+
+
+  // ── Transform 5: Typewriter heading animation ─────────────────────────────
+  //
+  // Injects a small inline <script> before </body> on every HTML page.
+  // On DOMContentLoaded it finds all h2/h3 inside main.content and:
+  //   1. Sets overflow:hidden + white-space:nowrap so width-clip works
+  //   2. Applies a `typewriter` animation with steps() equal to char count
+  //   3. Staggers each heading after the previous finishes (~55ms/char + 250ms gap)
+  //   4. Blinking border-right cursor tracks the growing text edge
+  //   5. Removes cursor + restores normal styles once typing completes
+
+  eleventyConfig.addTransform("typewriter-headings", function(str, outputPath) {
+    if (!str) return str;
+    if (outputPath && !outputPath.endsWith(".html")) return str;
+    if (!/<main[^>]+class="[^"]*\bcontent\b/i.test(str)) return str;
+
+    const script = `
+<script>
+(function () {
+  function initTypewriter() {
+    var headings = Array.from(
+      document.querySelectorAll('main.content h2, main.content h3')
+    );
+    var cumDelay = 0.25;
+
+    headings.forEach(function (h) {
+      var len = (h.textContent || '').trim().length || 1;
+      var dur = Math.max(0.35, len * 0.055);
+
+      h.style.overflow    = 'hidden';
+      h.style.whiteSpace  = 'nowrap';
+      h.style.borderRight = '2px solid oklch(73% 0.14 192)';
+      h.style.animation   = [
+        'typewriter '      + dur   + 's steps(' + len + ', end) ' + cumDelay + 's 1 both',
+        'blinkTextCursor 0.55s step-end ' + cumDelay + 's infinite',
+        'crt-text-flicker 0.02s infinite alternate'
+      ].join(', ');
+
+      // Clean up cursor once this heading finishes typing
+      (function (d, du) {
+        setTimeout(function () {
+          h.style.borderRight = 'none';
+          h.style.overflow    = '';
+          h.style.whiteSpace  = '';
+          h.style.animation   = 'crt-text-flicker 0.02s infinite alternate';
+        }, (d + du + 0.15) * 1000);
+      })(cumDelay, dur);
+
+      cumDelay += dur + 0.25;
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initTypewriter);
+  } else {
+    initTypewriter();
+  }
+})();
+<\/script>`;
+
+    return str.replace('</body>', script + '\n</body>');
+  });
+
 }
 
 exports.userMarkdownSetup = userMarkdownSetup;
