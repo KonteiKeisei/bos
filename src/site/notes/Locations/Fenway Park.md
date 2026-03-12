@@ -35,13 +35,12 @@ After the sale of Babe Ruth, a formal compact was sealed with both the **Winter 
 
 **The Betrayal.**
 
-On **October 25, 1986**, the compact was deliberately broken. The Cabal paid to ensure Boston would lose. Bill Buckner fumbled the ball. The sixty-year debt was repudiated.
-
-In Fey culture, this is a capital crime.
+On **October 25, 1986**, the compact was broken. The sixty-year debt was repudiated. In Fey culture, this is a capital crime.
 
 The concentrated grief of 40+ years of Red Sox heartbreak — focused and amplified in one night — cracked the veil. The Grief-Eater slipped through that crack.
 
-See: [[Campaign Notes/The Fenway Pact\|The Fenway Pact]]
+>
+> See: [[Campaign Notes/The Fenway Pact\|The Fenway Pact]], [[Factions/The Cabal\|The Cabal]]
 
 ---
 
@@ -53,7 +52,7 @@ Opened 1912. One of the oldest and most storied ballparks in America. Built on t
 
 ## Key Features
 
-- **The Green Monster** *(37-foot left field wall)* — not merely paint and tin. It is the housing of the Summer Court's titan, the creature called the Green Monster. For sixty years it slept beneath the wall, waiting for its night of joy. It is not sleeping now.
+- **The Green Monster** *(37-foot left field wall)* — not merely paint and tin. Something is behind it, and it is waking up.
 - Pesky's Pole
 - Manual scoreboard
 - The Fens beyond the outfield — a remnant of the original wetland; still thin in places
@@ -64,9 +63,9 @@ Opened 1912. One of the oldest and most storied ballparks in America. Built on t
 
 Fenway Park is one of the most magically significant sites in Boston — a formal meeting point of mortal and Fey power for six decades. The compact's breaking has not severed that significance; it has *inverted* it. The park was a place of deliberate, contained Fey influence. Now it is a wound.
 
-The Green Monster stirs beneath the left-field wall. The Summer Court is furious. The Winter Court is patient and cold.
+Something stirs beneath the left-field wall. The veil here is thin — thinner than it has been in decades.
 
-Both are watching this park.
+Both Courts are watching this park.
 
 ---
 
@@ -76,8 +75,9 @@ Both are watching this park.
 
 | Name | Role |
 |------|------|
-| The Green Monster | Imprisoned Summer Court titan — waking |
-| Harold Whitmore | Minority owner; architect of the betrayal |
+| The Green Monster | Something behind the left-field wall |
+| Harold Whitmore | Red Sox minority owner |
+
 
 ---
 

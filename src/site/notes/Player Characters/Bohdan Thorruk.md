@@ -21,7 +21,7 @@
 > **Awakened Status:** Awakened from birth
 > **Alignment:** True Neutral
 > **HP:** 15
-> **Arc:** Path to Harvard through Benjamin Franklin's patronage
+> **Arc:** Path to Harvard through Vox Libertas's patronage
 
 ## Ability Scores
 

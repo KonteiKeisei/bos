@@ -26,9 +26,9 @@
 
 | File | Description |
 |------|-------------|
-| [[Campaign Notes/The Fenway Pact\|The Fenway Pact]] | The core truth — why Boston was "cursed," and how the compact was broken |
 | [[Campaign Notes/Chapter 0 - The Convergence\|Chapter 0 - The Convergence]] | Session 0 — "Something Woke Up." The night after Game 7. |
 | [[Homebrew Rules\|Homebrew Rules]] | Custom rules for rest, death, and Mighty Deeds. |
+
 
 ---
 
@@ -37,11 +37,11 @@
 | Faction | Description |
 |---------|-------------|
 | [[Factions/The Voices of Boston\|The Voices of Boston]] | Supernatural civic guardians — the Vox Libertas, Vox Concordia, Vox Innovatum |
-| [[Factions/The Cabal\|The Cabal]] | Boston elite who farmed the city's grief for profit and deliberately broke the Fey compact |
 | Harbor Dogs | South Boston motorcycle/longshoreman outfit (Pierre's people) |
-| Red Saints | Criminal enforcement arm of the Cabal; drowned Pierre, hunted Lee |
 | Grey Wolves | Quebec motorcycle club that sent Pierre south |
+| Red Saints | South Boston criminal organization |
 | The Paranormal Society | Amateur investigators (Leonard's people) |
+
 
 ---
 
