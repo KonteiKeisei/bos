@@ -28,7 +28,7 @@
 |------|-------------|
 | [[Campaign Notes/The Fenway Pact\|The Fenway Pact]] | The core truth — why Boston was "cursed," and how the compact was broken |
 | [[Campaign Notes/Chapter 0 - The Convergence\|Chapter 0 - The Convergence]] | Session 0 — "Something Woke Up." The night after Game 7. |
-| [[Campaign Notes/Homebrew Rules\|Homebrew Rules]] | Custom rules for rest, death, and Mighty Deeds. |
+| [[Homebrew Rules\|Homebrew Rules]] | Custom rules for rest, death, and Mighty Deeds. |
 
 ---
 
@@ -49,10 +49,9 @@
 
 ### Met by the Party
 
-| NPC | Role |
-|-----|------|
-| [[NPCs/The Grief-Eater\|The Grief-Eater]] | Chapter 0 antagonist — minor Fey entity that slipped through the crack |
-| [[Matty "The Eel" Callahan\|Matty "The Eel" Callahan]] | Harbor Dogs; Pierre's closest friend; secretly protecting him |
+| NPC                          | Role                                                                   |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| [[Matty "The Eel" Callahan\|Matty "The Eel" Callahan]] | Harbor Dogs; Pierre's closest friend; secretly protecting him          |
 
 ### Unseen (party has not yet met)
 
@@ -139,7 +138,7 @@ path:Sessions/
 
 ## Obsidian Setup
 
-See [[SETUP\|SETUP.md]] for theme, CSS snippet, and Templater configuration.
+See [[SETUP.md\|SETUP.md]] for theme, CSS snippet, and Templater configuration.
 
 **GM Obfuscation systems:**
 1. `> [!warning] GM Only` callouts — stripped from published Digital Garden
