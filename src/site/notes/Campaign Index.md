@@ -32,7 +32,7 @@ The city was built on wetlands, and the wetlands remember what this place was be
 Something older, something stranger, something that didn't entirely leave when the concrete came.
 
 Tonight, those seams are showing.
-Good for us the lanterns will soon be lit, and Bostons best are on the case.
+Good for us the lanterns will soon be lit, and Boston's best are on the case.
 
 Somewhere in a cramped apartment in Dorchester, a kid with homemade ghost-hunting equipment is packing up his gear and heading toward the harbor, chasing readings his instruments have never produced before. 
 Somewhere on a pier in South Boston, a man who drowned three minutes ago is still coughing up black water, trying to understand why he's alive. 
