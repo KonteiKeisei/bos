@@ -60,14 +60,14 @@ Something woke up.
 
 ## Player Characters
 
-| Character | Player | Class | Status |
-|-----------|--------|-------|--------|
-| [[Player Characters/Pierre-Jackson Laferrière\|Pierre-Jackson Laferrière]] | JoJo | Warlock 3 — Old Scituate / The Undertow | Awakened through near-death |
-| [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Aristenn | Artificer 3 — Inventor | Unawakened |
-| [[Player Characters/Jacques le Coq\|Jacques le Coq]] | Anthilz | Paladin 3 — Oath of the Ice | Awakened since birth |
-| [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] | Freight | Bard 3 — College of Lore | Newly Awakened |
-| [[Bohdan "Bo" Thorruk\|Bohdan "Bo" Thorruk]] | Tyler | Druid 3 — Circle of Spores | Awakened from birth |
-| [[Player Characters/Lee Smith\|Lee Smith]] | TBD | Rogue 3 — Soulknife | Newly Awakened |
+| Character                     | Player   | Class                                   | Status                      |
+| ----------------------------- | -------- | --------------------------------------- | --------------------------- |
+| [[Player Characters/Pierre-Jackson Laferrière\|Pierre-Jackson Laferrière]] | JoJo     | Warlock 3 — Old Scituate / The Undertow | Awakened through near-death |
+| [[Player Characters/Leonard Holloway\|Leonard Holloway]]          | Aristenn | Artificer 3 — Inventor                  | Unawakened                  |
+| [[Player Characters/Jacques le Coq\|Jacques le Coq]]            | Anthilz  | Paladin 3 — Oath of the Ice             | Awakened since birth        |
+| [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]]        | Freight  | Bard 3 — College of Lore                | Newly Awakened              |
+| [[Player Characters/Bohdan Thorruk\|Bohdan Thorruk]]            | Tyler    | Druid 3 — Circle of Spores              | Awakened from birth         |
+| [[Player Characters/Lee Smith\|Lee Smith]]                 | TBD      | Rogue 3 — Soulknife                     | Newly Awakened              |
 
 ---
 
