@@ -638,8 +638,8 @@ body::after {
   content:        "";
   position:       fixed;
   top:            0;
-  left:           -390px;  /* starts off-screen (wider bar needs more offset) */
-  width:          380px;
+  left:           -770px;  /* starts off-screen (wider bar needs more offset) */
+  width:          760px;
   height:         100%;
   pointer-events: none;
   z-index:        99998;
@@ -648,8 +648,8 @@ body::after {
   background: linear-gradient(
     to right,
     transparent                    0%,
-    oklch(100% 0 0 / 0.045)       35%,
-    oklch(100% 0 0 / 0.045)       65%,
+    oklch(100% 0 0 / 0.022)       35%,
+    oklch(100% 0 0 / 0.022)       65%,
     transparent                  100%
   );
 
@@ -661,9 +661,9 @@ body::after {
 @keyframes crt-sweep {
   0%    { transform: translateX(0);                     opacity: 0;   }
   2%    { transform: translateX(0);                     opacity: 1;   }
-  40%   { transform: translateX(calc(100vw + 420px));   opacity: 0.7; }
-  42%   { transform: translateX(calc(100vw + 420px));   opacity: 0;   }
-  100%  { transform: translateX(calc(100vw + 420px));   opacity: 0;   }
+  40%   { transform: translateX(calc(100vw + 800px));   opacity: 0.7; }
+  42%   { transform: translateX(calc(100vw + 800px));   opacity: 0;   }
+  100%  { transform: translateX(calc(100vw + 800px));   opacity: 0;   }
 }
 
 
