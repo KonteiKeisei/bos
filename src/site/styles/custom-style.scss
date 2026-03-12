@@ -743,7 +743,7 @@ main.content h3 {
     0.06rem 0 0.06rem oklch(65% 0.30 340 / 0.80),   /* pink/magenta */
    -0.10rem 0 0.06rem oklch(72% 0.28 148 / 0.80);   /* green        */
   animation:
-    crt-text-flicker 0.01s infinite alternate;
+    crt-text-flicker 0.02s infinite alternate;
 }
 
 /* Body text — subtler, same colours but dialled back */
@@ -756,7 +756,7 @@ main.content blockquote {
     0.04rem 0 0.04rem oklch(65% 0.30 340 / 0.50),
    -0.07rem 0 0.04rem oklch(72% 0.28 148 / 0.50);
   animation:
-    crt-text-flicker 0.01s infinite alternate;
+    crt-text-flicker 0.02s infinite alternate;
 }
 
 @keyframes crt-text-flicker {
