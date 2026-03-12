@@ -19,6 +19,16 @@
    SECTION 1 — LAYOUT
    ================================================================ */
 
+/* Overall page background — nearly achromatic dark */
+html, body {
+  background-color: oklch(16% 0.003 200) !important;
+}
+
+/* Main content column */
+main.content {
+  background-color: oklch(19% 0.003 200);
+}
+
 body {
   --dg-filetree-width:     280px;
   --dg-filetree-min-width: 220px;
@@ -154,11 +164,11 @@ body {
 :root {
   /* Panel backgrounds: Retroma dark computes ~oklch(24–32% 0.012 200)
      from --interactive-accent: #233D43 (oklch ≈ 27% 0.04 200) */
-  --rg-bg-base:    oklch(22% 0.015 200);   /* filetree background      */
-  --rg-bg-raised:  oklch(27% 0.018 200);   /* folder card background   */
-  --rg-bg-hover:   oklch(31% 0.020 200);   /* hover state              */
-  --rg-shadow:     oklch(13% 0.010 200);   /* 3D drop shadow           */
-  --rg-border:     oklch(42% 0.030 200);   /* groove border tone       */
+  --rg-bg-base:    oklch(22% 0.004 200);   /* filetree background      */
+  --rg-bg-raised:  oklch(27% 0.005 200);   /* folder card background   */
+  --rg-bg-hover:   oklch(31% 0.006 200);   /* hover state              */
+  --rg-shadow:     oklch(13% 0.003 200);   /* 3D drop shadow           */
+  --rg-border:     oklch(42% 0.012 200);   /* groove border tone       */
   --rg-text:       oklch(83% 0.010 200);   /* normal text              */
   --rg-text-muted: oklch(56% 0.010 200);   /* muted text               */
 
@@ -632,41 +642,6 @@ body::before {
 }
 
 
-/* ── Horizontal sweep — occasional vertical bar drifting left → right ── */
-
-body::after {
-  content:        "";
-  position:       fixed;
-  top:            0;
-  left:           -2290px;  /* starts off-screen (wider bar needs more offset) */
-  width:          2280px;
-  height:         100%;
-  pointer-events: none;
-  z-index:        99998;
-
-  /* Soft glowing bar */
-  background: linear-gradient(
-    to right,
-    transparent                    0%,
-    oklch(100% 0 0 / 0.022)       35%,
-    oklch(100% 0 0 / 0.022)       65%,
-    transparent                  100%
-  );
-
-  opacity:   0;
-  /* Sweep takes ~5.6s to cross; invisible for ~8.4s gap → fires every 14s */
-  animation: crt-sweep 14s linear infinite;
-}
-
-@keyframes crt-sweep {
-  0%    { transform: translateX(0);                     opacity: 0;   }
-  2%    { transform: translateX(0);                     opacity: 1;   }
-  40%   { transform: translateX(calc(100vw + 2300px));   opacity: 0.7; }
-  42%   { transform: translateX(calc(100vw + 2300px));   opacity: 0;   }
-  100%  { transform: translateX(calc(100vw + 2300px));   opacity: 0;   }
-}
-
-
 /* ================================================================
    GLITCH ARTIFACTS
    Two independent overlay layers on html::before / html::after.
@@ -698,7 +673,7 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
   /* frame 1: reddish band displaced right */
   91.5% {
     opacity:    1;
-    clip-path:  inset(18% 0 74% 0);
+    clip-path:  inset(18% 0 78% 0);
     background: oklch(65% 0.22 22 / 0.18);
     transform:  translateX(9px);
   }
@@ -706,7 +681,7 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
   /* frame 2: cyan band displaced left */
   92.5% {
     opacity:    1;
-    clip-path:  inset(62% 0 28% 0);
+    clip-path:  inset(62% 0 33% 0);
     background: oklch(72% 0.16 192 / 0.14);
     transform:  translateX(-6px);
   }
@@ -714,7 +689,7 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
   /* frame 3: brief white noise flash */
   93.5% {
     opacity:    1;
-    clip-path:  inset(35% 0 58% 0);
+    clip-path:  inset(35% 0 61% 0);
     background: oklch(100% 0 0 / 0.10);
     transform:  translateX(4px);
   }
@@ -732,7 +707,7 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
   /* frame 1: wide pale band */
   83.5% {
     opacity:    0.9;
-    clip-path:  inset(45% 0 47% 0);
+    clip-path:  inset(45% 0 51% 0);
     background: oklch(100% 0 0 / 0.07);
     transform:  translateX(14px);
   }
@@ -740,7 +715,7 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
   /* frame 2: green-tinted corruption */
   84.5% {
     opacity:    0.8;
-    clip-path:  inset(10% 0 82% 0);
+    clip-path:  inset(10% 0 86% 0);
     background: oklch(68% 0.18 145 / 0.12);
     transform:  translateX(-10px);
   }
