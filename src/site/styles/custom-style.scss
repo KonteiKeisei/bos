@@ -751,6 +751,54 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
 
 
 /* ================================================================
+   CRT TEXT CHROMATIC ABERRATION
+   Port of D3nn7/crt-css (+ Patrick Hlauke's CodePen).
+   Rapidly alternates a pink shadow right and a green shadow left,
+   simulating RGB phosphor misalignment on a physical CRT.
+   Applied to content body text + headings at different intensities.
+   Animation runs at 0.01s (near-frame-rate) in alternate direction
+   so the shift breathes between the two keyframe states.
+   ================================================================ */
+
+/* Headings — heavier shift, more noticeable aberration */
+main.content h1,
+main.content h2,
+main.content h3 {
+  text-shadow:
+    0.06rem 0 0.06rem oklch(65% 0.30 340 / 0.80),   /* pink/magenta */
+   -0.10rem 0 0.06rem oklch(72% 0.28 148 / 0.80);   /* green        */
+  animation:
+    crt-text-flicker 0.01s infinite alternate;
+}
+
+/* Body text — subtler, same colours but dialled back */
+main.content p,
+main.content li,
+main.content td,
+main.content th,
+main.content blockquote {
+  text-shadow:
+    0.04rem 0 0.04rem oklch(65% 0.30 340 / 0.50),
+   -0.07rem 0 0.04rem oklch(72% 0.28 148 / 0.50);
+  animation:
+    crt-text-flicker 0.01s infinite alternate;
+}
+
+@keyframes crt-text-flicker {
+  from {
+    text-shadow:
+       1px  0px 0px oklch(65% 0.30 340 / 0.75),
+      -2px  0px 0px oklch(72% 0.28 148 / 0.75);
+  }
+  to {
+    text-shadow:
+       2px  0.5px 2px oklch(65% 0.30 340 / 0.65),
+      -1px -0.5px 2px oklch(72% 0.28 148 / 0.65);
+  }
+}
+
+
+/* ================================================================
    IMAGE GLITCH EFFECT
    Every <img> inside the content area is wrapped in
    .glitch-wrap by userSetup.js Transform 4 at build time.
