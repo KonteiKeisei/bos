@@ -96,5 +96,36 @@ function userEleventySetup(eleventyConfig) {
 
 }
 
+  // ── Transform 3: OS Banner ────────────────────────────────────────────────────
+  //
+  // Injects a centred grooved pill banner at the very top of every content page:
+  //
+  //   ╭──────────────────────────────────╮
+  //   │    UNSLEEPING CITY BOSTON        │
+  //   │        HallowayOS v1.2           │
+  //   ╰──────────────────────────────────╯
+  //
+  // Inserted immediately after <main class="content ..."> so it appears above
+  // the <header> / inline-title block on every note and index page.
+
+  eleventyConfig.addTransform("os-banner", function(str, outputPath) {
+    if (!str) return str;
+    if (outputPath && !outputPath.endsWith(".html")) return str;
+
+    const banner =
+      `\n<div class="os-banner" aria-hidden="true">` +
+        `<span class="os-title">Unsleeping City Boston</span>` +
+        `<span class="os-subtitle">HallowayOS v1.2</span>` +
+      `</div>\n`;
+
+    // Insert right after the opening <main class="content ..."> tag
+    return str.replace(
+      /(<main[^>]+class="[^"]*\bcontent\b[^"]*"[^>]*>)/i,
+      `$1${banner}`
+    );
+  });
+
+}
+
 exports.userMarkdownSetup = userMarkdownSetup;
 exports.userEleventySetup = userEleventySetup;
