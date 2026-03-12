@@ -938,7 +938,7 @@ main.content::after {
 
 @keyframes typewriter {
   from { width: 0; }
-  to   { width: 100%; }
+  to   { width: var(--tw-w, max-content); }
 }
 
 @keyframes blinkTextCursor {
