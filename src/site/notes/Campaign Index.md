@@ -53,15 +53,6 @@
 | ---------------------------- | ---------------------------------------------------------------------- |
 | [[Matty "The Eel" Callahan\|Matty "The Eel" Callahan]] | Harbor Dogs; Pierre's closest friend; secretly protecting him          |
 
-### Unseen (party has not yet met)
-
-| NPC | Role |
-|-----|------|
-| [[NPCs/Vox Libertas — The Voice of Liberty\|Vox Libertas — The Voice of Liberty]] | Guardian of liberty; public identity: Dr. Richard Sparks |
-| [[NPCs/Vox Concordia — The Voice of Harmony\|Vox Concordia — The Voice of Harmony]] | Guardian of harmony |
-| [[NPCs/Vox Innovatum — The Voice of Innovation\|Vox Innovatum — The Voice of Innovation]] | Guardian of innovation; seeking a successor |
-| [[NPCs/Ray Rizzoldi\|Ray Rizzoldi]] | Bartender, Bull & Finch Pub; keeper of the ley line |
-| [[NPCs/Harold Whitmore\|Harold Whitmore]] | Red Sox minority owner; architect of the pact betrayal |
 
 ---
 
@@ -69,7 +60,7 @@
 
 ### Fenway & The Broken Compact
 
-- [[Locations/Fenway Park\|Fenway Park]] *(Site of the betrayal — the Green Monster stirs)*
+- [[Locations/Fenway Park\|Fenway Park]] 
 
 ### Historic & Civic
 
