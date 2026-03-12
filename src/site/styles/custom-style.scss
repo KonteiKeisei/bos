@@ -571,3 +571,52 @@ main.content > .retro-box:first-of-type {
   margin-top:     2px;
   line-height:    1.2;
 }
+
+
+/* ================================================================
+   CRT EFFECT — scanlines + vignette
+   body::before overlay: position fixed, z-index 99999,
+   pointer-events none — covers the full viewport without
+   blocking any clicks or interactions.
+
+   Two layers:
+     1. Vignette  — radial-gradient darkening the corners
+     2. Scanlines — 1px phosphor-glow row / 3px dark gap, drifting
+   ================================================================ */
+
+body::before {
+  content:        "";
+  position:       fixed;
+  inset:          0;
+  pointer-events: none;
+  z-index:        99999;
+
+  background-image:
+    /* Layer 1 — vignette: dark at corners, open in centre */
+    radial-gradient(
+      ellipse 110% 110% at 50% 50%,
+      transparent 40%,
+      oklch(4% 0.01 200 / 28%) 100%
+    ),
+    /* Layer 2 — scanlines: faint 1px phosphor glow every 4px */
+    repeating-linear-gradient(
+      to bottom,
+      oklch(100% 0 0 / 0.032) 0px,
+      oklch(100% 0 0 / 0.032) 1px,
+      transparent              1px,
+      transparent              4px
+    );
+
+  /* Vignette covers full viewport; scanlines tile at 4px */
+  background-size:     100% 100%, 100% 4px;
+  background-position: 0 0,       0 0;
+  background-repeat:   no-repeat, repeat;
+
+  /* Drift scanlines at ~1px/s — slow enough to be felt, not seen */
+  animation: crt-scanlines 40s linear infinite;
+}
+
+@keyframes crt-scanlines {
+  from { background-position: 0 0, 0 0;    }
+  to   { background-position: 0 0, 0 40px; }
+}
