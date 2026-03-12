@@ -638,8 +638,8 @@ body::after {
   content:        "";
   position:       fixed;
   top:            0;
-  left:           -770px;  /* starts off-screen (wider bar needs more offset) */
-  width:          760px;
+  left:           -2290px;  /* starts off-screen (wider bar needs more offset) */
+  width:          2280px;
   height:         100%;
   pointer-events: none;
   z-index:        99998;
@@ -661,9 +661,9 @@ body::after {
 @keyframes crt-sweep {
   0%    { transform: translateX(0);                     opacity: 0;   }
   2%    { transform: translateX(0);                     opacity: 1;   }
-  40%   { transform: translateX(calc(100vw + 800px));   opacity: 0.7; }
-  42%   { transform: translateX(calc(100vw + 800px));   opacity: 0;   }
-  100%  { transform: translateX(calc(100vw + 800px));   opacity: 0;   }
+  40%   { transform: translateX(calc(100vw + 2300px));   opacity: 0.7; }
+  42%   { transform: translateX(calc(100vw + 2300px));   opacity: 0;   }
+  100%  { transform: translateX(calc(100vw + 2300px));   opacity: 0;   }
 }
 
 
@@ -747,4 +747,110 @@ html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
 
   /* snap off */
   85% { opacity: 0; }
+}
+
+
+/* ================================================================
+   IMAGE GLITCH EFFECT
+   Every <img> inside the content area is wrapped in
+   .glitch-wrap by userSetup.js Transform 4 at build time.
+
+   The wrapper's ::before and ::after pseudo-elements overlay
+   the same image (CSS var --gi) and occasionally snap a
+   clip-path band sideways with a hue-rotation for a CRT
+   corruption look. A per-image delay (--gd) keeps glitches
+   from all firing in sync.
+   ================================================================ */
+
+.glitch-wrap {
+  position:    relative;
+  display:     inline-block;
+  overflow:    hidden;
+  line-height: 0;    /* collapse the inline gap under the img */
+}
+
+/* Images fill the wrapper */
+.glitch-wrap > img {
+  display: block;
+  width:   100%;
+  height:  auto;
+}
+
+/* Both pseudo-elements mirror the image via the --gi variable */
+.glitch-wrap::before,
+.glitch-wrap::after {
+  content:           "";
+  position:          absolute;
+  inset:             0;
+  background-image:  var(--gi);
+  background-size:   100% 100%;
+  background-repeat: no-repeat;
+  pointer-events:    none;
+  opacity:           0;
+  z-index:           2;
+}
+
+.glitch-wrap::before {
+  animation:       img-glitch-a 7s  step-end infinite;
+  animation-delay: var(--gd, 0s);
+}
+.glitch-wrap::after {
+  animation:       img-glitch-b 11s step-end infinite;
+  animation-delay: calc(var(--gd, 0s) + 2.5s);
+}
+
+/* ── Image glitch A: red / cyan RGB-split bands ── */
+@keyframes img-glitch-a {
+  0%, 88%, 100% { opacity: 0; }
+
+  /* frame 1 — reddish band right */
+  88.5% {
+    opacity:   1;
+    clip-path: inset(15% 0 78% 0);
+    transform: translateX(10px);
+    filter:    hue-rotate(80deg) saturate(2);
+  }
+
+  /* frame 2 — cyan band left */
+  89.5% {
+    opacity:   1;
+    clip-path: inset(58% 0 32% 0);
+    transform: translateX(-8px);
+    filter:    hue-rotate(-60deg) saturate(1.5);
+  }
+
+  /* frame 3 — white noise flash */
+  90% {
+    opacity:   1;
+    clip-path: inset(38% 0 55% 0);
+    transform: translateX(5px);
+    filter:    hue-rotate(180deg) brightness(1.4);
+  }
+
+  /* snap off */
+  90.5% { opacity: 0; }
+}
+
+/* ── Image glitch B: wide pale band + green corruption ── */
+@keyframes img-glitch-b {
+  0%, 82%, 100% { opacity: 0; }
+
+  /* frame 1 — pale wide band */
+  82.5% {
+    opacity:   0.9;
+    clip-path: inset(40% 0 50% 0);
+    transform: translateX(12px);
+    filter:    hue-rotate(30deg) brightness(1.3);
+  }
+
+  /* frame 2 — green corruption */
+  83.5% {
+    opacity:   0.8;
+    clip-path: inset(8% 0 85% 0);
+    transform: translateX(-9px);
+    filter:    hue-rotate(140deg) saturate(2);
+  }
+
+  /* snap off */
+  84% { opacity: 0; }
 }
