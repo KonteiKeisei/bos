@@ -924,3 +924,24 @@ main.content::after {
   /* snap off */
   84% { opacity: 0; }
 }
+
+
+/* ================================================================
+   TYPEWRITER HEADING ANIMATION
+   h2 and h3 inside main.content type in sequentially on page load.
+   Driven by userSetup.js Transform 5 which injects an inline
+   <script> to calculate per-heading step counts + cumulative delays.
+
+   border-right acts as the cursor — it sits at the element's right
+   edge and stays visible through overflow:hidden as width grows.
+   ================================================================ */
+
+@keyframes typewriter {
+  from { width: 0; }
+  to   { width: 100%; }
+}
+
+@keyframes blinkTextCursor {
+  from { border-right-color: oklch(73% 0.14 192 / 0.9); }
+  to   { border-right-color: transparent; }
+}
