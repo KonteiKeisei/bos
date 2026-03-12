@@ -445,6 +445,17 @@ main.content > header {
   padding: 0 !important;
 }
 
+/* Remove top padding/margin from .content so the OS banner sits flush at top */
+main.content {
+  padding-top: 0 !important;
+  margin-top:  0 !important;
+}
+
+/* Tighten the banner's own top margin */
+.os-banner {
+  margin-top: 4px !important;
+}
+
 /* First box directly after <header> — tighter top margin */
 main.content > .retro-box:first-of-type {
   margin-top: 8px;
@@ -627,8 +638,8 @@ body::after {
   content:        "";
   position:       fixed;
   top:            0;
-  left:           -220px;  /* starts off-screen */
-  width:          210px;
+  left:           -390px;  /* starts off-screen (wider bar needs more offset) */
+  width:          380px;
   height:         100%;
   pointer-events: none;
   z-index:        99998;
@@ -650,9 +661,9 @@ body::after {
 @keyframes crt-sweep {
   0%    { transform: translateX(0);                     opacity: 0;   }
   2%    { transform: translateX(0);                     opacity: 1;   }
-  40%   { transform: translateX(calc(100vw + 160px));   opacity: 0.7; }
-  42%   { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
-  100%  { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
+  40%   { transform: translateX(calc(100vw + 420px));   opacity: 0.7; }
+  42%   { transform: translateX(calc(100vw + 420px));   opacity: 0;   }
+  100%  { transform: translateX(calc(100vw + 420px));   opacity: 0;   }
 }
 
 
@@ -674,8 +685,8 @@ html::after {
   opacity:        0;
 }
 
-html::before { z-index: 99996; animation: glitch-a  8s step-end infinite; }
-html::after  { z-index: 99995; animation: glitch-b 13s step-end infinite; }
+html::before { z-index: 99996; animation: glitch-a  5s step-end infinite; }
+html::after  { z-index: 99995; animation: glitch-b  9s step-end infinite; }
 
 /* ── Glitch A: red/cyan channel-split band, fires every ~8s ── */
 @keyframes glitch-a {
