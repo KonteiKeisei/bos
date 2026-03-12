@@ -169,32 +169,42 @@ function userEleventySetup(eleventyConfig) {
     const script = `
 <script>
 (function () {
+  // Use Canvas API to measure the exact rendered pixel width of the
+  // heading text — scrollWidth/offsetWidth on block elements returns
+  // the full container width, not the text width.
+  function measureText(el) {
+    var cs  = window.getComputedStyle(el);
+    var cvs = document.createElement('canvas');
+    var ctx = cvs.getContext('2d');
+    ctx.font = cs.fontStyle + ' ' + cs.fontWeight + ' ' + cs.fontSize + ' ' + cs.fontFamily;
+    // textContent only — exclude the ::after underscore from measurement
+    return Math.ceil(ctx.measureText((el.textContent || '').trim()).width) + 6;
+  }
+
   function initTypewriter() {
     var headings = Array.from(
       document.querySelectorAll('main.content h2, main.content h3')
     );
-    var cumDelay = 0.25;
+    var cumDelay = 0.4; // seconds before first heading starts
 
     headings.forEach(function (h) {
       var len = (h.textContent || '').trim().length || 1;
-      var dur = Math.max(0.6, len * 0.07); // ~70ms per character
+      var dur = Math.max(1.0, len * 0.1); // 100ms per character
 
-      // ── Measure the heading's natural text width BEFORE clamping ──
-      // white-space:nowrap ensures it's on one line for measurement.
-      h.style.whiteSpace = 'nowrap';
-      var fullWidth = h.scrollWidth;
+      // Exact text width via canvas — stops cursor at the last character
+      var fullWidth = measureText(h);
       h.style.setProperty('--tw-w', fullWidth + 'px');
 
-      // ── Apply typewriter state ──
       h.style.overflow    = 'hidden';
+      h.style.whiteSpace  = 'nowrap';
       h.style.borderRight = '2px solid oklch(73% 0.14 192)';
       h.style.animation   = [
-        'typewriter '      + dur   + 's steps(' + len + ', end) ' + cumDelay + 's 1 both',
+        'typewriter '      + dur + 's steps(' + len + ', end) ' + cumDelay + 's 1 both',
         'blinkTextCursor 0.55s step-end ' + cumDelay + 's infinite',
         'crt-text-flicker 0.02s infinite alternate'
       ].join(', ');
 
-      // ── Clean up once this heading finishes typing ──
+      // Remove typewriter cursor once typing finishes; ::after underscore takes over
       (function (d, du) {
         setTimeout(function () {
           h.style.borderRight = 'none';
@@ -202,10 +212,10 @@ function userEleventySetup(eleventyConfig) {
           h.style.whiteSpace  = '';
           h.style.removeProperty('--tw-w');
           h.style.animation   = 'crt-text-flicker 0.02s infinite alternate';
-        }, (d + du + 0.15) * 1000);
+        }, (d + du + 0.2) * 1000);
       })(cumDelay, dur);
 
-      cumDelay += dur + 0.3;
+      cumDelay += dur + 0.4;
     });
   }
 
