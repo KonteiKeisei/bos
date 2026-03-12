@@ -27,6 +27,7 @@ html, body {
 /* Main content column */
 main.content {
   background-color: oklch(19% 0.003 200);
+  font-size: 1.3rem;   /* +30% base for all content text */
 }
 
 body {
@@ -527,7 +528,7 @@ main.content > .retro-box:first-of-type {
   margin-bottom: 8px;
   font-family: "W95font", ui-monospace, monospace;
   font-weight: bold;
-  font-size:   0.85rem;
+  font-size:   1.10rem;
   color:       var(--callout-color, var(--rc-cyan));
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -540,7 +541,7 @@ main.content > .retro-box:first-of-type {
 }
 
 .callout-content {
-  font-size: 0.88rem;
+  font-size: 1.14rem;
   color:     var(--rg-text);
   line-height: 1.6;
 }
@@ -575,7 +576,7 @@ main.content > .retro-box:first-of-type {
 
 .os-title {
   font-family:    "W95font", ui-monospace, monospace;
-  font-size:      1.05rem;
+  font-size:      1.37rem;
   font-weight:    bold;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -586,7 +587,7 @@ main.content > .retro-box:first-of-type {
 
 .os-subtitle {
   font-family:    "W95font", ui-monospace, monospace;
-  font-size:      0.68rem;
+  font-size:      0.88rem;
   letter-spacing: 0.08em;
   color:          var(--rg-text-muted);
   margin-top:     2px;
