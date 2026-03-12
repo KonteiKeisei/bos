@@ -5,7 +5,7 @@
 
 # Bohdan "Bo" Thorruk
 
-> [!infobox]
+> [!info] Character Image
 > ![Bo.webp|Bo|198](/img/user/Images/Player%20Characters/Bo.webp)
 
 > [!info] Character Summary
