@@ -787,16 +787,51 @@ main.content blockquote {
 
 .glitch-wrap {
   position:    relative;
-  display:     inline-block;
+  display:     block;
   overflow:    hidden;
-  line-height: 0;    /* collapse the inline gap under the img */
+  line-height: 0;
+  max-width:   500px;
 }
 
-/* Images fill the wrapper */
+/* Images fill the wrapper up to 500px */
 .glitch-wrap > img {
-  display: block;
-  width:   100%;
-  height:  auto;
+  display:   block;
+  width:     100%;
+  max-width: 500px;
+  height:    auto;
+}
+
+/* ── A retro-box containing an image floats right with text wrapping ── */
+.retro-box:has(.glitch-wrap) {
+  float:      right;
+  max-width:  520px;   /* 500px image + box padding */
+  width:      auto;
+  margin:     0 0 16px 28px !important;
+  clear:      right;
+}
+
+/* The box immediately after an image-box (e.g. Character Summary) also
+   floats right, stacking below the portrait */
+.retro-box:has(.glitch-wrap) + .retro-box {
+  float:      right;
+  max-width:  520px;
+  width:      auto;
+  margin:     0 0 16px 28px !important;
+  clear:      right;
+}
+
+/* Don't double-float the glitch-wrap inside its already-floating box */
+.retro-box:has(.glitch-wrap) .glitch-wrap {
+  float:     none;
+  max-width: 100%;
+  margin:    0;
+}
+
+/* Clearfix on the content area so it stretches past the floats */
+main.content::after {
+  content: "";
+  display: table;
+  clear:   both;
 }
 
 /* Both pseudo-elements mirror the image via the --gi variable */
