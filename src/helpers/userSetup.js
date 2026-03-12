@@ -104,8 +104,8 @@ function userEleventySetup(eleventyConfig) {
 
     const banner =
       `\n<div class="os-banner" aria-hidden="true">` +
-        `<span class="os-title">Unsleeping City Boston</span>` +
-        `<span class="os-subtitle">HallowayOS v1.2</span>` +
+        `<span class="os-title">Digital Archival Assistant</span>` +
+        `<span class="os-subtitle">HollowayOS v1.3</span>` +
       `</div>\n`;
 
     return str.replace(
