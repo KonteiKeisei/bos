@@ -7,45 +7,51 @@
 
 ## Campaign Opening
 
-It is Octobah 1986, and Boston is bleeding.
+It is October 1986, and Boston is bleeding.
 
-Not from a wound you can see. Not from anything a doctah could diagnose or a politician could address. 
-The Red Sox lost the Wuhld Series fah nights ago—lost it in a way so precise, so perfectly agonizing, that even the people who've been watching this team break hahts fah fohty yeahs ah speechless. 
-Bill Bucknah's erruh. The ball rolling through his legs in the bottom of the tenth. A city that had held its breath fah decades finally let it out—and what came out wasn't a cheer. 
-It was something oldah than that. Something that tasted like it had been waiting.
+Not from a wound you can see. Not from anything a doctor could diagnose or a politician could address. The Red Sox lost the World Series four nights ago, lost it in a way so precise, so perfectly agonizing, that even the people who've been watching this team break hearts for forty years are speechless. 
+Bill Buckner's error. The ball rolling through his legs in the bottom of the tenth. A city that had held its breath for decades finally let it out, and what came out wasn't a cheer. It was something older than that. 
 
-But this is Boston. This city has always known how to suffah beautifully.
+But this is Boston, and this city has always known how to suffer beautifully.
 
-Drive through it tonight and you'll see what I mean. Past the bahs in Southie where men ah still nursing the same drink they ordahed fah nights ago, staring at TVs that have moved on to football. 
-Past Fenway Pahk, sitting dahk and enormous in the Fenway neighborhood, the left field wall looming ovah Lansdowne Street like it's listening. 
-Past the hahbah, where Portuguese fishahmen have been crossing themselves at the wrong tides and pulling up nets full of things that don't have names. 
-Up through Beacon Hill, where old money sits in old houses and pretends not to notice that the flowas ah still blooming in Octobah—that something in the soil of this city refuses to accept that the season has tuned. 
-Down into the subway, where the Green Line rattles and shudduhs and the buskuhs play against the cold and every face you see cahries the specific exhaustion of people who expected something and didn't get it.
+Drive through it tonight and you'll see what I mean. 
+Past the bars in Southie where men are still nursing the same drink they ordered three hours ago, staring at TVs that have moved on to football. 
+Past Fenway Park, sitting dark and enormous in the Fenway neighborhood, the left field wall looming over Lansdowne Street like a monument to failure. 
+Past the harbor, where Portuguese fishermen have been crossing themselves at the wrong tides and pulling up nets full of things that don't have names. 
+Up through Beacon Hill, where old money sits in old houses and pretends not to notice that the flowers are still blooming in October
+And down into the subway, where the Green Line rattles and shudders and the buskers play against the cold and every face you see carries the specific exhaustion of people who expected something and didn't get it.
 
-Because here's what you need to undahstand about Boston: this city has always believed it was cuhsed.
+You see, here's what you need to understand about Boston: this city has always believed it was cursed.
 
-Maybe that's true. Maybe it isn't. But something is wrong tonight—wrong in a way that goes deepah than a lost baseball game. The hahbah is too cold. 
-The flowas ah too alive. The old neighborhoods feel too heavy, like they're pressing down on something that's been buried a long time and is no longah content to stay that way.
+Maybe that's true. Maybe it isn't. But something is wrong tonight...
+The harbor is too cold. The flowers are too alive. The old neighborhoods feel too heavy, like they're pressing down on something that's been buried a long time and is no longer content to stay that way.
 
-This is an Unsleeping City—a place where the magical wuhld and the ordinary wuhld have always been closah than they should be. Where the people who know how to look can see the seams. 
-Boston has always been one of those places. The hahbah remembahs things. The old neighborhoods cahry history that goes deepah than brick and mohtah. 
-The city was built on wetlands, and the wetlands remembah what this place was before it was a city—something oldah, something strangah, something that didn't entirely leave when the concrete came.
+This is an Unsleeping City, a place where the magical world and the ordinary world have always been closer than they should be. 
+Where the people who know how to look can see the seams. Boston has always been one of those places.  
+The city was built on wetlands, and the wetlands remember what this place was before it was a city.
+Something older, something stranger, something that didn't entirely leave when the concrete came.
 
-Tonight, those seams ah showing.
+Tonight, those seams are showing.
+Good for us the lanterns will soon be lit, and Bostons best are on the case.
 
-Somewhere in a cramped apahtment in Dorcheshtah, a kid with homemade ghost-hunting equipment is packing up his gear and heading toward the hahbah, chasing readings his instruments have nevah produced before. 
-Somewhere on a pier in South Boston, a man who drowned three days ago is still coughing up black watah, trying to undahstand why he's alive. 
-Somewhere near Nohth Station, a hockey enforcah from Montreal is walking through streets that feel coldah than they should—not weathah-cold, but *wrong-cold*—and the ice is whispering to him in a language he almost recognizes. 
-A reportah is following a dead man's trail toward the watahfront. An orc mycologist is watching impossible fungi consume a gahbage truck. A thief from Baltimore is running out of places to run.
+Somewhere in a cramped apartment in Dorchester, a kid with homemade ghost-hunting equipment is packing up his gear and heading toward the harbor, chasing readings his instruments have never produced before. 
+Somewhere on a pier in South Boston, a man who drowned three minutes ago is still coughing up black water, trying to understand why he's alive. 
+Somewhere near North Station, a hockey enforcer from Montreal is walking through streets that feel colder than they should.
+A reporter is following a dead man's trail toward the waterfront. 
+An orc garbageman is watching impossible fungi consume a garbage truck. 
+An unlucky thief from Baltimore is running out of places to run.
 
-They don't know each othah yet.
+They don't know each other yet.
+
 They will by dawn.
-Because tonight, on the night Boston's haht broke in the most spectacular fashion in living memory, something in the deep places of this city decided to wake up. 
-And the people with the right kind of eyes—the ones who can see what's hiding just beneath the surface of the ordinary wuhld—ah being pulled toward the hahbah like the tide.
 
-In the distance, ovah Spectacle Island, the watah is glowing green.
+Because tonight, something in the deep places of this city decided to wake up. And the people with the right kind of eyes, the ones who can see what's hiding just beneath the surface of the ordinary world, are being pulled toward the harbor like the tide.
 
-*Something is wakin up.*
+In the distance, over Spectacle Island, the water is glowing green.
+
+Something woke up.
+
+![[music/BahstunIsBleeding.mp3]]
 
 ---
 
