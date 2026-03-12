@@ -627,8 +627,8 @@ body::after {
   content:        "";
   position:       fixed;
   top:            0;
-  left:           -80px;   /* starts off-screen */
-  width:          70px;
+  left:           -220px;  /* starts off-screen */
+  width:          210px;
   height:         100%;
   pointer-events: none;
   z-index:        99998;
@@ -636,10 +636,10 @@ body::after {
   /* Soft glowing bar */
   background: linear-gradient(
     to right,
-    transparent                   0%,
-    oklch(100% 0 0 / 0.09)       35%,
-    oklch(100% 0 0 / 0.09)       65%,
-    transparent                 100%
+    transparent                    0%,
+    oklch(100% 0 0 / 0.045)       35%,
+    oklch(100% 0 0 / 0.045)       65%,
+    transparent                  100%
   );
 
   opacity:   0;
