@@ -5,7 +5,51 @@
 
 # Unsleeping City: Boston — Campaign Index
 
-> *Boston, Late October 1986. The Red Sox lost the World Series. Something cracked. Something woke up.*
+## Campaign Opening
+
+It is Octobah 1986, and Boston is bleeding.
+
+Not from a wound you can see. Not from anything a doctah could diagnose or a politician could address. 
+The Red Sox lost the Wuhld Series fah nights ago—lost it in a way so precise, so perfectly agonizing, that even the people who've been watching this team break hahts fah fohty yeahs ah speechless. 
+Bill Bucknah's erruh. The ball rolling through his legs in the bottom of the tenth. A city that had held its breath fah decades finally let it out—and what came out wasn't a cheer. 
+It was something oldah than that. Something that tasted like it had been waiting.
+
+But this is Boston. This city has always known how to suffah beautifully.
+
+Drive through it tonight and you'll see what I mean. Past the bahs in Southie where men ah still nursing the same drink they ordahed fah nights ago, staring at TVs that have moved on to football. 
+Past Fenway Pahk, sitting dahk and enormous in the Fenway neighborhood, the left field wall looming ovah Lansdowne Street like it's listening. 
+Past the hahbah, where Portuguese fishahmen have been crossing themselves at the wrong tides and pulling up nets full of things that don't have names. 
+Up through Beacon Hill, where old money sits in old houses and pretends not to notice that the flowas ah still blooming in Octobah—that something in the soil of this city refuses to accept that the season has tuned. 
+Down into the subway, where the Green Line rattles and shudduhs and the buskuhs play against the cold and every face you see cahries the specific exhaustion of people who expected something and didn't get it.
+
+Because here's what you need to undahstand about Boston: this city has always believed it was cuhsed.
+
+Maybe that's true. Maybe it isn't. But something is wrong tonight—wrong in a way that goes deepah than a lost baseball game. The hahbah is too cold. 
+The flowas ah too alive. The old neighborhoods feel too heavy, like they're pressing down on something that's been buried a long time and is no longah content to stay that way.
+
+This is an Unsleeping City—a place where the magical wuhld and the ordinary wuhld have always been closah than they should be. Where the people who know how to look can see the seams. 
+Boston has always been one of those places. The hahbah remembahs things. The old neighborhoods cahry history that goes deepah than brick and mohtah. 
+The city was built on wetlands, and the wetlands remembah what this place was before it was a city—something oldah, something strangah, something that didn't entirely leave when the concrete came.
+
+Tonight, those seams ah showing.
+
+Somewhere in a cramped apahtment in Dorcheshtah, a kid with homemade ghost-hunting equipment is packing up his gear and heading toward the hahbah, chasing readings his instruments have nevah produced before. 
+Somewhere on a pier in South Boston, a man who drowned three days ago is still coughing up black watah, trying to undahstand why he's alive. 
+Somewhere near Nohth Station, a hockey enforcah from Montreal is walking through streets that feel coldah than they should—not weathah-cold, but *wrong-cold*—and the ice is whispering to him in a language he almost recognizes. 
+A reportah is following a dead man's trail toward the watahfront. An orc mycologist is watching impossible fungi consume a gahbage truck. A thief from Baltimore is running out of places to run.
+
+They don't know each othah yet.
+They will by dawn.
+Because tonight, on the night Boston's haht broke in the most spectacular fashion in living memory, something in the deep places of this city decided to wake up. 
+And the people with the right kind of eyes—the ones who can see what's hiding just beneath the surface of the ordinary wuhld—ah being pulled toward the hahbah like the tide.
+
+In the distance, ovah Spectacle Island, the watah is glowing green.
+
+*Something is wakin up.*
+
+---
+
+*Tags: #campaign-intro #season-1 #the-stolen-october #read-aloud*
 
 ---
 
@@ -31,83 +75,5 @@
 
 ---
 
-## Factions
-
-| Faction | Description |
-|---------|-------------|
-| [[Factions/The Voices of Boston\|The Voices of Boston]] | Supernatural civic guardians — the Vox Libertas, Vox Concordia, Vox Innovatum |
-| Harbor Dogs | South Boston motorcycle/longshoreman outfit (Pierre's people) |
-| Grey Wolves | Quebec motorcycle club that sent Pierre south |
-| Red Saints | South Boston criminal organization |
-| The Paranormal Society | Amateur investigators (Leonard's people) |
-
-
----
-
-## Key NPCs
-
-### Met by the Party
-
-| NPC                          | Role                                             |
-| ---------------------------- | ------------------------------------------------ |
-
-
-
----
-
-## Locations
-
-### Stadiums & Venues
-
-- [[Locations/Fenway Park\|Fenway Park]]
-
-### Historic & Civic
-
-- [[Locations/Boston Common\|Boston Common]]
-- [[Locations/Faneuil Hall\|Faneuil Hall]]
-- [[Locations/Paul Revere House\|Paul Revere House]]
-- [[Locations/Old State House\|Old State House]]
-- [[Locations/Massachusetts State House\|Massachusetts State House]]
-- [[Locations/Old North Church\|Old North Church]]
-- [[Locations/USS Constitution\|USS Constitution]]
-
-### Culture & Arts
-
-- [[Locations/Boston Public Library\|Boston Public Library]]
-- [[Locations/Isabella Stewart Gardner Museum\|Isabella Stewart Gardner Museum]]
-- [[Locations/Museum of Fine Arts (MFA)\|Museum of Fine Arts (MFA)]]
-- [[Locations/Museum of Science\|Museum of Science]]
-- [[Locations/New England Aquarium\|New England Aquarium]]
-- [[Locations/The Arnold Arboretum\|The Arnold Arboretum]]
-- [[Locations/Boston Public Garden\|Boston Public Garden]]
-
-### Music & Nightlife
-
-- [[Locations/The Rathskeller (The Rat)\|The Rathskeller (The Rat)]]
-- [[Locations/The Channel Nightclub\|The Channel Nightclub]]
-- [[Locations/The Metro Nightclub\|The Metro Nightclub]]
-
-### Architecture & Skyline
-
-- [[Locations/Prudential Tower\|Prudential Tower]]
-- [[Locations/John Hancock Tower\|John Hancock Tower]]
-
-### Press & Media
-
-- [[Locations/The Boston Globe\|The Boston Globe]]
-
-### Bars & Social
-
-- [[Locations/Bull and Finch Pub\|Bull and Finch Pub]] *("Cheers" bar)*
-
----
-
-## Key Items
-
-| Item | Holder | Notes |
-|------|--------|-------|
-| The Dreamer's Eye | [[Player Characters/Lee Smith\|Lee Smith]] | Stolen from Marcus Covington; allows Covington to see through it |
-
----
 
 
