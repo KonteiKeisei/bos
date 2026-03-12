@@ -945,3 +945,25 @@ main.content::after {
   from { border-right-color: oklch(73% 0.14 192 / 0.9); }
   to   { border-right-color: transparent; }
 }
+
+/* ================================================================
+   PERSISTENT HEADING CURSOR
+   Blinking underscore after every h2/h3.
+   During the typewriter animation overflow:hidden clips it so the
+   border-right cursor is what shows; once typing finishes and JS
+   restores overflow the underscore takes over automatically.
+   ================================================================ */
+
+main.content h2::after,
+main.content h3::after {
+  content:     '_';
+  margin-left: 0.15em;
+  color:       var(--rc-cyan);
+  font-weight: normal;
+  animation:   heading-cursor 0.8s step-end infinite;
+}
+
+@keyframes heading-cursor {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0; }
+}
