@@ -58,9 +58,9 @@
 
 ## Locations
 
-### Fenway & The Broken Compact
+### Stadiums & Venues
 
-- [[Locations/Fenway Park\|Fenway Park]] 
+- [[Locations/Fenway Park\|Fenway Park]]
 
 ### Historic & Civic
 

@@ -7,65 +7,36 @@
 
 > [!info] Location Summary
 > **District / Neighborhood:** Fenway-Kenmore
-> **Type:** Baseball Stadium / Fey Liminal Site
+> **Type:** Baseball Stadium
 > **Era:** 1986
-> **Status:** Mundane & Deeply Magical — site of the broken compact
+> **Status:** Home of the Boston Red Sox — and the worst night in Boston sports history
 
 ## Description
 
 ![Fenway Park.webp|Fenway Park|500](/img/user/Images/Locations/Fenway%20Park.webp)
 
-Home of the Boston Red Sox since 1912. In the 1980s, the park saw physical renovations — first luxury boxes in 1982, Yaz Day (Carl Yastrzemski's farewell, 1983), Roger Clemens striking out 20 Seattle Mariners in a single game (1986).
+Home of the Boston Red Sox since 1912. One of the oldest and most storied ballparks in America. In the 1980s, the park saw physical renovations — first luxury boxes in 1982, Yaz Day (Carl Yastrzemski's farewell, 1983), Roger Clemens striking out 20 Seattle Mariners in a single game (1986).
 
-And then October 25, 1986: the most consequential moment in the park's hidden history, and the worst night in its public one.
-
----
-
-## The Fey History of Fenway
-
-**The Back Fenn.**
-
-The site now occupied by Fenway Park was once the **Back Fenn** — a liminal wetland where the Material Plane pressed thin against the Feywild. This was not incidental. The land was chosen because it was already a place of intersection, where mortal grief and Fey hunger could naturally feed one another.
-
-When Fenway Park was built in **1912**, its ownership allowed the Fey to operate within the park's boundaries — an informal permission that established the relationship.
-
-**The Compact of 1926.**
-
-After the sale of Babe Ruth, a formal compact was sealed with both the **Winter Court** and the **Summer Court**. For sixty years, the Red Sox would be shaped by the park's magic — victory remaining just out of reach, the city suffering but caring deeply. In the sixtieth year (1986), Boston was meant to win. The Fey would revel. The debt would be paid.
-
-**The Betrayal.**
-
-On **October 25, 1986**, the compact was broken. The sixty-year debt was repudiated. In Fey culture, this is a capital crime.
-
-The concentrated grief of 40+ years of Red Sox heartbreak — focused and amplified in one night — cracked the veil. The Grief-Eater slipped through that crack.
-
->
-> See: [[Campaign Notes/The Fenway Pact\|The Fenway Pact]], [[Factions/The Cabal\|The Cabal]]
+And then October 25, 1986.
 
 ---
 
 ## History
 
-Opened 1912. One of the oldest and most storied ballparks in America. Built on the Back Fenn, a former wetland with Fey significance predating European settlement.
+Opened 1912. Built on a former wetland in the Fenway-Kenmore neighborhood — the Back Bay Fens, or the "Back Fenn" as older locals sometimes call it. The park has seen decades of near-misses, legendary players, and heartbreak that has become almost mythological in this city.
+
+The 1986 World Series was supposed to be the year. The Red Sox were one strike away from ending sixty-seven years of drought.
+
+Bill Buckner let the ball roll through his legs.
 
 ---
 
 ## Key Features
 
-- **The Green Monster** *(37-foot left field wall)* — not merely paint and tin. Something is behind it, and it is waking up.
-- Pesky's Pole
-- Manual scoreboard
-- The Fens beyond the outfield — a remnant of the original wetland; still thin in places
-
----
-
-## Magical Significance
-
-Fenway Park is one of the most magically significant sites in Boston — a formal meeting point of mortal and Fey power for six decades. The compact's breaking has not severed that significance; it has *inverted* it. The park was a place of deliberate, contained Fey influence. Now it is a wound.
-
-Something stirs beneath the left-field wall. The veil here is thin — thinner than it has been in decades.
-
-Both Courts are watching this park.
+- **The Green Monster** *(37-foot left field wall)* — the most iconic feature of the park. Painted green. Manual scoreboard. Something Boston.
+- **Pesky's Pole** — the right field foul pole, famously close
+- **Manual scoreboard** — operated by hand from inside the wall
+- **The Fens** — the wetland parkland beyond the outfield, remnant of the original marshland
 
 ---
 
@@ -75,18 +46,34 @@ Both Courts are watching this park.
 
 | Name | Role |
 |------|------|
-| The Green Monster | Something behind the left-field wall |
 | Harold Whitmore | Red Sox minority owner |
-
 
 ---
 
 ## GM Notes
 
 >
-> The Green Monster is NOT a villain. It is a creature of joy that was denied its purpose. It has been holding Summer Court's celebratory energy for weeks with nowhere to channel it, and it is breaking under the strain. The party's options:
-> - Destroy it (satisfies Winter Court; enrages Summer further)
-> - Find a way to give it the victory it was promised — symbolically, magically, or through some form of ritual acknowledgment — to pacify Summer Court
-> - Neither approach fully resolves both Courts; some negotiation with each will still be required
+> The site of Fenway Park was once the **Back Fenn** — a liminal wetland where the Material Plane pressed thin against the Feywild. When the park was built in 1912, its ownership allowed the Fey to operate within the park's boundaries — an informal permission. In 1926, this became a formal compact with both the **Winter Court** and the **Summer Court**: sixty years of near-miss seasons, grief harvested, magic channeled. In the sixtieth year (1986), Boston was meant to win. The debt would be paid.
 >
-> The veil at Fenway remains thin. The park is the most accessible point for Fey Court contact in either direction.
+> The compact was deliberately broken. The betrayal was arranged and paid for. Bill Buckner did not fumble on his own.
+>
+> In Fey culture, this is a capital crime.
+>
+> The concentrated grief of forty-plus years — focused and amplified in one night — cracked the veil. The Grief-Eater slipped through that crack.
+>
+> See: [[Campaign Notes/The Fenway Pact\|The Fenway Pact]], [[Factions/The Cabal\|The Cabal]]
+
+>
+> Not paint and tin. The Green Monster is the housing of a **Summer Court titan** — a creature of joy that slept beneath the left-field wall for sixty years, waiting for its night of celebration. It was denied that night. It is not sleeping now. It is waking in anguish, and the Summer Court's suppressed celebratory energy has nowhere to go.
+>
+> The Green Monster is **not a villain**. It is suffering. The party's options:
+> - Destroy it (satisfies Winter Court; enrages Summer further)
+> - Find a way to give it the victory it was promised — symbolically, magically, or through ritual acknowledgment — to pacify Summer Court
+> - Neither approach fully resolves both Courts; negotiation with each will still be required
+>
+> Its emergence is the campaign's central physical crisis — Chapter 4 or earlier.
+
+>
+> Minority owner of the Red Sox. Architect of the 1986 betrayal. He arranged and funded the deliberate breaking of the compact, knowing full well what he was doing. He is a senior member of The Cabal.
+>
+> The veil at Fenway remains the thinnest point in Boston. The park is the most accessible location for Fey Court contact in either direction. Both Courts are watching it.
