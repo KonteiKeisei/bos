@@ -21,11 +21,11 @@ Each Voice operates publicly under a mundane identity while secretly fulfilling 
 
 ## The Voices (1986)
 
-| Voice | Title | Bearer | Cover Identity |
-|-------|-------|--------|---------------|
-| [[Benjamin Franklin (Dr. Richard Sparks)\|Benjamin Franklin (Dr. Richard Sparks)]] | Vox Libertas — Voice of Liberty | Benjamin Franklin | Dr. Richard Sparks (academic & inventor) |
-| [[Leonard Nimoy (Vox Concordia)\|Leonard Nimoy (Vox Concordia)]] | Vox Concordia — Voice of Harmony | Leonard Nimoy | Himself (celebrity / Boston native) |
-| [[Buzz Aldrin (Vox Innovatum)\|Buzz Aldrin (Vox Innovatum)]] | Vox Innovatum — Voice of Innovation | Buzz Aldrin | Himself (astronaut / MIT graduate) |
+| Voice | Title                               | Bearer            | Cover Identity                      |
+| ----- | ----------------------------------- | ----------------- | ----------------------------------- |
+|       | Vox Libertas — Voice of Liberty     | Benjamin Franklin | Dr. Richard Sparks                  |
+|       | Vox Concordia — Voice of Harmony    | Leonard Nimoy     | Himself (celebrity / Boston native) |
+|       | Vox Innovatum — Voice of Innovation | Buzz Aldrin       | Himself ( MIT graduate)             |
 
 ---
 
@@ -33,7 +33,6 @@ Each Voice operates publicly under a mundane identity while secretly fulfilling 
 
 The eternal guardian of liberty and justice across both the magical and mundane dimensions of the city. Intervenes whenever freedom is threatened — by tyranny, coercion, supernatural domination, or the quiet erosion of civil rights. The spirit of Boston's rebellion, dissent, and independence made manifest.
 
-*Current Bearer: Benjamin Franklin (as Dr. Richard Sparks)*
 
 ---
 
@@ -41,7 +40,6 @@ The eternal guardian of liberty and justice across both the magical and mundane 
 
 Guardian of harmony and unity among the city's diverse communities. Maintains balance between the magical and mundane realms. Defends the city's vibrant mix of cultures and traditions, promotes integration and understanding, and fosters mutual respect among ethnic and magical groups.
 
-*Current Bearer: Leonard Nimoy*
 
 ---
 
@@ -49,7 +47,6 @@ Guardian of harmony and unity among the city's diverse communities. Maintains ba
 
 Embodies invention, intellect, and the relentless pursuit of progress. Represents the creative spirit that drives humanity to push beyond its limits. Deeply tied to MIT and the broader culture of intellectual achievement in Boston and Cambridge.
 
-*Current Bearer: Buzz Aldrin*
 
 ---
 
