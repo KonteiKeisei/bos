@@ -82,7 +82,7 @@ body {
 /* Sidebar links + headings match the retro palette */
 .sidebar-container {
   font-family: "W95font", ui-monospace, monospace;
-  font-size:   0.78rem;
+  font-size:   1.01rem;
 }
 
 .sidebar-container a {
@@ -96,7 +96,7 @@ body {
 
 .sidebar h1, .sidebar h2, .sidebar h3 {
   font-family:    "W95font", ui-monospace, monospace;
-  font-size:      0.80rem;
+  font-size:      1.04rem;
   color:          var(--rg-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -201,7 +201,7 @@ body {
 .filetree-sidebar {
   /* W95font is declared by the Retroma theme.css fetched via cssUrl */
   font-family: "W95font", ui-monospace, "Cascadia Code", monospace !important;
-  font-size:   0.80rem;
+  font-size:   1.04rem;
   color:       var(--rg-text-muted);
   background-color: var(--rg-bg-base);
   padding: 10px 8px !important;
@@ -277,7 +277,7 @@ body {
 .foldername {
   font-family:    "W95font", ui-monospace, monospace;
   font-weight:    bold;
-  font-size:      0.80rem;
+  font-size:      1.04rem;
   color:          var(--folder-color, var(--rc-cyan));
   letter-spacing: 0.02em;
   display:        inline;
@@ -366,7 +366,7 @@ body {
   border: 1px solid oklch(42% 0.020 200 / 60%);
   background-color: oklch(24% 0.015 200 / 70%);
   font-family: "W95font", ui-monospace, monospace;
-  font-size: 0.77rem;
+  font-size: 1.00rem;
   color: var(--rg-text);
   text-decoration: none !important;
   line-height: 1.5;
@@ -622,8 +622,8 @@ body::before {
     /* Layer 2 — scanlines: 1px phosphor glow every 4px */
     repeating-linear-gradient(
       to bottom,
-      oklch(100% 0 0 / 0.07) 0px,
-      oklch(100% 0 0 / 0.07) 1px,
+      oklch(100% 0 0 / 0.03) 0px,
+      oklch(100% 0 0 / 0.03) 1px,
       transparent             1px,
       transparent             4px
     );
