@@ -24,10 +24,9 @@
 
 ## Campaign Notes
 
-| File | Description |
-|------|-------------|
-| [[Campaign Notes/Chapter 0 - The Convergence\|Chapter 0 - The Convergence]] | Session 0 — "Something Woke Up." The night after Game 7. |
-| [[Homebrew Rules\|Homebrew Rules]] | Custom rules for rest, death, and Mighty Deeds. |
+| File                            | Description                                              |
+| ------------------------------- | -------------------------------------------------------- |
+| [[Homebrew Rules\|Homebrew Rules]]              | Custom rules for rest, death, and Mighty Deeds.          |
 
 
 ---
@@ -111,29 +110,4 @@
 
 ---
 
-## Graph View Tips
 
-To keep the graph readable, **exclude Sessions** from the filter:
-```
-path:Sessions/
-```
-
-**Link hierarchy:**
-- Location files → other locations or organizations only
-- Organization files → member characters
-- Character files → their items
-- Session files → excluded from graph (can link freely)
-- Location Key NPCs → plain text only (no wikilinks)
-
----
-
-## Obsidian Setup
-
-See [[SETUP.md\|SETUP.md]] for theme, CSS snippet, and Templater configuration.
-
-**GM Obfuscation systems:**
-1. `> [!warning] GM Only` callouts — stripped from published Digital Garden
-2. `unseen-npc` frontmatter on unmet NPC notes — darkens portrait images
-3. Images in `Images/` subfolder (see SETUP.md for processing specs)
-
-To **reveal an NPC** (party has met them): change `dg-publish: false` → `true`, remove `dg-content-classes`, `cssclasses`, and `tags: [unseen]`.
