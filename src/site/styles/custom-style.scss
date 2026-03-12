@@ -27,7 +27,7 @@ html, body {
 /* Main content column */
 main.content {
   background-color: oklch(19% 0.003 200);
-  font-size: 1.3rem;   /* +30% base for all content text */
+  font-size: 1.5rem;   /* +50% base for all content text */
 }
 
 body {
@@ -528,7 +528,7 @@ main.content > .retro-box:first-of-type {
   margin-bottom: 8px;
   font-family: "W95font", ui-monospace, monospace;
   font-weight: bold;
-  font-size:   1.10rem;
+  font-size:   1.27rem;
   color:       var(--callout-color, var(--rc-cyan));
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -541,7 +541,7 @@ main.content > .retro-box:first-of-type {
 }
 
 .callout-content {
-  font-size: 1.14rem;
+  font-size: 1.32rem;
   color:     var(--rg-text);
   line-height: 1.6;
 }
@@ -576,7 +576,7 @@ main.content > .retro-box:first-of-type {
 
 .os-title {
   font-family:    "W95font", ui-monospace, monospace;
-  font-size:      1.37rem;
+  font-size:      1.58rem;
   font-weight:    bold;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -587,7 +587,7 @@ main.content > .retro-box:first-of-type {
 
 .os-subtitle {
   font-family:    "W95font", ui-monospace, monospace;
-  font-size:      0.88rem;
+  font-size:      1.00rem;
   letter-spacing: 0.08em;
   color:          var(--rg-text-muted);
   margin-top:     2px;
@@ -741,8 +741,8 @@ main.content h1,
 main.content h2,
 main.content h3 {
   text-shadow:
-    0.06rem 0 0.06rem oklch(65% 0.30 340 / 0.80),   /* pink/magenta */
-   -0.10rem 0 0.06rem oklch(72% 0.28 148 / 0.80);   /* green        */
+    0.05rem 0 0.05rem oklch(65% 0.30 340 / 0.64),   /* pink/magenta */
+   -0.08rem 0 0.05rem oklch(72% 0.28 148 / 0.64);   /* green        */
   animation:
     crt-text-flicker 0.02s infinite alternate;
 }
@@ -754,8 +754,8 @@ main.content td,
 main.content th,
 main.content blockquote {
   text-shadow:
-    0.04rem 0 0.04rem oklch(65% 0.30 340 / 0.50),
-   -0.07rem 0 0.04rem oklch(72% 0.28 148 / 0.50);
+    0.03rem 0 0.03rem oklch(65% 0.30 340 / 0.40),
+   -0.06rem 0 0.03rem oklch(72% 0.28 148 / 0.40);
   animation:
     crt-text-flicker 0.02s infinite alternate;
 }
@@ -763,13 +763,13 @@ main.content blockquote {
 @keyframes crt-text-flicker {
   from {
     text-shadow:
-       1px  0px 0px oklch(65% 0.30 340 / 0.75),
-      -2px  0px 0px oklch(72% 0.28 148 / 0.75);
+       1px  0px 0px oklch(65% 0.30 340 / 0.60),
+      -2px  0px 0px oklch(72% 0.28 148 / 0.60);
   }
   to {
     text-shadow:
-       2px  0.5px 2px oklch(65% 0.30 340 / 0.65),
-      -1px -0.5px 2px oklch(72% 0.28 148 / 0.65);
+       2px  0.4px 2px oklch(65% 0.30 340 / 0.52),
+      -1px -0.4px 2px oklch(72% 0.28 148 / 0.52);
   }
 }
 
