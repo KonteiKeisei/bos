@@ -51,7 +51,6 @@ In the distance, over Spectacle Island, the water is glowing green.
 
 Something woke up.
 
-![[music/BahstunIsBleeding.mp3]]
 
 ---
 
