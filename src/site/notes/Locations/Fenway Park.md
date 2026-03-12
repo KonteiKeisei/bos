@@ -11,7 +11,7 @@
 > **Era:** 1986
 > **Status:** Home of the Boston Red Sox — and the worst night in Boston sports history
 
-## Description
+## Description 
 
 ![Fenway Park.webp|Fenway Park|500](/img/user/Images/Locations/Fenway%20Park.webp)
 
