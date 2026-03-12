@@ -99,7 +99,7 @@
 
 ### Bars & Social
 
-- [[Locations/Bull and Finch Pub\|Bull and Finch Pub]] *(Ley line convergence — "Cheers" bar)*
+- [[Locations/Bull and Finch Pub\|Bull and Finch Pub]] *("Cheers" bar)*
 
 ---
 
