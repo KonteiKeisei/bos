@@ -438,6 +438,13 @@ body {
      0px  1px 6px oklch(60% 0.10 195 / 08%) inset;
 }
 
+/* Collapse the empty <header> block — the OS banner handles the top area.
+   The header is empty when inline-title / tags / timestamps are all disabled. */
+main.content > header {
+  margin:  0 !important;
+  padding: 0 !important;
+}
+
 /* First box directly after <header> — tighter top margin */
 main.content > .retro-box:first-of-type {
   margin-top: 8px;
