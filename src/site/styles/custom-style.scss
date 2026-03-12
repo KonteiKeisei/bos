@@ -1,13 +1,96 @@
+/* ================================================================
+   UNSLEEPING CITY: BOSTON — CUSTOM GARDEN LAYOUT
+   Three-column fluid layout:
+     Left sidebar  : anchored left,  max 350px
+     Center content: fluid,          min 700px
+     Right sidebar : anchored right, max 350px
+   ================================================================ */
+
+/* == Layout variable overrides == */
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  /* Left sidebar (filetree) */
+  --dg-filetree-width:     280px;
+  --dg-filetree-min-width: 200px;
+  --dg-filetree-gap:        32px;
+
+  /* Right sidebar */
+  --dg-sidebar-max-width:  280px;
+  --dg-sidebar-min-width:  200px;
+  --dg-sidebar-gap:         32px;
+}
+
+/* == LEFT SIDEBAR: fill its panel to max 350px == */
+.filetree-wrapper {
+  width:           var(--dg-filetree-width);
+  max-width:       350px;
+  min-width:       var(--dg-filetree-min-width);
+  justify-content: flex-start;
+}
+
+.filetree-sidebar {
+  width:     100%;
+  max-width: 350px;
+}
+
+/* == CENTER CONTENT: stretch between the two sidebars == */
+.content {
+  max-width: none !important;
+  min-width: 700px;
+  margin-left:  calc(var(--dg-filetree-width)    + var(--dg-filetree-gap)) !important;
+  margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap))  !important;
+}
+
+/* == RIGHT SIDEBAR: pin to the right edge of the screen == */
+.sidebar {
+  position:  fixed !important;
+  left:      auto !important;
+  right:     0    !important;
+  top:       var(--dg-sidebar-top);
+  width:     var(--dg-sidebar-max-width);
+  max-width: 350px;
+  height:    100%;
+  padding-left: 12px;
+}
+
+/* == BREAKPOINT: 1000px – 1400px
+      Filetree stays, sidebar stays fixed to right edge == */
+@media (max-width: 1400px) {
+  .content {
+    margin-left:  calc(var(--dg-filetree-width) + 20px)          !important;
+    margin-right: calc(var(--dg-sidebar-max-width) + 20px)        !important;
+    max-width: none !important;
+    min-width: 400px;
+  }
+
+  .sidebar {
+    position:     fixed  !important;
+    left:         auto   !important;
+    right:        0      !important;
+    margin:       0      !important;
+    padding-left: 12px;
+    height:       100%;
+  }
+}
+
+/* == BREAKPOINT: < 1000px
+      Filetree hides, sidebar stacks below content == */
+@media (max-width: 1000px) {
+  .content {
+    margin-left:  auto    !important;
+    margin-right: auto    !important;
+    max-width:    700px   !important;
+    min-width:    unset;
+  }
+
+  .sidebar {
+    position:  relative !important;
+    left:      auto     !important;
+    right:     auto     !important;
+    top:       auto     !important;
+    width:     auto;
+    max-width: none;
+    margin:    40px auto 0 !important;
+    height:    auto;
+    padding-left: 0;
+  }
 }
