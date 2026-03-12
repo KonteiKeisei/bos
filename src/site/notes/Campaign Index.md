@@ -49,9 +49,9 @@
 
 ### Met by the Party
 
-| NPC                          | Role                                                                   |
-| ---------------------------- | ---------------------------------------------------------------------- |
-| [[Matty "The Eel" Callahan\|Matty "The Eel" Callahan]] | Harbor Dogs; Pierre's closest friend; secretly protecting him          |
+| NPC                          | Role                                             |
+| ---------------------------- | ------------------------------------------------ |
+
 
 
 ---
