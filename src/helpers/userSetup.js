@@ -60,29 +60,20 @@ function userEleventySetup(eleventyConfig) {
     if (!str) return str;
     if (outputPath && !outputPath.endsWith(".html")) return str;
 
-    // Only process pages that actually contain <hr> tags
     if (!/<hr\s*\/?>/i.test(str)) return str;
 
-    // Target the markdown content area inside <main class="content ...">
-    // We capture everything between </header> and the closing </main>
     return str.replace(
       /(<main[^>]+class="[^"]*\bcontent\b[^"]*"[^>]*>)([\s\S]*?)(<\/main>)/i,
       function(match, openTag, mainBody, closeTag) {
-
-        // Separate the <header>…</header> block from the rest of the content
         const headerMatch = mainBody.match(/^([\s\S]*?<\/header>)([\s\S]*)$/i);
         if (!headerMatch) return match;
 
         const headerPart  = headerMatch[1];
-        let   contentPart = headerMatch[2];
+        const contentPart = headerMatch[2];
 
-        // No <hr> in the content portion — nothing to box
         if (!/<hr\s*\/?>/i.test(contentPart)) return match;
 
-        // Split on every <hr> (self-closing or not, with optional whitespace)
         const sections = contentPart.split(/<hr\s*\/?>/gi);
-
-        // Wrap each non-empty section in a retro-box div
         const boxed = sections
           .map(s => s.trim())
           .filter(s => s.length > 0)
@@ -94,7 +85,6 @@ function userEleventySetup(eleventyConfig) {
     );
   });
 
-}
 
   // ── Transform 3: OS Banner ────────────────────────────────────────────────────
   //
@@ -118,7 +108,6 @@ function userEleventySetup(eleventyConfig) {
         `<span class="os-subtitle">HallowayOS v1.2</span>` +
       `</div>\n`;
 
-    // Insert right after the opening <main class="content ..."> tag
     return str.replace(
       /(<main[^>]+class="[^"]*\bcontent\b[^"]*"[^>]*>)/i,
       `$1${banner}`
