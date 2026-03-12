@@ -1,34 +1,33 @@
 /* ================================================================
    UNSLEEPING CITY: BOSTON — CUSTOM GARDEN LAYOUT + RETROMA THEME
-   Three-column fluid layout:
-     Left sidebar  : anchored left,  max 350px
-     Center content: fluid,          min 700px
-     Right sidebar : anchored right, max 350px
+   ================================================================
 
-   Left pane styling translated from Obsidian Retroma theme
-   (Retroma targets .nav-folder / .nav-files-container, which don't
-    exist in the Digital Garden HTML — so we retranslate here using
-    the garden's actual class names while reusing the Retroma CSS
-    custom properties that ARE inherited via the fetched theme CSS.)
+   SECTION 1 — Three-column fluid layout
+   SECTION 2 — Retroma left pane (colors, groove borders, folder boxes)
+
+   NOTE ON SELECTORS — the Digital Garden file tree HTML structure:
+     Step 0 (top-level items):
+       .folder:root > div[no-class] > .folder.inner-folder  (folder)
+       .folder:root > div[no-class] > .notelink             (note)
+     Step 1+ (nested items, each in its own wrapper):
+       .folder.inner-folder > div.filelist > .folder.inner-folder  (folder)
+       .folder.inner-folder > div.filelist > .notelink             (note)
    ================================================================ */
+
 
 /* ================================================================
    SECTION 1 — LAYOUT
    ================================================================ */
 
 body {
-  /* Left sidebar (filetree) */
   --dg-filetree-width:     280px;
-  --dg-filetree-min-width: 200px;
+  --dg-filetree-min-width: 220px;
   --dg-filetree-gap:        32px;
-
-  /* Right sidebar */
   --dg-sidebar-max-width:  280px;
   --dg-sidebar-min-width:  200px;
   --dg-sidebar-gap:         32px;
 }
 
-/* Left sidebar panel */
 .filetree-wrapper {
   width:           var(--dg-filetree-width);
   max-width:       350px;
@@ -41,7 +40,6 @@ body {
   max-width: 350px;
 }
 
-/* Center content: stretch between the two sidebars */
 .content {
   max-width: none !important;
   min-width: 700px;
@@ -49,7 +47,6 @@ body {
   margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap))  !important;
 }
 
-/* Right sidebar: pin to the right edge */
 .sidebar {
   position:  fixed !important;
   left:      auto !important;
@@ -61,11 +58,10 @@ body {
   padding-left: 12px;
 }
 
-/* 1000px – 1400px */
 @media (max-width: 1400px) {
   .content {
-    margin-left:  calc(var(--dg-filetree-width) + 20px)         !important;
-    margin-right: calc(var(--dg-sidebar-max-width) + 20px)      !important;
+    margin-left:  calc(var(--dg-filetree-width) + 20px)    !important;
+    margin-right: calc(var(--dg-sidebar-max-width) + 20px) !important;
     max-width: none !important;
     min-width: 400px;
   }
@@ -79,7 +75,6 @@ body {
   }
 }
 
-/* < 1000px: filetree hides, sidebar stacks below content */
 @media (max-width: 1000px) {
   .content {
     margin-left:  auto    !important;
@@ -100,191 +95,264 @@ body {
   }
 }
 
+
 /* ================================================================
-   SECTION 2 — RETROMA LEFT PANE TRANSLATION
-   The Retroma theme CSS (fetched via cssUrl) provides these
-   custom properties in the garden because the body carries class
-   "theme-dark" and "retroma-font-w95font" from styleSettingsBodyClasses.
-   We use them directly below; oklch fallbacks provided for safety.
+   SECTION 2 — RETROMA PANE STYLING
+   Colors hardcoded from Retroma dark + --interactive-accent: #233D43
    ================================================================ */
 
-/* -- Folder color palette for cycling (6 hues) -- */
+/* -- Palette -- */
 :root {
-  --rc-red:    oklch(65% 0.17 25);
-  --rc-orange: oklch(72% 0.15 55);
-  --rc-yellow: oklch(80% 0.14 95);
-  --rc-green:  oklch(68% 0.14 145);
-  --rc-cyan:   oklch(72% 0.13 195);
-  --rc-purple: oklch(65% 0.14 290);
+  /* Panel backgrounds: Retroma dark computes ~oklch(24–32% 0.012 200)
+     from --interactive-accent: #233D43 (oklch ≈ 27% 0.04 200) */
+  --rg-bg-base:    oklch(22% 0.015 200);   /* filetree background      */
+  --rg-bg-raised:  oklch(27% 0.018 200);   /* folder card background   */
+  --rg-bg-hover:   oklch(31% 0.020 200);   /* hover state              */
+  --rg-shadow:     oklch(13% 0.010 200);   /* 3D drop shadow           */
+  --rg-border:     oklch(42% 0.030 200);   /* groove border tone       */
+  --rg-text:       oklch(83% 0.010 200);   /* normal text              */
+  --rg-text-muted: oklch(56% 0.010 200);   /* muted text               */
 
-  /* Dark-theme panel tones matching Retroma dark + #233D43 accent */
-  --rg-bg-base:    oklch(22% 0.03 200);
-  --rg-bg-raised:  oklch(26% 0.035 200);
-  --rg-bg-sunken:  oklch(18% 0.025 200);
-  --rg-shadow:     oklch(14% 0.02 200);
-  --rg-border:     oklch(38% 0.07 200);
-  --rg-text:       oklch(82% 0.02 200);
-  --rg-text-muted: oklch(55% 0.02 200);
+  /* Folder accent palette — Retroma cycling hues */
+  --rc-red:    oklch(65% 0.18 22);
+  --rc-orange: oklch(72% 0.16 52);
+  --rc-yellow: oklch(80% 0.14 96);
+  --rc-green:  oklch(68% 0.15 145);
+  --rc-cyan:   oklch(73% 0.14 192);
+  --rc-purple: oklch(66% 0.15 290);
 }
 
-/* == FILETREE SIDEBAR CONTAINER == */
+
+/* ================================================================
+   LEFT PANEL WRAPPER — groove border + matching background
+   ================================================================ */
+
+.filetree-wrapper {
+  background-color: var(--rg-bg-base) !important;
+  /* Retroma-style ridge border: simulates a raised panel edge */
+  border-right: 4px ridge var(--rg-border) !important;
+  box-shadow: 3px 0 10px oklch(8% 0.01 200 / 60%) !important;
+}
+
+
+/* ================================================================
+   FILETREE SIDEBAR — font + colors
+   ================================================================ */
+
 .filetree-sidebar {
-  font-family: "W95font", ui-monospace, monospace;
-  font-size: 0.82rem;
+  /* W95font is declared by the Retroma theme.css fetched via cssUrl */
+  font-family: "W95font", ui-monospace, "Cascadia Code", monospace !important;
+  font-size:   0.80rem;
+  color:       var(--rg-text-muted);
   background-color: var(--rg-bg-base);
-  border-right: 2px solid var(--rg-border);
-  padding: 6px 8px 24px;
-  overflow-y: auto;
-  height: 100vh;
-  box-sizing: border-box;
+  padding: 10px 8px !important;
 }
 
-/* == SITE TITLE (shown when no logo is set) == */
-.filetree-sidebar > a h1 {
-  font-family: "W95font", ui-monospace, monospace;
-  font-size: 0.95rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  text-align: center;
-  line-height: 1.4;
-  margin: 0 0 14px;
-  padding: 10px 8px;
-  color: var(--rc-cyan);
-  background-color: var(--rg-bg-raised);
-  border: 2px solid var(--rg-border);
-  border-radius: 6px;
-  /* Retroma 3D "pressed" shadow */
-  box-shadow:
-    inset  2px  2px 0px oklch(38% 0.04 200 / 40%),
-    inset -2px -2px 0px oklch(10% 0.01 200 / 60%),
-    -3px 3px 0px var(--rg-shadow);
-  text-shadow: 0 0 8px oklch(72% 0.13 195 / 50%);
+
+/* ================================================================
+   SITE TITLE — styled header box at top of file tree
+   ================================================================ */
+
+.filetree-sidebar > a,
+.filetree-sidebar > a:hover {
+  text-decoration: none !important;
 }
 
-/* == SEARCH BUTTON == */
-.search-button-wrapper,
-.search-button {
-  font-family: "W95font", monospace;
-  font-size: 0.78rem;
-  margin-bottom: 10px;
-  border-radius: 4px;
-  border: 1px solid var(--rg-border) !important;
-  background-color: var(--rg-bg-raised) !important;
-  box-shadow: -2px 2px 0px var(--rg-shadow);
-  color: var(--rg-text-muted) !important;
-}
-
-/* == ROOT FOLDER CONTAINER == */
-.filetree-sidebar > nav > .folder {
-  padding: 0;
-}
-
-/* == TOP-LEVEL FOLDER ITEMS (color cycling — Retroma style) == */
-.filelist > .folder.inner-folder {
-  margin-block: 7px;
-  border-radius: 6px;
-  background-color: var(--rg-bg-raised);
-  border: 2px solid var(--rc-cyan);
-  box-shadow: -3px 3px 0px var(--rg-shadow);
-  padding: 0 2px 2px;
-  overflow: hidden;
-}
-
-.filelist > .folder.inner-folder:nth-child(6n + 1) { border-color: var(--rc-red);    --folder-color: var(--rc-red);    }
-.filelist > .folder.inner-folder:nth-child(6n + 2) { border-color: var(--rc-orange); --folder-color: var(--rc-orange); }
-.filelist > .folder.inner-folder:nth-child(6n + 3) { border-color: var(--rc-yellow); --folder-color: var(--rc-yellow); }
-.filelist > .folder.inner-folder:nth-child(6n + 4) { border-color: var(--rc-green);  --folder-color: var(--rc-green);  }
-.filelist > .folder.inner-folder:nth-child(6n + 5) { border-color: var(--rc-cyan);   --folder-color: var(--rc-cyan);   }
-.filelist > .folder.inner-folder:nth-child(6n + 6) { border-color: var(--rc-purple); --folder-color: var(--rc-purple); }
-
-/* Open top-level folder gets a tinted background */
-.filelist > .folder.inner-folder[x-data]:not([style*="display:none"]) {
-  background-color: oklch(28% 0.04 200 / 50%);
-}
-
-/* == FOLDER TITLE ROW == */
-.foldername-wrapper {
-  padding: 5px 8px;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.foldername-wrapper svg,
-.foldername-wrapper i {
-  flex-shrink: 0;
-  color: var(--folder-color, var(--rc-cyan));
-}
-
-/* == FOLDER NAME TEXT == */
-.foldername {
-  font-family: "W95font", monospace;
+.filetree-sidebar > a h1,
+.filetree-sidebar h1 {
+  font-family: "W95font", ui-monospace, monospace !important;
+  font-size:   0.9rem !important;
   font-weight: bold;
-  font-size: 0.82rem;
-  color: var(--folder-color, var(--rc-cyan));
-  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height:  1.4;
+  text-align:   center;
+  padding:      10px 6px;
+  margin:       0 0 12px !important;
+  color:        var(--rc-cyan);
+  background-color: var(--rg-bg-raised);
+  border:       2px solid var(--rg-border);
+  border-radius: 6px;
+  /* Retroma 3D inset + drop shadow */
+  box-shadow:
+    inset -2px -2px 0px oklch(10% 0.01 200 / 50%),
+    inset  2px  2px 0px oklch(45% 0.03 200 / 30%),
+    -3px 3px 0px var(--rg-shadow);
+  text-shadow: 0 0 10px oklch(73% 0.14 192 / 40%);
 }
 
-/* == NESTED FOLDER ITEMS (second level and deeper) == */
-.filelist .filelist .folder.inner-folder {
+
+/* ================================================================
+   CHEVRON ICON ALIGNMENT FIX
+   Base CSS doesn't set flex on .foldername-wrapper, so the
+   lucide SVG and span render inline and misalign.
+   ================================================================ */
+
+.foldername-wrapper,
+.foldername-wrapper.align-icon {
+  display:     flex !important;
+  align-items: center !important;
+  gap:         5px !important;
+  padding:     4px 6px;
+}
+
+.foldername-wrapper i,
+.foldername-wrapper svg {
+  flex-shrink: 0;
+  opacity:     0.7 !important;
+  color:       var(--folder-color, var(--rc-cyan));
+}
+
+
+/* ================================================================
+   FOLDER NAME TEXT
+   ================================================================ */
+
+.foldername {
+  font-family: "W95font", ui-monospace, monospace;
+  font-weight: bold;
+  font-size:   0.80rem;
+  color:       var(--folder-color, var(--rc-cyan));
+  letter-spacing: 0.02em;
+}
+
+
+/* ================================================================
+   ALL INNER FOLDER BOXES — Retroma card style
+   ================================================================ */
+
+.folder.inner-folder {
+  border:        2px solid var(--folder-color, var(--rc-cyan));
+  border-radius: 5px;
+  background-color: var(--rg-bg-raised);
+  /* Retroma 3D drop shadow */
+  box-shadow: -3px 3px 0px var(--rg-shadow);
+  margin-bottom:  5px;
+  overflow:       hidden;
+  /* Reset inherited margin-left at root level — nested levels
+     still have .filelist margin providing the indent */
+  margin-left: 0 !important;
+}
+
+
+/* ================================================================
+   TOP-LEVEL FOLDER COLOR CYCLING
+   HTML: .folder:root > div[no-class]:nth-child(n) > .folder.inner-folder
+   (Top-level items are wrapped in classless divs, NOT .filelist)
+   ================================================================ */
+
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+1) > .folder.inner-folder { --folder-color: var(--rc-red);    }
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+2) > .folder.inner-folder { --folder-color: var(--rc-orange); }
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+3) > .folder.inner-folder { --folder-color: var(--rc-yellow); }
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+4) > .folder.inner-folder { --folder-color: var(--rc-green);  }
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+5) > .folder.inner-folder { --folder-color: var(--rc-cyan);   }
+.folder:not(.inner-folder) > div:not(.filelist):nth-child(6n+6) > .folder.inner-folder { --folder-color: var(--rc-purple); }
+
+
+/* ================================================================
+   NESTED FOLDER COLOR CYCLING
+   HTML: .folder.inner-folder > div.filelist:nth-child(n) > .folder.inner-folder
+   (Each nested item has its OWN .filelist wrapper, so nth-child
+    is on the .filelist elements, not on .folder.inner-folder)
+   ================================================================ */
+
+.folder.inner-folder > .filelist:nth-child(6n+1) > .folder.inner-folder { --folder-color: var(--rc-orange); }
+.folder.inner-folder > .filelist:nth-child(6n+2) > .folder.inner-folder { --folder-color: var(--rc-yellow); }
+.folder.inner-folder > .filelist:nth-child(6n+3) > .folder.inner-folder { --folder-color: var(--rc-green);  }
+.folder.inner-folder > .filelist:nth-child(6n+4) > .folder.inner-folder { --folder-color: var(--rc-cyan);   }
+.folder.inner-folder > .filelist:nth-child(6n+5) > .folder.inner-folder { --folder-color: var(--rc-purple); }
+.folder.inner-folder > .filelist:nth-child(6n+6) > .folder.inner-folder { --folder-color: var(--rc-red);    }
+
+/* Nested folders: thinner border + smaller shadow */
+.filelist > .folder.inner-folder {
   border-width: 1px;
   box-shadow: -2px 2px 0px var(--rg-shadow);
-  margin-block: 3px;
-  /* Inherit parent folder-color at reduced saturation */
-  border-color: oklch(from var(--folder-color, var(--rc-cyan)) l c h / 60%);
+  margin-bottom: 3px;
 }
 
-/* == FILE / NOTE LINKS == */
+
+/* ================================================================
+   DEPTH LINE — override base with matching color
+   ================================================================ */
+
+.filelist {
+  border-left: 1px solid oklch(40% 0.02 200 / 50%) !important;
+  margin-left: 6px !important;
+}
+
+
+/* ================================================================
+   NOTE / FILE LINKS
+   ================================================================ */
+
 .notelink {
-  margin: 3px 4px;
+  border-left: 2px solid transparent;
+  border-radius: 3px;
+  margin: 2px 4px;
 }
 
-.notelink .filename {
+.notelink .filename,
+.notelink a.filename {
   display: block;
   padding: 3px 10px;
   border-radius: 4px;
-  border: 1px solid oklch(40% 0.03 200);
-  background-color: oklch(24% 0.03 200 / 65%);
-  font-family: "W95font", monospace;
-  font-size: 0.78rem;
+  border: 1px solid oklch(42% 0.020 200 / 60%);
+  background-color: oklch(24% 0.015 200 / 70%);
+  font-family: "W95font", ui-monospace, monospace;
+  font-size: 0.77rem;
   color: var(--rg-text);
-  text-decoration: none;
+  text-decoration: none !important;
   line-height: 1.5;
-  transition: border-color 0.1s, background-color 0.1s;
+  transition: border-color 0.12s, background-color 0.12s;
 }
 
-.notelink .filename:hover {
+.notelink .filename:hover,
+.notelink a.filename:hover {
   border-color: var(--rc-cyan);
-  background-color: oklch(30% 0.05 200 / 50%);
-  color: oklch(90% 0.04 200);
+  background-color: var(--rg-bg-hover);
+  color: oklch(92% 0.015 200);
 }
 
-/* Active/current note */
-.notelink.active-note .filename {
+/* Active / current page note */
+.notelink.active-note .filename,
+.notelink.active-note a.filename {
   border-color: var(--rc-cyan);
-  background-color: oklch(32% 0.08 200 / 60%);
-  color: oklch(90% 0.06 195);
+  background-color: oklch(34% 0.06 200 / 65%);
+  color: oklch(92% 0.020 195);
   font-weight: bold;
-  box-shadow: inset 2px 2px 0px oklch(14% 0.02 200 / 40%);
+  box-shadow: inset 2px 2px 0px oklch(14% 0.01 200 / 50%);
 }
 
-/* == INDENTED FILELIST PADDING == */
-.filelist {
-  padding-left: 4px;
+/* Root-level notes (override base 22px margin-left) */
+.folder > div:not(.filelist) > .notelink {
+  margin-left: 0 !important;
 }
 
-/* == SCROLLBAR (retro style) == */
-.filetree-sidebar::-webkit-scrollbar {
-  width: 6px;
+
+/* ================================================================
+   CONTENT AREA — left edge separator matching the groove
+   ================================================================ */
+
+.content {
+  border-left: 1px solid oklch(38% 0.025 200 / 40%) !important;
 }
-.filetree-sidebar::-webkit-scrollbar-track {
-  background: var(--rg-bg-sunken);
+
+
+/* ================================================================
+   SCROLLBAR — retro minimal style
+   ================================================================ */
+
+.filetree-sidebar > .folder {
+  scrollbar-width: thin;
+  scrollbar-color: var(--rg-border) var(--rg-bg-base);
 }
-.firetree-sidebar::-webkit-scrollbar-thumb {
+
+.filetree-sidebar > .folder::-webkit-scrollbar { width: 5px; }
+.filetree-sidebar > .folder::-webkit-scrollbar-track { background: var(--rg-bg-base); }
+.filetree-sidebar > .folder::-webkit-scrollbar-thumb {
   background: var(--rg-border);
   border-radius: 0;
 }
-.firetree-sidebar::-webkit-scrollbar-thumb:hover {
+.filetree-sidebar > .folder::-webkit-scrollbar-thumb:hover {
   background: var(--rc-cyan);
 }
