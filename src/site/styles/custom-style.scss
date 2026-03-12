@@ -643,14 +643,14 @@ body::after {
   );
 
   opacity:   0;
-  /* Sweep takes ~1.8s; then invisible for the remaining ~8.2s → fires every 10s */
-  animation: crt-sweep 10s linear infinite;
+  /* Sweep takes ~5.6s to cross; invisible for ~8.4s gap → fires every 14s */
+  animation: crt-sweep 14s linear infinite;
 }
 
 @keyframes crt-sweep {
   0%    { transform: translateX(0);                     opacity: 0;   }
-  1%    { transform: translateX(0);                     opacity: 1;   }
-  19%   { transform: translateX(calc(100vw + 160px));   opacity: 0.7; }
-  20%   { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
+  2%    { transform: translateX(0);                     opacity: 1;   }
+  40%   { transform: translateX(calc(100vw + 160px));   opacity: 0.7; }
+  42%   { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
   100%  { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
 }
