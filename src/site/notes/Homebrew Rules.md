@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homebrew-rules/"}
 ---
 
-
+test
 # Homebrew Rules
 
 > [!info] Scope
