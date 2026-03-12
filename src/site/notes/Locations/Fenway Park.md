@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/locations/fenway-park/"}
 ---
 
-
 # Fenway Park
 
 > [!info] Location Summary
@@ -49,8 +48,6 @@ Bill Buckner let the ball roll through his legs.
 | Harold Whitmore | Red Sox minority owner |
 
 ---
-
-## GM Notes
 
 >
 > The site of Fenway Park was once the **Back Fenn** — a liminal wetland where the Material Plane pressed thin against the Feywild. When the park was built in 1912, its ownership allowed the Fey to operate within the park's boundaries — an informal permission. In 1926, this became a formal compact with both the **Winter Court** and the **Summer Court**: sixty years of near-miss seasons, grief harvested, magic channeled. In the sixtieth year (1986), Boston was meant to win. The debt would be paid.
