@@ -654,3 +654,86 @@ body::after {
   42%   { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
   100%  { transform: translateX(calc(100vw + 160px));   opacity: 0;   }
 }
+
+
+/* ================================================================
+   GLITCH ARTIFACTS
+   Two independent overlay layers on html::before / html::after.
+   Each fires occasionally via step-end keyframes (instant snaps,
+   not smooth transitions — the digital corruption look).
+   clip-path cuts a horizontal band; translateX displaces it.
+   Colour tints simulate RGB channel separation on a bad CRT.
+   ================================================================ */
+
+html::before,
+html::after {
+  content:        "";
+  position:       fixed;
+  inset:          0;
+  pointer-events: none;
+  opacity:        0;
+}
+
+html::before { z-index: 99996; animation: glitch-a  8s step-end infinite; }
+html::after  { z-index: 99995; animation: glitch-b 13s step-end infinite; }
+
+/* ── Glitch A: red/cyan channel-split band, fires every ~8s ── */
+@keyframes glitch-a {
+  /* invisible almost all the time */
+  0%, 91%, 100% {
+    opacity: 0;
+  }
+
+  /* frame 1: reddish band displaced right */
+  91.5% {
+    opacity:    1;
+    clip-path:  inset(18% 0 74% 0);
+    background: oklch(65% 0.22 22 / 0.18);
+    transform:  translateX(9px);
+  }
+
+  /* frame 2: cyan band displaced left */
+  92.5% {
+    opacity:    1;
+    clip-path:  inset(62% 0 28% 0);
+    background: oklch(72% 0.16 192 / 0.14);
+    transform:  translateX(-6px);
+  }
+
+  /* frame 3: brief white noise flash */
+  93.5% {
+    opacity:    1;
+    clip-path:  inset(35% 0 58% 0);
+    background: oklch(100% 0 0 / 0.10);
+    transform:  translateX(4px);
+  }
+
+  /* snap off */
+  94% { opacity: 0; }
+}
+
+/* ── Glitch B: single wide band + hue-tinted block, fires every ~13s ── */
+@keyframes glitch-b {
+  0%, 83%, 100% {
+    opacity: 0;
+  }
+
+  /* frame 1: wide pale band */
+  83.5% {
+    opacity:    0.9;
+    clip-path:  inset(45% 0 47% 0);
+    background: oklch(100% 0 0 / 0.07);
+    transform:  translateX(14px);
+  }
+
+  /* frame 2: green-tinted corruption */
+  84.5% {
+    opacity:    0.8;
+    clip-path:  inset(10% 0 82% 0);
+    background: oklch(68% 0.18 145 / 0.12);
+    transform:  translateX(-10px);
+  }
+
+  /* snap off */
+  85% { opacity: 0; }
+}
