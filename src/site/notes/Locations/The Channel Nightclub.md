@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-channel-nightclub/"}
+dg-publish: true
 ---
-
 
 # The Channel Nightclub
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![The Channel Nightclub.webp|The Channel Nightclub|500](/img/user/Images/Locations/The%20Channel%20Nightclub.webp)
+![[The Channel Nightclub.webp|The Channel Nightclub|500]]
 
 Operated 1980–1991. One of the largest music venues in Boston (legal capacity 1,700). Hosted a wide array of genres — rock, reggae, metal, ska. Featured a unique 'pit' area for close-up audience views. A cultural hub reflecting the dynamism of Boston's music scene in the 1980s.
 
@@ -42,7 +41,3 @@ Operated 1980–1991 at 25 Necco Street near Fort Point Channel.
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
