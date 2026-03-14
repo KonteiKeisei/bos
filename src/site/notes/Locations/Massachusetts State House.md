@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/massachusetts-state-house/"}
 ---
+
 
 # Massachusetts State House
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[Massachusetts State House.webp|Massachusetts State House|500]]
+![Massachusetts State House.webp|Massachusetts State House|500](/img/user/Images/Locations/Massachusetts%20State%20House.webp)
 
 The seat of Massachusetts government, completed 1798. Iconic golden dome visible from across the city. Designed by Charles Bulfinch in the Federal style. Houses the Governor's office and state legislature. Overlooks Boston Common from Beacon Hill.
 

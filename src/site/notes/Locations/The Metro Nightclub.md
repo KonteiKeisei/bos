@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/the-metro-nightclub/"}
 ---
+
 
 # The Metro Nightclub
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[The Metro Nightclub.webp|The Metro Nightclub|500]]
+![The Metro Nightclub.webp|The Metro Nightclub|500](/img/user/Images/Locations/The%20Metro%20Nightclub.webp)
 
 Operated 1980–1988 at 15 Lansdowne Street. Near Fenway Park. Dynamic atmosphere with eclectic music — rock, pop, new wave, alternative. Also a stop for national and international acts. Later evolved through names The Axis and Citi Club, eventually becoming the House of Blues. Acts included Cyndi Lauper, U2, and The Psychedelic Furs.
 

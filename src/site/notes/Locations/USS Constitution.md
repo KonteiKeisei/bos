@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/uss-constitution/"}
 ---
+
 
 # USS Constitution
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[USS Constitution.webp|USS Constitution|500]]
+![USS Constitution.webp|USS Constitution|500](/img/user/Images/Locations/USS%20Constitution.webp)
 
 The oldest commissioned warship afloat in the world. Launched 1797. Known as 'Old Ironsides' for her resilience in the War of 1812. Located at the Charlestown Navy Yard. Museum explores naval history, early American sea power, and the lives of sailors who served aboard.
 

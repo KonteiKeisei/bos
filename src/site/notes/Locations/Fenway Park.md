@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/fenway-park/"}
 ---
+
 
 # Fenway Park
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description 
 
-![[Fenway Park.webp|Fenway Park|500]]
+![Fenway Park.webp|Fenway Park|500](/img/user/Images/Locations/Fenway%20Park.webp)
 
 Home of the Boston Red Sox since 1912. One of the oldest and most storied ballparks in America. In the 1980s, the park saw physical renovations — first luxury boxes in 1982, Yaz Day (Carl Yastrzemski's farewell, 1983), Roger Clemens striking out 20 Seattle Mariners in a single game (1986).
 

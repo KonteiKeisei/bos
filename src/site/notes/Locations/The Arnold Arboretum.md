@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/the-arnold-arboretum/"}
 ---
+
 
 # The Arnold Arboretum
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[The Arnold Arboretum.webp|The Arnold Arboretum|500]]
+![The Arnold Arboretum.webp|The Arnold Arboretum|500](/img/user/Images/Locations/The%20Arnold%20Arboretum.webp)
 
 Established 1872 as part of a collaboration with Harvard University. A 281-acre park featuring trees, shrubs, and woody vines from around the world. Part of Boston's Emerald Necklace (Olmsted's chain of parks). Functions as a living museum with comprehensive cataloguing for scientific study and conservation.
 

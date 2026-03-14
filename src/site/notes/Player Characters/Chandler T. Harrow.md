@@ -1,11 +1,12 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/player-characters/chandler-t-harrow/"}
 ---
+
 
 # Chandler T. Harrow
 
 > [!info] Character Image
-> ![[Chandler T. Harrow.webp|Chandler T. Harrow|179]]
+> ![Chandler T. Harrow.webp|Chandler T. Harrow|179](/img/user/Images/Player%20Characters/Chandler%20T.%20Harrow.webp)
 
 > [!info] Character Summary
 > **Player:** Freight
@@ -82,7 +83,7 @@ He investigates. The names surface again. **Roy Tillman: gone. Peter Vance: eras
 
 **The Night at Long Wharf.**
 
-The investigation takes Chandler to the docks, where he sees a young man with homemade equipment — EM meters, jury-rigged traps — talking to empty air. Arguing with something Chandler cannot see. That young man is [[Leonard Holloway]]. A ghost manifests, briefly. Chandler feels it before he sees it. Leonard banishes it. They lock eyes across the pier. Neither speaks.
+The investigation takes Chandler to the docks, where he sees a young man with homemade equipment — EM meters, jury-rigged traps — talking to empty air. Arguing with something Chandler cannot see. That young man is [[Player Characters/Leonard Holloway\|Leonard Holloway]]. A ghost manifests, briefly. Chandler feels it before he sees it. Leonard banishes it. They lock eyes across the pier. Neither speaks.
 
 Then the harbor flares — green and blue light blooming on the horizon over Spectacle Island. Something inside Chandler's chest shifts. Whatever just happened, it wasn't small.
 
@@ -127,7 +128,7 @@ When he lifts the flute he hasn't touched in decades, the notes pull emotion fro
 | NPC / Faction | Relationship |
 |---------------|--------------|
 | The Boston Globe | Employer; investigative journalist |
-| [[Leonard Holloway]] | Met at Long Wharf; both witnessed the Spectacle Island event |
+| [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Met at Long Wharf; both witnessed the Spectacle Island event |
 | Wesley Drummond | Vietnam commander — now dead, pulled from Fort Point Channel |
 | Roy Tillman, Peter Vance | Other Phan Lộc survivors — now missing or dead |
 

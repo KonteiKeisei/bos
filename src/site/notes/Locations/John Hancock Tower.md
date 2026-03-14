@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/john-hancock-tower/"}
 ---
+
 
 # John Hancock Tower
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[John Hancock Tower.webp|John Hancock Tower|500]]
+![John Hancock Tower.webp|John Hancock Tower|500](/img/user/Images/Locations/John%20Hancock%20Tower.webp)
 
 Officially Hancock Place. Completed 1976. At 60 stories, the tallest building in Boston. Distinctive minimalist glass facade designed by Henry N. Cobb (I.M. Pei & Partners). Its reflective surface mirrors the sky and the historic Trinity Church beside it — a dramatic contrast.
 

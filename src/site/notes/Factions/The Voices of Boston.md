@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/factions/the-voices-of-boston/"}
 ---
+
 
 # The Voices of Boston
 

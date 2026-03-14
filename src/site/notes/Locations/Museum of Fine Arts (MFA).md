@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/museum-of-fine-arts-mfa/"}
 ---
+
 
 # Museum of Fine Arts (MFA)
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[Museum of Fine Arts (MFA).webp|Museum of Fine Arts|500]]
+![Museum of Fine Arts (MFA).webp|Museum of Fine Arts|500](/img/user/Images/Locations/Museum%20of%20Fine%20Arts%20(MFA).webp)
 
 Established 1870. One of the largest museums in the United States. Nearly 500,000 works spanning ancient Egyptian artifacts to contemporary art. Notable for Asian art, French Impressionism, and American colonial-era art. Architecture expanded by I.M. Pei and Norman Foster.
 

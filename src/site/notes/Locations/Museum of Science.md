@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/museum-of-science/"}
 ---
+
 
 # Museum of Science
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[Museum of Science.webp|Museum of Science|500]]
+![Museum of Science.webp|Museum of Science|500](/img/user/Images/Locations/Museum%20of%20Science.webp)
 
 Located at Science Park spanning the Charles River between Boston and Cambridge. Founded as the Boston Society of Natural History (1830). Home to the world's largest air-insulated Van de Graaff generator, which still operates in the Theater of Electricity. Interactive exhibits on natural history, technology, and engineering.
 

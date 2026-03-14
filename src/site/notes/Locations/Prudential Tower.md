@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/locations/prudential-tower/"}
 ---
+
 
 # Prudential Tower
 
@@ -12,7 +13,7 @@ dg-publish: true
 
 ## Description
 
-![[Prudential Tower.webp|Prudential Tower|500]]
+![Prudential Tower.webp|Prudential Tower|500](/img/user/Images/Locations/Prudential%20Tower.webp)
 
 Completed 1964. At 52 stories, it dominated the Boston skyline for years. Part of the larger Prudential Center complex including shopping, dining, and offices. The Skywalk Observatory on the 50th floor offers panoramic views of Greater Boston.
 
