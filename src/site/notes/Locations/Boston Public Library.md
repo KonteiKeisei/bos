@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/boston-public-library/"}
+dg-publish: true
 ---
-
 
 # Boston Public Library
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Boston Public Library.webp|Boston Public Library|500](/img/user/Images/Locations/Boston%20Public%20Library.webp)
+![[Boston Public Library.webp|Boston Public Library|500]]
 
 Established 1848 — the first large free municipal library in the United States. Renaissance Revival architecture. Inscriptions of great historical figures adorn the facade. Grand reading rooms, manuscripts, and an extensive collection. A cultural venue hosting lectures, concerts, and exhibitions.
 
@@ -47,7 +46,3 @@ The library's collection includes texts that are not publicly catalogued — wor
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
