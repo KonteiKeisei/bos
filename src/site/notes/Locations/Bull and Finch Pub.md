@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/bull-and-finch-pub/"}
+dg-publish: true
 ---
-
 
 # Bull & Finch Pub
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Bull and Finch Pub.webp|Bull and Finch Pub|500](/img/user/Images/Locations/Bull%20and%20Finch%20Pub.webp)
+![[Bull and Finch Pub.webp|Bull and Finch Pub|500]]
 
 Established 1969. A well-known neighborhood bar on Beacon Street — quintessential Boston charm, unpretentious vibe, beloved by locals and tourists. Red-brick facade with dark green awning. Long wooden bar, dark wood paneling, brass fixtures. By 1987, pre-dates its fame as the inspiration for the TV show *Cheers*. Regular patrons create a feeling of community. Bartender Ray Rizzoldi is a key figure.
 
@@ -48,7 +47,3 @@ The Bull & Finch was constructed near a ley line, creating a place of confluence
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
