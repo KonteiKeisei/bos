@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/old-north-church/"}
+dg-publish: true
 ---
-
 
 # Old North Church
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Old North Church.webp|Old North Church|500](/img/user/Images/Locations/Old%20North%20Church.webp)
+![[Old North Church.webp|Old North Church|500]]
 
 Officially Christ Church in the City of Boston. Dating to 1723. Famous for the 'one if by land, two if by sea' lantern signal that preceded Paul Revere's midnight ride. A beautiful example of Colonial Georgian architecture. Still functions as an active Episcopal congregation.
 
@@ -47,7 +46,3 @@ The crypts beneath the Old North Church are older than the church itself. The aw
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
