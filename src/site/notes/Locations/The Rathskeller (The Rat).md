@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-rathskeller-the-rat/"}
+dg-publish: true
 ---
-
 
 # The Rathskeller (The Rat)
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![The Rathskeller (The Rat).webp|The Rathskeller|500](/img/user/Images/Locations/The%20Rathskeller%20(The%20Rat).webp)
+![[The Rathskeller (The Rat).webp|The Rathskeller|500]]
 
 Known affectionately as 'The Rat.' Opened 1974. A cornerstone of Boston's rock and punk scenes — one of the most important music venues in the country outside New York and L.A. Dingy, gritty atmosphere that perfectly complemented the raw energy of punk and new wave. Original site of the WBCN Rock & Roll Rumble battle of the bands. Notable acts include The Cars, The Pixies, Metallica, The Ramones, R.E.M.
 
@@ -43,7 +42,3 @@ Opened 1974. Originally a college bar, transitioned to live music mid-decade. Cl
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
