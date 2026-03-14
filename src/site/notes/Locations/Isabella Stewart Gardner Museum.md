@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/isabella-stewart-gardner-museum/"}
+dg-publish: true
 ---
-
 
 # Isabella Stewart Gardner Museum
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Isabella Stewart Gardner Museum.webp|Isabella Stewart Gardner Museum|500](/img/user/Images/Locations/Isabella%20Stewart%20Gardner%20Museum.webp)
+![[Isabella Stewart Gardner Museum.webp|Isabella Stewart Gardner Museum|500]]
 
 Housed in a building styled after a 15th-century Venetian palace. Established 1903 by Isabella Stewart Gardner. Eclectic collection of European, Asian, and American art. The arrangement of the collection has remained unchanged per Gardner's specific instructions — an unusual and legally binding clause.
 
@@ -47,7 +46,3 @@ Gardner's insistence that nothing be moved — ever — has long been noted by t
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
