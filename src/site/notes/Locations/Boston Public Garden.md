@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/boston-public-garden/"}
+dg-publish: true
 ---
-
 
 # Boston Public Garden
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Boston Public Garden.webp|Boston Public Garden|500](/img/user/Images/Locations/Boston%20Public%20Garden.webp)
+![[Boston Public Garden.webp|Boston Public Garden|500]]
 
 Founded 1837. A 24-acre greenspace designed by Frederick Law Olmsted and Calvert Vaux. One of the earliest public botanical gardens in the United States. Features winding paths, seasonal flowerbeds, a central lagoon with swan boat rentals, and a weeping willow nicknamed 'Lady in the Water.' Statues include George Washington (equestrian) and the Ether Monument.
 
@@ -47,7 +46,3 @@ The Garden's lush, curated nature has made it a place where the boundary between
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
