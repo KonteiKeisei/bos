@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/new-england-aquarium/"}
+dg-publish: true
 ---
-
 
 # New England Aquarium
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![New England Aquarium.webp|New England Aquarium|500](/img/user/Images/Locations/New%20England%20Aquarium.webp)
+![[New England Aquarium.webp|New England Aquarium|500]]
 
 Established 1969. Located on Central Wharf overlooking Boston Harbor. Home to giant sea turtles, penguins, and exotic fish. Centerpiece is the Giant Ocean Tank — a four-story cylindrical coral reef exhibit with 360-degree views. Conducts marine research and conservation. Focus on ocean sustainability and marine animal rescue.
 
@@ -47,7 +46,3 @@ The harbor outside the Aquarium sits above unusually deep water for this part of
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
