@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/faneuil-hall/"}
+dg-publish: true
 ---
-
 
 # Faneuil Hall
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Faneuil Hall.webp|Faneuil Hall|500](/img/user/Images/Locations/Faneuil%20Hall.webp)
+![[Faneuil Hall.webp|Faneuil Hall|500]]
 
 Known as 'The Cradle of Liberty.' Built in 1742, funded by merchant Peter Faneuil. Patriots like Samuel Adams used it to inspire the public against British tyranny. Site of America's first Town Meeting. Surrounding marketplace remains a bustling hub of commerce.
 
@@ -42,7 +41,3 @@ Built 1742. Hotbed of revolutionary ideas. Continued to serve as a gathering spo
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
