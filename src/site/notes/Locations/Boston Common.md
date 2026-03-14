@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/boston-common/"}
+dg-publish: true
 ---
-
 
 # Boston Common
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Boston Common.webp|Boston Common|500](/img/user/Images/Locations/Boston%20Common.webp)
+![[Boston Common.webp|Boston Common|500]]
 
 America's oldest public park, established 1634. Originally used for grazing livestock, it evolved into a hub for public speeches, revolutionary rallies, and civic engagement. Notable speakers include Martin Luther King Jr. The Massachusetts State House overlooks this expansive green space.
 
@@ -43,7 +42,3 @@ Established 1634. Site of revolutionary rallies, Vietnam War protests (1960s–7
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
