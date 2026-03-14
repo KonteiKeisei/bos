@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/paul-revere-house/"}
+dg-publish: true
 ---
-
 
 # Paul Revere House
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Paul Revere House.webp|Paul Revere House|500](/img/user/Images/Locations/Paul%20Revere%20House.webp)
+![[Paul Revere House.webp|Paul Revere House|500]]
 
 The oldest building in downtown Boston, dating to 1680. Home of Paul Revere during the Revolution. From here he set out on his famous midnight ride in 1775, warning the colonial militia of approaching British forces. Now a museum.
 
@@ -42,7 +41,3 @@ Built 1680. Revere's home during the Revolution. Operated as a museum since the 
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
