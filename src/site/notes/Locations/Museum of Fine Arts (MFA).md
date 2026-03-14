@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/locations/museum-of-fine-arts-mfa/"}
+dg-publish: true
 ---
-
 
 # Museum of Fine Arts (MFA)
 
@@ -13,7 +12,7 @@
 
 ## Description
 
-![Museum of Fine Arts (MFA).webp|Museum of Fine Arts|500](/img/user/Images/Locations/Museum%20of%20Fine%20Arts%20(MFA).webp)
+![[Museum of Fine Arts (MFA).webp|Museum of Fine Arts|500]]
 
 Established 1870. One of the largest museums in the United States. Nearly 500,000 works spanning ancient Egyptian artifacts to contemporary art. Notable for Asian art, French Impressionism, and American colonial-era art. Architecture expanded by I.M. Pei and Norman Foster.
 
@@ -47,7 +46,3 @@ Certain works in the MFA's collection are not what they appear to be. The awaken
 |      |      |
 
 ---
-
-## GM Notes
-
-> [!warning] DM Only
