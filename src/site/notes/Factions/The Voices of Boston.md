@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-voices-of-boston/"}
+dg-publish: true
 ---
-
 
 # The Voices of Boston
 
@@ -52,16 +51,3 @@ Embodies invention, intellect, and the relentless pursuit of progress. Represent
 A Vox cannot die while bearing their title. Only by voluntarily relinquishing the role may their soul pass on — at which point another inherits the mantle. The city itself seems to guide the selection of new bearers.
 
 ---
-
-## GM Notes
-
->
-> | Title | True Bearer | Cover Identity |
-> |-------|-------------|----------------|
-> | Vox Libertas — Voice of Liberty | Benjamin Franklin | Dr. Richard Sparks |
-> | Vox Concordia — Voice of Harmony | Leonard Nimoy | Himself (celebrity / Boston native) |
-> | Vox Innovatum — Voice of Innovation | Buzz Aldrin | Himself (MIT graduate) |
->
-> The Vox system was born when Benjamin Franklin tethered his soul to the city itself, making Boston the first true Unsleeping City. Other Unsleeping Cities (New York, Los Angeles) arose later through different, lesser means.
->
-> The Voices are aware of the crack in the veil opened by Boston's collective grief after the 1986 World Series. The Grief-Eater was a symptom. The Green Monster stirring represents a deeper threat. The Vox Libertas (Franklin) is most alarmed — this has echoes of something he witnessed centuries ago.
