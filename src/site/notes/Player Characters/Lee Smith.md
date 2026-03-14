@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/player-characters/lee-smith/"}
+dg-publish: true
 ---
-
 
 # Lee Smith
 > [!info] Character Image
@@ -110,7 +109,7 @@ The harbor swallowed him whole. Cold. Dark. Endless.
 
 Pierre-Jackson Laferrière was already there — dragged down by concrete, dying, fighting. Something vast and patient coiled beneath them both, watching two drowning men refuse to stop. Old Scituate noticed the pattern. One soul claimed. One soul reaching. The tides carried them both.
 
-Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, next to [[Player Characters/Pierre-Jackson Laferrière\|Pierre-Jackson Laferrière]] — a stranger who had also refused to die. Two men. Two deaths narrowly refused. Boston had claimed them both.
+Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, next to [[Pierre-Jackson Laferrière]] — a stranger who had also refused to die. Two men. Two deaths narrowly refused. Boston had claimed them both.
 
 ---
 
@@ -136,14 +135,9 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 
 | NPC / Faction | Relationship |
 |---------------|--------------|
-| [[Player Characters/Pierre-Jackson Laferrière\|Pierre-Jackson Laferrière]] | Both woke on Spectacle Island — drowned together, survived together |
+| [[Pierre-Jackson Laferrière]] | Both woke on Spectacle Island — drowned together, survived together |
 | Marcus Covington | Baltimore crime boss hunting Lee for the Eye — can see through it |
 | Red Saints | Hired by Covington to catch or kill Lee |
-
----
-
-## Secrets
-
 
 ---
 
