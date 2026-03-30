@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/sessions/session-01-the-convergence/"}
 ---
+
 
 # Session 01 — The Convergence
 
@@ -13,13 +14,13 @@ dg-publish: true
 
 ## The Ghost at Long Wharf
 
-[[Leonard Holloway]] and [[Diane Okoye]] were conducting a late-night investigation at Long Wharf pier. Diane had been tracking anomalous electromagnetic readings in the area for three days, and tonight they were off the charts. She was recording data when a ghost manifested — a soldier in period uniform — and passed directly through her body.
+[[Player Characters/Leonard Holloway\|Leonard Holloway]] and [[NPCs/Diane Okoye\|Diane Okoye]] were conducting a late-night investigation at Long Wharf pier. Diane had been tracking anomalous electromagnetic readings in the area for three days, and tonight they were off the charts. She was recording data when a ghost manifested — a soldier in period uniform — and passed directly through her body.
 
 The frost it left behind spread across her skin in fractal patterns. Leonard caught her before she hit the water. She was breathing, but unconscious and unresponsive.
 
-[[Chandler T. Harrow]] arrived at the pier shortly after. He recognized the ghost — addressing it directly: *"Captain, aren't you supposed to be dead?"* — and the apparition dissolved. A dock worker had already called the authorities.
+[[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] arrived at the pier shortly after. He recognized the ghost — addressing it directly: *"Captain, aren't you supposed to be dead?"* — and the apparition dissolved. A dock worker had already called the authorities.
 
-[[Detective O'Malley]] arrived with police and an ambulance. Chandler fast-talked his way through the situation. O'Malley warned him off — this was at least the second time Chandler had turned up at a scene he had no business being at — and let him walk. Diane was taken to hospital.
+[[NPCs/Detective O'Malley\|Detective O'Malley]] arrived with police and an ambulance. Chandler fast-talked his way through the situation. O'Malley warned him off — this was at least the second time Chandler had turned up at a scene he had no business being at — and let him walk. Diane was taken to hospital.
 
 Chandler and Leonard took a skiff from the dock. They found a thermos of hot chicken broth on board. Then a massive green flash lit up the harbor, originating from the direction of Spectacle Island.
 
@@ -135,9 +136,9 @@ Leonard's finger still wouldn't stop changing.
 
 | NPC | Notes |
 |-----|-------|
-| [[Diane Okoye]] | Hospitalized after the ghost passed through her; stable, unresponsive |
-| [[Detective O'Malley]] | Arrived at Long Wharf; warned Chandler off but let him go |
-| [[The Ghost Captain]] | Recognized by Chandler; dissolved when addressed directly |
+| [[NPCs/Diane Okoye\|Diane Okoye]] | Hospitalized after the ghost passed through her; stable, unresponsive |
+| [[NPCs/Detective O'Malley\|Detective O'Malley]] | Arrived at Long Wharf; warned Chandler off but let him go |
+| [[NPCs/The Ghost Captain\|The Ghost Captain]] | Recognized by Chandler; dissolved when addressed directly |
 
 ---
 

@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/np-cs/detective-o-malley/"}
 ---
+
 
 # Detective O'Malley
 
@@ -8,7 +9,7 @@ dg-publish: true
 > **Role:** Boston Police Department Detective
 > **Affiliation:** Boston Police Department
 > **Location:** Boston
-> **First Appeared:** [[Session 01 - The Convergence]]
+> **First Appeared:** [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
 ## Description
 
@@ -38,5 +39,5 @@ O'Malley contacted Chandler with leads on the drowning deaths and was present at
 
 | Character / Faction | Relationship |
 |---------------------|--------------|
-| [[Chandler T. Harrow]] | Old acquaintance; off-record source |
+| [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] | Old acquaintance; off-record source |
 | Boston Police Department | Detective |

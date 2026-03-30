@@ -1,16 +1,17 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/np-cs/margaret-chen/"}
 ---
+
 
 # Margaret Chen
 
-![[MargaretChen.webp]]
+![MargaretChen.webp](/img/user/Images/NPCs/MargaretChen.webp)
 
 > [!info] NPC Summary
 > **Role:** Elder / Matriarch, Boston Paranormal Society
 > **Affiliation:** Boston Paranormal Society
 > **Location:** Boston — Society headquarters (community college basement)
-> **First Appeared:** [[Session 01 - The Convergence]]
+> **First Appeared:** [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
 ## Description
 
@@ -38,7 +39,7 @@ Before Leonard left for Fort Point on the night of October 10th, she told him:
 
 | Character / Faction | Relationship |
 |---------------------|--------------|
-| [[Leonard Holloway]] | Mentee; she warned him before Fort Point |
-| [[Diane Okoye]] | Fellow Society member — currently hospitalised |
-| [[Gary Phelps]] | Fellow Society member |
+| [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Mentee; she warned him before Fort Point |
+| [[NPCs/Diane Okoye\|Diane Okoye]] | Fellow Society member — currently hospitalised |
+| [[NPCs/Gary Phelps\|Gary Phelps]] | Fellow Society member |
 | Boston Paranormal Society | Founder and matriarch |

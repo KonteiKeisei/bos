@@ -1,16 +1,17 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/np-cs/diane-okoye/"}
 ---
+
 
 # Diane Okoye
 
-![[DianeOkoye.webp]]
+![DianeOkoye.webp](/img/user/Images/NPCs/DianeOkoye.webp)
 
 > [!info] NPC Summary
 > **Role:** Paranormal Investigator, Boston Paranormal Society
 > **Affiliation:** Boston Paranormal Society
 > **Location:** Boston — currently hospitalised
-> **First Appeared:** [[Session 01 - The Convergence]]
+> **First Appeared:** [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
 ## Description
 
@@ -44,7 +45,7 @@ Her recording equipment captured the EM spike immediately before the manifestati
 
 | Character / Faction | Relationship |
 |---------------------|--------------|
-| [[Leonard Holloway]] | Close colleague and friend; he caught her when she fell |
-| [[Margaret Chen]] | Fellow Society member; elder |
-| [[Gary Phelps]] | Fellow Society member |
+| [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Close colleague and friend; he caught her when she fell |
+| [[NPCs/Margaret Chen\|Margaret Chen]] | Fellow Society member; elder |
+| [[NPCs/Gary Phelps\|Gary Phelps]] | Fellow Society member |
 | Boston Paranormal Society | Active investigator |

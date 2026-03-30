@@ -1,16 +1,17 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/np-cs/the-ghost-captain/"}
 ---
+
 
 # The Ghost Captain
 
-![[Ghost Captain.webp]]
+![Ghost Captain.webp](/img/user/Images/NPCs/Ghost%20Captain.webp)
 
 > [!info] NPC Summary
 > **Type:** Apparition / Restless Dead
 > **Role:** Unknown
 > **Status:** Dissolved — circumstances unknown
-> **First Appeared:** [[Session 01 - The Convergence]]
+> **First Appeared:** [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
 ## Description
 
@@ -22,9 +23,9 @@ dg-publish: true
 
 ## What Happened
 
-The Ghost Captain manifested at Long Wharf pier on the night of October 10, 1986. He passed directly through [[Diane Okoye]], leaving frost in fractal patterns across her skin and dropping her unconscious on the dock.
+The Ghost Captain manifested at Long Wharf pier on the night of October 10, 1986. He passed directly through [[NPCs/Diane Okoye\|Diane Okoye]], leaving frost in fractal patterns across her skin and dropping her unconscious on the dock.
 
-[[Chandler T. Harrow]] arrived and recognized him. He addressed the apparition directly:
+[[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] arrived and recognized him. He addressed the apparition directly:
 
 > *"Captain, aren't you supposed to be dead?"*
 
@@ -44,5 +45,5 @@ Whether the Captain is gone or simply retreated is an open question.
 
 | Character / Faction | Relationship |
 |---------------------|--------------|
-| [[Chandler T. Harrow]] | Recognized him; knew him from the Fanlock raid |
-| [[Diane Okoye]] | Passed through her; she was hospitalized as a result |
+| [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] | Recognized him; knew him from the Fanlock raid |
+| [[NPCs/Diane Okoye\|Diane Okoye]] | Passed through her; she was hospitalized as a result |

@@ -1,16 +1,17 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/np-cs/gary-phelps/"}
 ---
+
 
 # Gary Phelps
 
-![[Gary Phelps.webp]]
+![Gary Phelps.webp](/img/user/Images/NPCs/Gary%20Phelps.webp)
 
 > [!info] NPC Summary
 > **Role:** Member, Boston Paranormal Society
 > **Affiliation:** Boston Paranormal Society
 > **Location:** Boston — Society headquarters (community college basement)
-> **First Appeared:** [[Session 01 - The Convergence]]
+> **First Appeared:** [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
 ## Description
 
@@ -34,7 +35,7 @@ He was not present at Fort Point Channel on the night of October 10th. He was, i
 
 | Character / Faction | Relationship |
 |---------------------|--------------|
-| [[Margaret Chen]] | Fellow Society member; respects her more than he lets on |
-| [[Diane Okoye]] | Fellow Society member |
-| [[Leonard Holloway]] | Fellow Society member — finds his enthusiasm exhausting and a little charming |
+| [[NPCs/Margaret Chen\|Margaret Chen]] | Fellow Society member; respects her more than he lets on |
+| [[NPCs/Diane Okoye\|Diane Okoye]] | Fellow Society member |
+| [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Fellow Society member — finds his enthusiasm exhausting and a little charming |
 | Boston Paranormal Society | Long-standing member |
