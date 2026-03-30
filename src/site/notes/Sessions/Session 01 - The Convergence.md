@@ -4,164 +4,148 @@ dg-publish: true
 
 # Session 01 — The Convergence
 
-> [!info] Session Info
-> **Date (In-Game):** October 10, 1986
-> **Location:** South Boston, Fort Point Channel, Boston Harbor, Spectacle Island
-> **Party Level:** 3
-> **Session Length:** ~5 hours
+> [!info] Session Summary
+> **Date:** October 10, 1986
+> **Location:** Long Wharf, Boston Harbor, Spectacle Island
+> **System:** Urban Arcana / D&D 5e Homebrew
 
 ---
 
-## Summary
+## The Ghost at Long Wharf
 
-Boston is still raw from the World Series. The streets are hollow. The bars are quiet. And something in the harbor has been waiting for exactly this kind of grief.
+[[Leonard Holloway]] and [[Diane Okoye]] were conducting a late-night investigation at Long Wharf pier. Diane had been tracking anomalous electromagnetic readings in the area for three days, and tonight they were off the charts. She was recording data when a ghost manifested — a soldier in period uniform — and passed directly through her body.
 
-Six strangers — a garbage man, a hockey enforcer, a freelance journalist, a paranormal investigator, a biker, and a thief — find themselves pulled toward the harbor on the same night by forces none of them understand. By the time dawn breaks, they will have seen things that can't be unseen, made bargains they can't take back, and stood together in a room full of impossible, glowing fungus, listening to something breathe in the dark.
+The frost it left behind spread across her skin in fractal patterns. Leonard caught her before she hit the water. She was breathing, but unconscious and unresponsive.
 
----
+[[Chandler T. Harrow]] arrived at the pier shortly after. He recognized the ghost — addressing it directly: *"Captain, aren't you supposed to be dead?"* — and the apparition dissolved. A dock worker had already called the authorities.
 
-## The Night, Piece by Piece
+[[Detective O'Malley]] arrived with police and an ambulance. Chandler fast-talked his way through the situation. O'Malley warned him off — this was at least the second time Chandler had turned up at a scene he had no business being at — and let him walk. Diane was taken to hospital.
 
-### Pierre-Jackson — The Rusty Anchor
+Chandler and Leonard took a skiff from the dock. They found a thermos of hot chicken broth on board. Then a massive green flash lit up the harbor, originating from the direction of Spectacle Island.
 
-Pierre was at his usual spot at The Rusty Anchor when the TV flickered. Every channel — the same image: black water, a green light beneath the surface, and something vast moving below it. Maddie the bartender saw it too. Then it was gone.
-
-Later that night, Pierre and Lee were cornered on a rooftop warehouse by Diego and members of the Diablos gang — five men, guns drawn, no way out. Lee wrapped a chain around Diego's leg. The motorcycle — Pierre's bike — started itself, revved hard, and drove Diego off the pier and into the harbor.
-
-Both Pierre and Lee ended up in the water. Something spoke to them there. Patient. Cold. Ancient.
-
-> *"Swim for me, Pierre. Serve my tides and I will let you breathe."*
-
-They were pulled back to shore. The motorcycle met them at the dock — its paint transformed, now pearlescent green with octopus and seashell motifs worked into the metal like they'd always been there.
+They headed toward it.
 
 ---
 
-### Lee Smith — Wrong Place, Wrong Time
+## The Island, Before the Others Arrived
 
-Lee had been making his way through South Boston quietly, the way he always does — unnoticed, unremarkable, just passing through — when the Diablos made him for an informant. He wasn't one. Didn't matter.
+Earlier that night, **Pierre** and **Everett** had been thrown into Boston Harbor by gang members and came close to drowning. A voice spoke to Pierre through the water. Everett heard it too — muffled, as if the words were meant for someone else. Pierre's motorcycle, **Trudy**, came to life on the dock and pulled them out.
 
-He ended up on that rooftop. He ended up in the water. He ended up on the shore next to a Québécois biker with a magical motorcycle and no good explanation for any of it.
+The voice directed Pierre to Spectacle Island. Trudy carried them there.
 
-Lee can make knives appear from his sleeves. He didn't bring that up.
+**Jacques** arrived separately, also drawn by a voice — not words exactly, more of a pull. *Protect. Come.* He'd had the time. Recently traded from the Montreal Canadiens to the Bruins, then immediately suspended after his first game when he nearly killed a player who'd attacked Cam Neely. He came to the island because there was nowhere else to be.
 
----
-
-### Leonard Holloway — Fort Point Channel
-
-Leonard and his Boston Paranormal Society colleague **Diane Okoye** were at Fort Point Channel following anomalous EM readings that had been pinning his equipment for three days straight. The needle had never done that before.
-
-Then a ghost walked through Diane.
-
-It passed through her body and left frost in fractal patterns across her skin. Leonard caught her before she hit the water. Diane was rushed to the hospital — hypothermic, unresponsive, alive.
-
-The ghost was a soldier. Scar on his left cheek. Uniform that didn't belong to any living era.
-
-**[[Margaret Chen]]**, the Society's elder matriarch, had warned Leonard before he went:
-
-> *"If the water speaks to you, try not to answer."*
+The three of them were standing on the beach when they heard the outboard motor of Chandler and Leonard's skiff cutting across the dark water.
 
 ---
 
-### Chandler Harrow — Following the Story
+## Meeting on the Shore
 
-Chandler hasn't slept in three days. He's been tracking a pattern: three men — Wesley Drummond, Roy Tillman, Peter Vance — all found drowned in Boston Harbor. All former military. All with rope burns on their wrists despite having walked voluntarily into the water. No water in their lungs.
+The boat scraped up onto the shallows. The five of them faced each other in the dark, lit by Trudy's single headlight.
 
-Detective O'Malley had been feeding him leads, quietly, off the record. It wasn't enough.
+Chandler clocked Pierre immediately: *"That's not a Minneapolis accent. Who are you?"* Pierre turned it around. Nobody had useful answers. Leonard explained the green flash. Jacques told them the air was full of magic and to expect more. Lee said nothing and tried to edge into the darkness — Trudy turned her spotlight directly on him.
 
-Chandler was at Fort Point when the ghost appeared. He recognised it. He said *"Captain"* — and it vanished.
+Then they heard it: a wail from the direction of the abandoned building further inland. Not a person in distress. Something more wrong than that.
 
-He stole a boat from Long Wharf (fuel full, hot broth in the thermos, keys in the ignition — almost like it was left for him) and made for Spectacle Island alone.
-
----
-
-### Jacques le Coq — The Ice Path
-
-Jacques has been suspended from the Bruins for three weeks following an incident in his first game where he nearly killed an opponent who went after Cam Neely. He's been wandering the city with nothing to do and nowhere to be.
-
-The harbour called him differently — not with words, but with a feeling. A pressure in his chest like a door being unlocked.
-
-Ice formed on the surface of the harbour in front of him, path by path, step by step. He skated to Spectacle Island on a road that built itself.
-
-When he arrived, something addressed him in his chest rather than his ears:
-
-> *"Guardian. Will you stand watch?"*
+Chandler walked toward it. The rest followed.
 
 ---
 
-### Bo Thorruk — The Luminous Hollow
+## Bo
 
-Bo was on his garbage route when the smell hit. Not a bad smell — the smell of something alive in a place it shouldn't be. His supervisor Victor radioed him about strange reports from the docks. Bo already knew.
+**Bo** had been running his late-night garbage route when dispatch — Victor, on the radio — sent him to investigate a smell near the waterfront. His garbage truck died at the fish pier. Not stalled. *Died.* The engine made a sound like something breathing its last and went silent.
 
-He's seen this before. In 1969, in Edmonton, in a cave system called the Luminous Hollow, when he was fifteen. Bioluminescent organisms — blue, green, red — that Harvard scientists told him didn't exist. He left them behind. Apparently they didn't stay left.
+He stepped out into air thick with spores. He opened the back of the truck: the refuse was being consumed in real time by bioluminescent fungi — the exact organisms from the Luminous Hollow, a cave in Edmonton that had been the defining and derailing fact of his adult life since 1969. Organisms Harvard told him did not exist.
 
-Bo followed the spores to the harbour, collecting samples, and crossed to Spectacle Island the way garbage men cross things — by just doing it and figuring it out later.
+They were here. Glowing in colors that have no names.
 
----
+The fungi spread from the truck, pulled a boat to the dock edge, and laid a bioluminescent trail across the water toward Spectacle Island. Bo collected a sample. Then he got into the boat. The fungi pushed it off from the dock with something that felt like hands.
 
-## Spectacle Island — Blount Fisheries
+The motor died halfway across. He rowed the rest.
 
-The old fishing plant has been abandoned since 1979. Founded 1921 by Edmund Blount of Gloucester. What remains is wrapped in bioluminescent fungal growth — blue, green, red — covering the processing equipment, the walls, the floors. It is, objectively, extraordinary.
-
-Inside: three people embedded in the fungal growth. Alive. Catatonic. Dressed in Boston Red Sox gear, frozen in expressions of terror. Bo cut them free with his machete. They didn't move on their own once freed — just stayed locked in their last positions of fear.
-
-The hot broth from Chandler's stolen thermos was used to try to warm one of them.
-
-Then — from somewhere deeper in the machinery — a sound. A slow, soulless sob. Then clicking. Animalistic. Getting closer.
-
-*Session ended here.*
+He tied off at the island's old dock, followed the trail up an overgrown service road to a one-story industrial building with every window glowing blue-green from within. The door was open.
 
 ---
 
-## Key NPCs This Session
+## Blount Fisheries
 
-| NPC | Role | Status |
-|-----|------|--------|
-| [[Maddie]] | Bartender, The Rusty Anchor | Witnessed the TV event |
-| [[Diane Okoye]] | Boston Paranormal Society | Hospitalised — ghost attack |
-| [[Margaret Chen]] | BPS Elder / Matriarch | Warned Leonard; not present |
-| [[Gary Phelps]] | Boston Paranormal Society | Not present on scene |
-| [[Detective O'Malley]] | BPD, Chandler's contact | Off-record source |
-| The Ghost Soldier | Unknown — recognised by Chandler | Fled when addressed |
-| The Three Victims | Red Sox fans — unknown identities | Freed, catatonic |
+The sign read *Blount Fisheries* — founded 1921, last operational 1979, the company still alive somewhere but this facility long abandoned.
+
+Inside, every surface was carpeted in bioluminescent mushroom growth, following patterns — spirals, concentric circles, something almost like writing in a script Bo had never been taught but felt he should be able to read. In the far corner, growing from a crack in the concrete floor: a two-foot-tall glowing specimen, the exact organism from the Luminous Hollow. The one that doesn't exist.
+
+Against the far wall: three Bostonians in Red Sox gear embedded in a darker fungal growth — red and shadow among the blue-green — pinned upright in positions of fear, alive but vacant.
+
+Bo heard the rest of the party arriving and tried to hide. Chandler saw through it immediately. The five of them came in to find a large man in garbage worker coveralls, machete in hand, standing in an abandoned fish plant full of glowing mushrooms and three frozen Red Sox fans. Introductions were made. Nobody was who they expected.
 
 ---
 
-## Items of Note
+## What Bo Knew
 
-| Item | Who | Notes |
-|------|-----|-------|
-| Pierre's Motorcycle | Pierre | Transformed — pearlescent green, octopus motifs, semi-sentient |
-| Black Wooden Box | Lee | Silver inlay. He doesn't open it anymore. |
-| EM Detector | Leonard | Destroyed by the energy spike near the island |
-| Machete | Bo | Used to free the fungal victims |
-| Stolen Skiff | Chandler | Found at Long Wharf, suspiciously ready to go |
-| Fungal Samples | Bo | Collected from Blount Fisheries |
-| Chandler's Notebook | Chandler | Three pages: *"The witness must speak"* — written without stopping, without punctuation |
+His nature check told him more than he wanted to.
+
+The Luminous Hollow organisms absorb emotional energy — latent, ambient, the residue of emotionally charged places. They don't create grief. They collect what's already there. What was covering the captives was antithetical to that: a fungal entity that generates grief, captures living sources of feeling, and feeds. Boston had been a feast. The Red Sox, devastated by an away loss, fans still in their gear when something took them.
+
+The Luminous Hollow specimens had been fighting the intruder. Trying to hold the boundary. Failing.
+
+And somewhere in the machinery above, something moved.
 
 ---
 
-## Threads & Mysteries
+## The Grief-Eater
 
-- **What spoke in the harbour?** Something ancient. Patient. It knows their names *"the way water knows the shape of stone."* It claimed something is feeding in its waters — *"unless someone stops it."*
-- **The three drowned men.** Drummond, Tillman, Vance. No water in their lungs. Rope burns on their wrists. All walked in willingly.
-- **The Luminous Hollow.** Bo found these organisms in Edmonton in 1969. How are they here?
-- **The Ghost Soldier.** Who was he? Why Fort Point? Why did he flee when Chandler said *"Captain"*?
-- **Long Wharf.** The Paranormal Society has never been able to properly investigate it. Something always goes wrong.
-- **The Three Victims.** Who took them? When? Why the fungal growth specifically?
-- **What is in the machinery?** The sob. The clicking. The session cliffhanger.
+A long-necked, too-wide form peered around a corner of the processing equipment — something with a face that had once been human and wasn't anymore. When Pierre said it wasn't a person, it looked insulted and retreated. Bo called it "the end of a finger with eyes on it."
+
+It wailed. A keening that hit every member of the party simultaneously.
+
+The wail left marks. Pierre came away with a migraine. Bo's nose wouldn't stop bleeding. Leonard's right ring finger began to shift — it emits a faint illusion now, changing subtly with his mood. Lee lost his voice entirely.
+
+The combat that followed was not clean. Pierre's .38 Special broke the first time he fired it — it had apparently only ever been used to threaten people. Chandler lent him his own revolver. Pierre broke that one too. Leonard's Faerie Fire missed. Jacques swung his hockey stick and hit nothing. Bo cast Moonbeam and repositioned. Lee threw knives from hiding and hit once.
+
+The creature leaped from the machinery, failed to stick the landing, went prone. Bo moved the Moonbeam onto it. Leonard's Eldritch Cannon hit and blasted the creature out of the beam — which triggered the Moonbeam again on exit. Jacques climbed the machinery, dropped fifteen feet, landed clean, and put the creature's jaw across the room with a slap shot.
 
 ---
 
-## Memorable Moments
+## Last Words
 
-> **"Croissant."** — Lee, naming Pierre's motorcycle. The bike revved in what was unmistakably offence. The name stuck anyway.
+It came apart the way a candle goes out in a strong wind — threads of shadow, frost crystallizing and shattering, flower petals blooming and dying in the same instant. Salt and old flowers and something that might have been sound if sound could be made of sorrow.
 
-> *"This is just like The Goonies. With mushrooms."* — Leonard, surveying the glowing fungal warehouse. Chandler muttered *"kids"* under his breath.
+In the last moment, it spoke. Only Bo understood the language.
 
-> Pierre pulling out his gun for the fourth time despite Chandler repeatedly telling him not to unless he meant to use it. He did eventually put it away. Probably.
+He translated what he could: *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking..."*
 
-> *"What the fuck is hockey?"* — Lee. Jacques spent several minutes explaining it was like baseball but on ice and more violent. Lee remained unconvinced.
+Nobody knew what it meant. Nobody knew the courts. Nobody knew the Green One.
 
-> Bo, in the middle of freeing catatonic victims from living fungus while something clicks in the darkness: *"Do you guys all know each other?"*
+---
 
-> Chandler describing Pierre as looking like Prince. Pierre denied it — specifying it wasn't a Minneapolis accent. Chandler immediately called him out for knowing the specific geography. Inspiration awarded.
+## What Was Left
+
+When the creature was gone, the bioluminescence dimmed. Not extinguished — quieted. Frost began to melt. Flower petals browned and curled. The good fungi — yellow, warm — began to spread across the full interior of the Blount Fisheries facility.
+
+Three people were still pinned to the wall. The one woman who had been partially freed was alive and breathing but frozen in a rictus, rocking on the floor, unable to respond.
+
+Bo still had a sample from the pier.
+
+Lee still couldn't speak.
+
+Leonard's finger still wouldn't stop changing.
+
+---
+
+## NPCs Encountered
+
+| NPC | Notes |
+|-----|-------|
+| [[Diane Okoye]] | Hospitalized after the ghost passed through her; stable, unresponsive |
+| [[Detective O'Malley]] | Arrived at Long Wharf; warned Chandler off but let him go |
+| [[The Ghost Captain]] | Recognized by Chandler; dissolved when addressed directly |
+
+---
+
+## Lingering Effects
+
+| Character | Effect |
+|-----------|--------|
+| Pierre | Persistent migraine — cannot benefit from a short rest for one day |
+| Bo | Nosebleeds — ongoing |
+| Leonard | Right ring finger permanently under minor illusion — shifts in color, size, shape based on mood |
+| Lee | Long-term madness — lost the ability to speak |
