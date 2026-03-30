@@ -29,7 +29,7 @@ They headed toward it.
 
 ## The Island, Before the Others Arrived
 
-Earlier that night, **Pierre** and **Everett** had been thrown into Boston Harbor by gang members and came close to drowning. A voice spoke to Pierre through the water. Everett heard it too — muffled, as if the words were meant for someone else. Pierre's motorcycle, **Trudy**, came to life on the dock and pulled them out.
+Earlier that night, **Pierre** and a man who gave his name as **Everett** had been thrown into Boston Harbor by gang members and came close to drowning. A voice spoke to Pierre through the water. The man heard it too — muffled, as if the words were meant for someone else. Pierre's motorcycle, **Trudy**, came to life on the dock and pulled them out.
 
 The voice directed Pierre to Spectacle Island. Trudy carried them there.
 
