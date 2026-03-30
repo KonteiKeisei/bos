@@ -106,4 +106,14 @@ Whatever he had been looking for at the harbor, it had just looked back.
 
 ## Session Notes
 
-*Notes updated each session.*
+### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
+
+- Attended BPS meeting with [[NPCs/Diane Okoye\|Diane]]; [[NPCs/Gary Phelps\|Gary Phelps]] was drunk about Buckner; [[NPCs/Margaret Chen\|Margaret]] warned them: *"If the water speaks to you, try not to answer."*
+- Walked to Long Wharf with [[NPCs/Diane Okoye\|Diane]] to investigate three days of off-the-charts EM readings
+- Watched [[NPCs/The Ghost Captain\|The Ghost Captain]] pass through [[NPCs/Diane Okoye\|Diane]]; caught her before she hit the water; she said *"Leonard, are you getting the—"* and went down
+- [[Player Characters/Chandler T. Harrow\|Chandler]] arrived, recognized the ghost, dissolved it
+- Got in a stolen skiff with Chandler; crossed to Spectacle Island; described by [[Player Characters/Jacques le Coq\|Jacques]] as *"an old man with his grandson"*
+- Assessed Trudy: *"What sort of mechanisms did they put in here to be able to control it remotely?"* Chandler: *"Is that the strangest thing you've seen tonight?"*
+- Under his breath on the walk to Blount Fisheries: *"Oh my god, it's just like the Goonies."*
+- In combat: Faerie Fire missed (creature saved DEX); successfully summoned Eldritch Cannon (Force Ballista); cannon hit and blasted the creature out of the Moonbeam, triggering Moonbeam damage on exit (11 radiant, saved)
+- **Lingering injury:** Right ring finger permanently under a minor illusion — shifts in color, size, and shape based on emotional state. **This is permanent.**

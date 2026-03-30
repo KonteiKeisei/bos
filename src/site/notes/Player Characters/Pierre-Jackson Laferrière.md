@@ -127,4 +127,19 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
 
 ## Session Notes
 
-*Notes updated each session.*
+### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
+
+- The Diablos Red Saints came for Pierre and [[Player Characters/Lee Smith\|Lee]] separately, then chained them both to Trudy on a pier over Boston Harbor
+- Pierre spat in Diego's face before they were pushed in
+- Diego stepped into the chain loop; Pierre and Lee wrapped it around his leg — all three went over
+- The harbor entity spoke to Pierre underwater: *"Serve my tides and I will let you breathe."* Pierre's response: *"Never, dammit. Let me get back at those motherfuckers."* — Pact with Old Scituate established
+- Trudy emerged from the harbor pearlescent, adorned with seashell and tentacle motifs; she is now clearly more than a motorcycle
+- Called Trudy "croissant" in front of [[Player Characters/Lee Smith\|Lee]]. Trudy revved angrily.
+- Gave the name **Everett** when [[Player Characters/Lee Smith\|Lee]] did (neither gave their real name)
+- Tried to diplomatically address [[NPCs/The Grief-Eater\|The Grief-Eater]]: *"Come out, come out. Don't have to be afraid. We're here to save you."* The creature looked insulted.
+- **Round 2:** Fired his .38 Special at the creature — rolled a **NAT 1**. Gun broke. Has apparently never actually fired it before.
+- [[Player Characters/Chandler T. Harrow\|Chandler]] tossed him a replacement: *"Use it, but don't break it. You buy it."*
+- **Round 3:** Fired Chandler's borrowed .38 at the prone creature — rolled a **NAT 1**. Broke Chandler's gun too. Identically.
+- *"Yo, bro, your gun's broken."* Chandler: *"No. You broke my gun."*
+- **Lingering injury:** Persistent migraine — cannot benefit from short rest for 1 day
+- **Owes [[Player Characters/Chandler T. Harrow\|Chandler]] a gun.**

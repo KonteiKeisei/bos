@@ -144,4 +144,16 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 
 ## Session Notes
 
-*Notes updated each session.*
+### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
+
+- The Diablos Red Saints (hired by Marcus Covington) chased Lee across rooftops and knocked him out with a crowbar
+- Woke up chained to Trudy on a pier beside [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]
+- Helped wrap the chain around Diego's leg — all three went over together
+- Heard the harbor entity's offer, muffled. Declined. Did not engage.
+- Woke on shore of Spectacle Island. Gave the name **Everett** — not his real name.
+- Called Trudy "croissant." Trudy revved angrily. Did not apologize.
+- Tried to edge away from the group's headlight on the beach; Trudy spotlighted him: *"Would you not shine that right here?"*
+- *"He seems kind of racist."* (on Chandler)
+- In combat: hid successfully, threw knives at disadvantage (50 feet, prone target) — one hit, one miss
+- **Lingering injury:** Rolled 94 on the d100 Long-Term Madness table → **lost the ability to speak entirely.** Duration unknown.
+- Cannot speak. Has not spoken since the Wail of the Bereaved.

@@ -141,4 +141,18 @@ The spores are restless. Forces older than the mob are paying attention.
 
 ## Session Notes
 
-*Notes updated each session.*
+### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
+
+- Notebook fell open to the Luminous Hollow entry unprompted — a deliberate act by something
+- Dispatch (Victor) sent him to investigate a smell near the fish pier
+- Truck died at the pier — *"something breathing out for the last time"*
+- Fungi from the Luminous Hollow were consuming the garbage in real time, in colors not in any taxonomy
+- Followed a bioluminescent trail across the harbor to Spectacle Island; boat pushed off the dock by something that felt like hands; rowed the rest when the motor died
+- Found Blount Fisheries (est. 1921, last operational 1979) fully fungal-carpeted, with three catatonic Red Sox fans pinned to the wall
+- Addressed the Luminous Hollow specimen directly: *"What are you doing here?"* It pulsed in response
+- Nature check (19, advantage): the dark growth generates grief and feeds on living emotional sources; the Luminous Hollow organisms have been fighting it and losing
+- *"Guys, I know we just met. This guy's fucking with my mushrooms, and I'm going to start walking towards him."*
+- In combat: Moonbeam (fear disadvantage Round 1, repositioned Rounds 2–3), Adrenaline Rush, moved Moonbeam onto the prone creature; took the creature to 2 HP before Jacques finished it
+- Only party member who understood the creature's last words; translated: *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking…"*
+- **Lingering injury:** Nosebleeds — ongoing
+- **Still has the spore sample from the pier.**

@@ -25,9 +25,9 @@
 
 ## Background
 
-Diane has been Leonard's closest ally in the Boston Paranormal Society — the one who actually shows up to investigate rather than just discuss. On the night of October 10th, she was with Leonard at Fort Point Channel, monitoring anomalous electromagnetic readings that had been off the charts for three days.
+Diane has been [[Player Characters/Leonard Holloway\|Leonard]]'s closest ally in the Boston Paranormal Society — the one who actually shows up to investigate rather than just discuss. On the night of October 10th, she was with Leonard at Long Wharf, monitoring anomalous electromagnetic readings that had been off the charts for three days straight.
 
-A ghost walked through her body. The frost it left behind was distributed in fractal patterns across her skin.
+[[NPCs/The Ghost Captain\|A ghost]] walked through her body. The frost it left behind was distributed in fractal patterns across her skin.
 
 She is currently hospitalised. Her condition is stable, but she has not regained full responsiveness.
 
@@ -35,9 +35,13 @@ She is currently hospitalised. Her condition is stable, but she has not regained
 
 ## Session 01
 
-Diane was recording EM data at Fort Point Channel when the ghost soldier manifested. It passed directly through her, leaving her covered in frost and immediately unconscious. Leonard caught her before she fell into the water. Emergency services were called.
+Diane was recording EM data at Long Wharf when [[NPCs/The Ghost Captain\|The Ghost Captain]] manifested — a soldier in period uniform, a smear of distortion with eyes like holes punched through the air. It passed directly through her body, leaving her covered in frost and immediately unconscious. Her last words before going down:
 
-Her recording equipment captured the EM spike immediately before the manifestation — the data survived even though the device cracked.
+> *"Leonard, are you getting the—"*
+
+[[Player Characters/Leonard Holloway\|Leonard]] caught her before she fell into the water. Emergency services were called by a dock worker who witnessed the scene. Diane was loaded into an ambulance.
+
+Her recording equipment captured the EM spike immediately before the manifestation — the data survived even though the device cracked. [[NPCs/Detective O'Malley\|Detective O'Malley]] has the device.
 
 ---
 
@@ -48,4 +52,6 @@ Her recording equipment captured the EM spike immediately before the manifestati
 | [[Player Characters/Leonard Holloway\|Leonard Holloway]] | Close colleague and friend; he caught her when she fell |
 | [[NPCs/Margaret Chen\|Margaret Chen]] | Fellow Society member; elder |
 | [[NPCs/Gary Phelps\|Gary Phelps]] | Fellow Society member |
+| [[NPCs/The Ghost Captain\|The Ghost Captain]] | Passed through her; connection unknown |
+| [[NPCs/Detective O'Malley\|Detective O'Malley]] | Has her recording equipment |
 | Boston Paranormal Society | Active investigator |

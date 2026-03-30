@@ -113,4 +113,17 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 
 ## Session Notes
 
-*Notes updated each session.*
+### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
+
+- On suspension after his first Bruins game — defended Cam Neely with excessive force
+- Walked to the waterfront; the harbor spoke to him through forming ice: *"Guardian. Will you stand watch?"*
+- Said yes immediately: *"I said yes. Yes, why not?"*
+- Ice skates formed on his feet; skated across a crystallized harbor path to Spectacle Island
+- Met [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] and [[Player Characters/Lee Smith\|Lee]] on the beach; intro: *"I come from Quebec. What do you think? Of course I am French."*
+- Lee: *"What the fuck is hockey?"* Jacques demonstrated the glowing hockey stick. This helped no one.
+- Assessed the arriving boat: *"I think I see an old man with his grandson."* (re: [[Player Characters/Chandler T. Harrow\|Chandler]] and [[Player Characters/Leonard Holloway\|Leonard]])
+- Functioned as group diplomat / de-escalator at beach standoff
+- In combat: missed hockey stick swings in Rounds 1 and 2; creature shredded his jersey twice with Sorrow Lash (both missed, but just barely) — *"Hey, I like this jersey."*
+- **Round 3:** Climbed the machinery (athletics pass), dropped 15 feet (acrobatics pass — *"Your enforcer knees just don't give a shit"*), attacked prone creature with advantage + Bardic Inspiration + Divine Smite
+- **Killing blow:** slap shot across the jaw; the bottom half of the creature's face sailed across the facility and landed in a vat of rotted fish bones
+- **Last words translated by [[Player Characters/Bohdan Thorruk\|Bo]]:** *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking…"*
