@@ -116,18 +116,18 @@ Jacques demonstrates his glowing hockey stick. This answers the question to no o
 
 ### Leonard and the BPS Meeting
 
-[[Player Characters/Leonard Holloway\|Leonard]] is at a Boston Paranormal Society meeting in a community college basement. [[NPCs/Gary Phelps\|Gary Phelps]] is drunk about Bill Buckner. [[NPCs/Diane Okoye\|Diane Okoye]] is running the actual meeting — a researcher, rigorous, the kind of person who doesn't use the word "anomaly" without data. Her EM detector has been pinned hard right for three days. Tonight the readings are off the charts.
+[[Player Characters/Leonard Holloway\|Leonard]] is at a Boston Paranormal Society meeting in a community college basement. [[NPCs/Boston Paranormal Society/Gary Phelps\|Gary Phelps]] is drunk about Bill Buckner. [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane Okoye]] is running the actual meeting — a researcher, rigorous, the kind of person who doesn't use the word "anomaly" without data. Her EM detector has been pinned hard right for three days. Tonight the readings are off the charts.
 
-Before they leave, [[NPCs/Margaret Chen\|Margaret]] offers advice:
+Before they leave, [[NPCs/Boston Paranormal Society/Margaret Chen\|Margaret]] offers advice:
 
 > *"If the water speaks to you, try not to answer."*
-> — **[[NPCs/Margaret Chen\|Margaret Chen]]**
+> — **[[NPCs/Boston Paranormal Society/Margaret Chen\|Margaret Chen]]**
 
-Nobody asks what she means. [[Player Characters/Leonard Holloway\|Leonard]] and [[NPCs/Diane Okoye\|Diane]] walk to Long Wharf.
+Nobody asks what she means. [[Player Characters/Leonard Holloway\|Leonard]] and [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] walk to Long Wharf.
 
 ### Chandler: The Vision, the Call, the Body
 
-[[Player Characters/Chandler T. Harrow\|Chandler]]'s night started with a call from [[NPCs/Detective O'Malley\|Detective O'Malley]] about a body. The dead man is **Drummond**. The anomaly: no water in his lungs. He drowned without drowning. O'Malley flagged it because it doesn't make sense.
+[[Player Characters/Chandler T. Harrow\|Chandler]]'s night started with a call from [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] about a body. The dead man is **Drummond**. The anomaly: no water in his lungs. He drowned without drowning. O'Malley flagged it because it doesn't make sense.
 
 At Fort Point afterward, in his notebook — written without punctuation over three pages in something closer to automatic writing than investigation:
 
@@ -138,14 +138,14 @@ He doesn't know what it means. He recognizes the kind of thing it is. He walks t
 
 ### The Ghost Manifests
 
-When [[Player Characters/Leonard Holloway\|Leonard]] and [[NPCs/Diane Okoye\|Diane]] arrive at Long Wharf, the temperature drops ten degrees instantly — not from the air, but from the presence of something that exists at a different thermal register than the living.
+When [[Player Characters/Leonard Holloway\|Leonard]] and [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] arrive at Long Wharf, the temperature drops ten degrees instantly — not from the air, but from the presence of something that exists at a different thermal register than the living.
 
-The ghost manifests: *a smear of distortion, a shape that is almost human and insists on not quite being one. Eyes like holes punched through the air.* Soldier's uniform, period dress. It moves with the purposelessness of the restless dead. It walks directly through [[NPCs/Diane Okoye\|Diane]].
+The ghost manifests: *a smear of distortion, a shape that is almost human and insists on not quite being one. Eyes like holes punched through the air.* Soldier's uniform, period dress. It moves with the purposelessness of the restless dead. It walks directly through [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]].
 
 The cold it leaves spreads across her skin in fractal patterns. Geometric ice. She has time for one sentence before she goes down:
 
 > *"Leonard, are you getting the—"*
-> — **[[NPCs/Diane Okoye\|Diane Okoye]]**
+> — **[[NPCs/Boston Paranormal Society/Diane Okoye\|Diane Okoye]]**
 
 [[Player Characters/Leonard Holloway\|Leonard]] catches her. She's breathing. She's not responding.
 
@@ -153,7 +153,7 @@ The ghost turns on Leonard. And then [[Player Characters/Chandler T. Harrow\|Cha
 
 ### Chandler Arrives: "Captain, Aren't You Supposed to Be Dead?"
 
-[[Player Characters/Chandler T. Harrow\|Chandler]] knows [[NPCs/The Ghost Captain\|The Ghost Captain]]. He knew this person when they were alive. He doesn't explain how — not tonight. He speaks directly to the apparition:
+[[Player Characters/Chandler T. Harrow\|Chandler]] knows [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]]. He knew this person when they were alive. He doesn't explain how — not tonight. He speaks directly to the apparition:
 
 > *"Captain, aren't you supposed to be dead?"*
 > — **[[Player Characters/Chandler T. Harrow\|Chandler]]**
@@ -161,18 +161,18 @@ The ghost turns on Leonard. And then [[Player Characters/Chandler T. Harrow\|Cha
 The ghost tilts its head. Considers. Dissolves.
 
 > [!note] The Ghost Captain
-> See [[NPCs/The Ghost Captain\|The Ghost Captain]]. Chandler's connection to him — something involving the **Fanlock raid** — is not elaborated on this session.
+> See [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]]. Chandler's connection to him — something involving the **Fanlock raid** — is not elaborated on this session.
 
 ### O'Malley Arrives: The First Great Diatribe
 
-A dock worker saw the whole thing. He calls the authorities. [[NPCs/Detective O'Malley\|Detective O'Malley]] arrives with police and an ambulance. [[NPCs/Diane Okoye\|Diane]] is loaded into the ambulance. O'Malley looks at [[Player Characters/Chandler T. Harrow\|Chandler]] with the expression of a man who has made peace with certain inevitabilities.
+A dock worker saw the whole thing. He calls the authorities. [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] arrives with police and an ambulance. [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] is loaded into the ambulance. O'Malley looks at [[Player Characters/Chandler T. Harrow\|Chandler]] with the expression of a man who has made peace with certain inevitabilities.
 
 He delivers a speech. The gist: this is the second time Chandler has materialized at a scene he has no business being at. He is not being arrested. He is being warned. The warning is colorful.
 
-[[Player Characters/Chandler T. Harrow\|Chandler]] talks his way through it. He is very good at this. [[NPCs/Detective O'Malley\|O'Malley]], at the end of a sustained and genuinely impressive argument, says the thing no veteran detective wants to say:
+[[Player Characters/Chandler T. Harrow\|Chandler]] talks his way through it. He is very good at this. [[NPCs/Boston Police Department/Detective O'Malley\|O'Malley]], at the end of a sustained and genuinely impressive argument, says the thing no veteran detective wants to say:
 
 > *"I fucking hate it when you make fucking sense."*
-> — **[[NPCs/Detective O'Malley\|Detective O'Malley]]**
+> — **[[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]**
 
 He lets them go.
 
@@ -188,10 +188,10 @@ They get in the skiff. As Chandler guns the motor and they pull away at speed, h
 > *"I'm going to head back upstairs. Sorry about the boat."*
 > — **[[Player Characters/Chandler T. Harrow\|Chandler]]**
 
-[[NPCs/Detective O'Malley\|O'Malley]] watches from the dock as they yeet across the harbor. He finds words:
+[[NPCs/Boston Police Department/Detective O'Malley\|O'Malley]] watches from the dock as they yeet across the harbor. He finds words:
 
 > *"What boat? — [sees them crossing the harbor at speed] — You sons of bitches! You sons of whores! All her paperwork is gonna be unbelievable! God damn it!"*
-> — **[[NPCs/Detective O'Malley\|Detective O'Malley]]**
+> — **[[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]**
 
 His voice disappears over the harbor wind. The green flash lights up the sky from the direction of Spectacle Island.
 
@@ -337,7 +337,7 @@ The Luminous Hollow specimens have been fighting the intruder. Trying to hold th
 
 ### First Contact
 
-[[NPCs/The Grief-Eater\|The Grief-Eater]] appears around a corner of the processing equipment. A neck too long, bending at angles necks don't bend. A face that had once been human and had decided to stop.
+[[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]] appears around a corner of the processing equipment. A neck too long, bending at angles necks don't bend. A face that had once been human and had decided to stop.
 
 > *"Come out, come out. Don't have to be afraid. We're here to save you."*
 > — **[[Player Characters/Pierre-Jackson Laferrière\|Pierre]]**
@@ -356,7 +356,7 @@ Initiative is rolled.
 
 ## Part Seven: The Combat
 
-*Initiative order: [[Player Characters/Chandler T. Harrow\|Chandler]] (21) → [[NPCs/The Grief-Eater\|Creature]] → [[Player Characters/Bohdan Thorruk\|Bo]] → [[Player Characters/Leonard Holloway\|Leonard]] → [[Player Characters/Lee Smith\|Lee]] → [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] → [[Player Characters/Jacques le Coq\|Jacques]]*
+*Initiative order: [[Player Characters/Chandler T. Harrow\|Chandler]] (21) → [[NPCs/Spectacle Island/The Grief-Eater\|Creature]] → [[Player Characters/Bohdan Thorruk\|Bo]] → [[Player Characters/Leonard Holloway\|Leonard]] → [[Player Characters/Lee Smith\|Lee]] → [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] → [[Player Characters/Jacques le Coq\|Jacques]]*
 
 ---
 
@@ -372,7 +372,7 @@ The creature rolls a **1** on its Wisdom save. Takes 1 damage. Chandler gives [[
 > *"Rooster, just pretend we're Cam Neely. You got him."*
 > — **[[Player Characters/Chandler T. Harrow\|Chandler]]**
 
-**[[NPCs/The Grief-Eater\|The Grief-Eater]]** uses **Wail of the Bereaved** — an area effect hitting the entire party simultaneously.
+**[[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]]** uses **Wail of the Bereaved** — an area effect hitting the entire party simultaneously.
 - [[Player Characters/Jacques le Coq\|Jacques]] and [[Player Characters/Chandler T. Harrow\|Chandler]] make their saves.
 - [[Player Characters/Pierre-Jackson Laferrière\|Pierre]], [[Player Characters/Bohdan Thorruk\|Bo]], [[Player Characters/Leonard Holloway\|Leonard]], and [[Player Characters/Lee Smith\|Lee]] **all fail** → Frightened condition.
 
@@ -385,7 +385,7 @@ The creature rolls a **1** on its Wisdom save. Takes 1 damage. Chandler gives [[
 | [[Player Characters/Leonard Holloway\|Leonard]] | Right ring finger permanently under minor illusion — shifts in color, size, shape based on emotional state. **Permanent.** |
 | [[Player Characters/Lee Smith\|Lee]] | Rolls 94 on d100 Long-Term Madness table → **loses the ability to speak entirely** |
 
-As a reaction, [[NPCs/The Grief-Eater\|the creature]] feasts on [[Player Characters/Chandler T. Harrow\|Chandler]]'s grief to heal back the 1 damage from Vicious Mockery.
+As a reaction, [[NPCs/Spectacle Island/The Grief-Eater\|the creature]] feasts on [[Player Characters/Chandler T. Harrow\|Chandler]]'s grief to heal back the 1 damage from Vicious Mockery.
 
 ---
 
@@ -413,7 +413,7 @@ The canonical explanation: Pierre has never actually fired this weapon. He has u
 
 **[[Player Characters/Jacques le Coq\|Jacques]]**: swings the glowing hockey stick. The creature does the slurpy neck-dodge. Miss.
 
-**[[NPCs/The Grief-Eater\|The Creature]]**: attacks [[Player Characters/Jacques le Coq\|Jacques]] twice with **Sorrow Lash**. Both miss — shredding his jersey and the hockey pads underneath.
+**[[NPCs/Spectacle Island/The Grief-Eater\|The Creature]]**: attacks [[Player Characters/Jacques le Coq\|Jacques]] twice with **Sorrow Lash**. Both miss — shredding his jersey and the hockey pads underneath.
 
 > *"Hey, I like this jersey."*
 > — **[[Player Characters/Jacques le Coq\|Jacques]]**
@@ -464,7 +464,7 @@ The GM's post-session assessment of the gun's condition:
 
 Moonbeam resolves on the creature: makes its save, takes **9 radiant damage**.
 
-**[[NPCs/The Grief-Eater\|The Creature]]**: attacks [[Player Characters/Jacques le Coq\|Jacques]] twice with Sorrow Lash. Both miss. More jersey destruction.
+**[[NPCs/Spectacle Island/The Grief-Eater\|The Creature]]**: attacks [[Player Characters/Jacques le Coq\|Jacques]] twice with Sorrow Lash. Both miss. More jersey destruction.
 
 **[[Player Characters/Jacques le Coq\|Jacques]]**: climbs the processing machinery. Drops 15 feet to the floor. Lands clean — *"Your enforcer knees just don't give a shit."* Gets within 10 feet of the prone creature. **Advantage** on the attack. Uses Bardic Inspiration die. Swings.
 
@@ -484,7 +484,7 @@ Moonbeam resolves on the creature: makes its save, takes **9 radiant damage**.
 
 ### The Death Scene
 
-[[NPCs/The Grief-Eater\|The creature]] comes apart the way a candle goes out in a strong wind:
+[[NPCs/Spectacle Island/The Grief-Eater\|The creature]] comes apart the way a candle goes out in a strong wind:
 
 > *"It unravels — not violently. Threads of shadow pulling away from the form. Frost crystallizing and shattering. Flower petals blooming from nothing and dying instantly, over and over again, until there is nothing left but the smell of saltwater and old flowers, and something that might have been a sound, if sound could be made of pure sorrow."*
 > — **GM**
@@ -494,7 +494,7 @@ In the last moment before it is gone, it speaks. In a language. Only [[Player Ch
 ### The Translation
 
 > *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking…"*
-> — **[[NPCs/The Grief-Eater\|The Grief-Eater]] (translated by [[Player Characters/Bohdan Thorruk\|Bo]])**
+> — **[[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]] (translated by [[Player Characters/Bohdan Thorruk\|Bo]])**
 
 [[Player Characters/Bohdan Thorruk\|Bo]] reports to the group:
 
@@ -510,7 +510,7 @@ Nobody knows the Courts. Nobody knows the Winter Judges. Nobody knows the Green 
 
 ## What Was Left
 
-When [[NPCs/The Grief-Eater\|the creature]] is gone, the bioluminescence dims — not extinguished, only quieted. Frost begins to melt. Flower petals on the floor brown and curl. The yellow-warm Luminous Hollow fungi begin to spread across the full interior of Blount Fisheries, reclaiming what the dark growth had taken.
+When [[NPCs/Spectacle Island/The Grief-Eater\|the creature]] is gone, the bioluminescence dims — not extinguished, only quieted. Frost begins to melt. Flower petals on the floor brown and curl. The yellow-warm Luminous Hollow fungi begin to spread across the full interior of Blount Fisheries, reclaiming what the dark growth had taken.
 
 Three people are still against the wall. One woman, partially freed during the fight, is alive and breathing but frozen in a rictus — rocking on the floor, unable to respond. The other two remain pinned. Whether they recover, and how, is a question for another session.
 
@@ -526,8 +526,8 @@ Three people are still against the wall. One woman, partially freed during the f
 
 ## Open Threads
 
-- **[[NPCs/Diane Okoye\|Diane Okoye]]** is hospitalized and unresponsive. What [[NPCs/The Ghost Captain\|The Ghost Captain]] left in her is unknown.
-- **[[NPCs/The Ghost Captain\|The Ghost Captain]]** — who he was, why he was at Long Wharf, and what his connection to [[Player Characters/Chandler T. Harrow\|Chandler]]'s Fanlock raid means.
+- **[[NPCs/Boston Paranormal Society/Diane Okoye\|Diane Okoye]]** is hospitalized and unresponsive. What [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]] left in her is unknown.
+- **[[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]]** — who he was, why he was at Long Wharf, and what his connection to [[Player Characters/Chandler T. Harrow\|Chandler]]'s Fanlock raid means.
 - **Diego** went into the harbor. He did not come out. The Diablos Red Saints will eventually notice.
 - **The three captives** at Blount Fisheries. Status unclear at session end.
 - **[[Player Characters/Bohdan Thorruk\|Bo]]'s sample** — Luminous Hollow fungi collected in the field. What can be learned from it.
@@ -542,14 +542,14 @@ Three people are still against the wall. One woman, partially freed during the f
 
 | NPC | Status at Session End | Notes |
 |-----|----------------------|-------|
-| [[NPCs/Diane Okoye\|Diane Okoye]] | Hospitalized, unresponsive, stable | Ghost passed through her; frost fractals across her skin |
-| [[NPCs/Detective O'Malley\|Detective O'Malley]] | Active / furious | Let them go; lost a boat; paperwork will be unbelievable |
-| [[NPCs/The Ghost Captain\|The Ghost Captain]] | Dissolved — status unknown | Recognized by Chandler; Fanlock raid connection |
-| [[NPCs/Margaret Chen\|Margaret Chen]] | Active | Warned Leonard before he left for Long Wharf |
-| [[NPCs/Gary Phelps\|Gary Phelps]] | Active | Drunk about Buckner at the BPS meeting |
+| [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane Okoye]] | Hospitalized, unresponsive, stable | Ghost passed through her; frost fractals across her skin |
+| [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] | Active / furious | Let them go; lost a boat; paperwork will be unbelievable |
+| [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]] | Dissolved — status unknown | Recognized by Chandler; Fanlock raid connection |
+| [[NPCs/Boston Paranormal Society/Margaret Chen\|Margaret Chen]] | Active | Warned Leonard before he left for Long Wharf |
+| [[NPCs/Boston Paranormal Society/Gary Phelps\|Gary Phelps]] | Active | Drunk about Buckner at the BPS meeting |
 | Diego (Diablos Red Saints) | Missing / presumed dead | Went into harbor when chain wrapped his leg; no body |
 | Victor (dispatch) | Unaware | Sent Bo on the route; doesn't know what happened |
-| [[NPCs/The Grief-Eater\|The Grief-Eater]] | Destroyed | Defeated by the party; last words delivered through Bo |
+| [[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]] | Destroyed | Defeated by the party; last words delivered through Bo |
 | The Three Captives | Alive / catatonic | Pinned at Blount Fisheries; one partially freed |
 
 ---

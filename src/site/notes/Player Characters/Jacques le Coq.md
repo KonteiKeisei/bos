@@ -127,3 +127,18 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 - **Round 3:** Climbed the machinery (athletics pass), dropped 15 feet (acrobatics pass — *"Your enforcer knees just don't give a shit"*), attacked prone creature with advantage + Bardic Inspiration + Divine Smite
 - **Killing blow:** slap shot across the jaw; the bottom half of the creature's face sailed across the facility and landed in a vat of rotted fish bones
 - **Last words translated by [[Player Characters/Bohdan Thorruk\|Bo]]:** *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking…"*
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- **Lay on Hands** healed [[Player Characters/Bohdan Thorruk\|Bo]] to full at session start — *"Hey, my namey."*
+- Zonk (his in-character call-sign / self-reference) attending the three captives; attempted to cure [[Player Characters/Lee Smith\|Lee]]'s muteness with Lay on Hands (didn't work — not a poison)
+- Met [[NPCs/Spectacle Island/Monroe Tanner\|Monroe Tanner]] (who didn't give a name), [[NPCs/Spectacle Island/Mai Xiong\|Mai Xiong]] (who recognized him on sight as a hockey player and became an immediate fan), and [[NPCs/Spectacle Island/Sapper Ripley\|Sapper Ripley]] (who'd been clean since '76)
+- Saw [[Player Characters/Bohdan Thorruk\|Bo]] as an orc in a mutual glamour-slip; [[Player Characters/Bohdan Thorruk\|Bo]] saw Jacques as his true Winter-aligned Goliath form
+- [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] fawned: *"The beating you put down on that man in the garden. You protected. I got you, bro."* — Jacques promised him front-row tickets
+- Hosted [[Player Characters/Lee Smith\|Lee]] and [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] in his Park Plaza presidential suite for the 10-day downtime
+- **Became a tenant of [[NPCs/Bova/Gerard Bova\|Gerard Bova]]** at the [[Locations/Boval\|Boval]] building, paying rent on a unit in the same building where [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] lives
+- Interview with [[Player Characters/Chandler T. Harrow\|Chandler]] at the South Shore Diner on Day 8 — resulted in a front-page Globe story ("Welcome to Boston, bitch")
+- Ejected [[Player Characters/Lee Smith\|Lee]] from the suite on Day 9 after the hotel maitre d' incident; gave him $100 severance
+- Drove [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] and [[Player Characters/Bohdan Thorruk\|Bo]] to Chandler's apartment in his **blue Mustang with white racing stripes** — spent $2.50 on parking
+- At the apartment meeting: dropped his glamour for the whole party — **8½ feet tall, full-body tattoos, ice blue eyes, all teeth intact**
+- **Payday:** $1,200/week (professional hockey salary); possesses a coach-provided pager

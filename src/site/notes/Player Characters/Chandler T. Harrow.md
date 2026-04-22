@@ -138,14 +138,27 @@ When he lifts the flute he hasn't touched in decades, the notes pull emotion fro
 
 ### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
-- Called by [[NPCs/Detective O'Malley\|Detective O'Malley]] about Wesley Drummond's body — drowned without water in his lungs
+- Called by [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] about Wesley Drummond's body — drowned without water in his lungs
 - Had a vision at Fort Point: wrote *"The witness must speak"* across three pages, no punctuation
-- Arrived at Long Wharf to find [[Player Characters/Leonard Holloway\|Leonard]] with [[NPCs/Diane Okoye\|Diane]]'s unconscious body and [[NPCs/The Ghost Captain\|The Ghost Captain]] mid-manifestation
+- Arrived at Long Wharf to find [[Player Characters/Leonard Holloway\|Leonard]] with [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]'s unconscious body and [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]] mid-manifestation
 - Recognized the Captain — *"Captain, aren't you supposed to be dead?"* — the ghost dissolved
-- Talked his way past [[NPCs/Detective O'Malley\|O'Malley]]'s questioning; O'Malley: *"I fucking hate it when you make fucking sense."*
+- Talked his way past [[NPCs/Boston Police Department/Detective O'Malley\|O'Malley]]'s questioning; O'Malley: *"I fucking hate it when you make fucking sense."*
 - Stole a skiff with Leonard and crossed to Spectacle Island; found a thermos of chicken broth on board (*"The saddest soup known to man."*)
 - Met the rest of the party on the beach; immediately identified Pierre's non-Minneapolis accent
 - In combat: Vicious Mockery (creature rolled 1, healed it back), two rounds of Bardic Inspiration to Jacques, Cloud of Daggers at 15 feet
 - Executed a Mighty Deed to toss [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] his .38: *"Use it, but don't break it. You buy it."*
 - Pierre broke Chandler's gun on a NAT 1. Chandler's response: *"No. You broke my gun."* Post-combat: *"Don't call me Chandler. And don't break my gun. Jesus."*
 - **Pierre owes Chandler a gun.**
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- Acquired the nickname **Kit Kat** from [[NPCs/Spectacle Island/Sapper Ripley\|Sapper Ripley]] — Marine tradition, short for Chandler Thomas
+- [[Player Characters/Leonard Holloway\|Leonard]] repaired Chandler's .38 Special (mechanical check; *"more than fixed, feels brand new"*)
+- Tracked [[NPCs/Brookline/Margaret Drummond\|Margaret Drummond]] to Brookline during the 10-day downtime; interviewed her
+- **Discovered "Fan lock" — Margaret's phonetic rendering of Phan Lộc**, heard from her husband in his sleep for three weeks before his death
+- Confirmed [[Roy Tillman\|Roy Tillman]] visited Drummond in August 1986
+- Wrote a front-page Boston Globe story on [[Player Characters/Jacques le Coq\|Jacques]] — 750 words at $0.70/word = $525
+- Received [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]'s manila folder: three cold-incident reports, ten days apart, different neighborhoods
+- Connected the incidents to [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]'s fractal frost — *"She wasn't in the water"*
+- Apartment at **53 Beacon Street** partially destroyed when [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] accidentally cast Shatter on his coffee table (3d8 thunder damage)
+- Still owed a gun by [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]

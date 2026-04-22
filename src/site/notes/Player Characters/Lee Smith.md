@@ -157,3 +157,22 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 - In combat: hid successfully, threw knives at disadvantage (50 feet, prone target) — one hit, one miss
 - **Lingering injury:** Rolled 94 on the d100 Long-Term Madness table → **lost the ability to speak entirely.** Duration unknown.
 - Cannot speak. Has not spoken since the Wail of the Bereaved.
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- **Telepathy unlocked** at the start of the session — can push thoughts into up to two people at a time (first used on [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] and [[Player Characters/Jacques le Coq\|Jacques]], loudly, by accident)
+- Wrote on [[Player Characters/Chandler T. Harrow\|Chandler]]'s notepad while mute — was **belligerent and racist** to [[NPCs/Spectacle Island/Mai Xiong\|Mai Xiong]], flipped her off; she flipped him off back; wrote his name as "Everett"
+- Committed **professional arson** on the Blount Fisheries office complex during the Spectacle Island exit — 15 minutes, no smoke while leaving
+- Stayed in [[Player Characters/Jacques le Coq\|Jacques]]'s Park Plaza presidential suite during the 10-day downtime
+- Ran two hotel heists:
+  - **Mark 1:** [[NPCs/Fidelity Investments/Edward Johnson III\|Edward Johnson III]] (Fidelity Investments chairman) + [[NPCs/Fidelity Investments/Elizabeth Lilly Johnson\|Elizabeth "Lilly" Johnson]] (MFA trustee) — stole the **MFA security key**; passed on a $150 initialed pearl necklace
+  - **Mark 2:** unidentified mobster couple with Irish Goomba security detail — stole $200 left as a tip; passed on a $50,000 fanny pack on the bed
+- Confronted by the hotel maitre d' on Day 9; gave the name "Campbell" recruited by "Jones"; deception failed; summoned Soulknife blades and laid the maitre d' out clean in a blind-spot hallway
+- Burned the stolen bellboy uniform in [[Player Characters/Jacques le Coq\|Jacques]]'s fireplace
+- [[Player Characters/Jacques le Coq\|Jacques]] gave him $100 severance and ejected him from the hotel when police arrived
+- **Speech returned on Day 10** — visited a sketchy back-alley doctor, who pulled a knife; situation resolved off-screen
+- Tailed [[Player Characters/Chandler T. Harrow\|Chandler]] home from the diner; bluffed his way into Chandler's apartment building with "Picking Boston Chop Suey" delivery scheme
+- At the apartment meeting: manifested knives openly for the first time in front of the full party
+- **Payday:** $5 (tourist pickpocket, nat 20), $100 (Jacques), $200 (mobster tip)
+- **Items acquired:** MFA security key, Fisher Price binoculars ($4)
+

@@ -136,10 +136,28 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
 - Trudy emerged from the harbor pearlescent, adorned with seashell and tentacle motifs; she is now clearly more than a motorcycle
 - Called Trudy "croissant" in front of [[Player Characters/Lee Smith\|Lee]]. Trudy revved angrily.
 - Gave the name **Everett** when [[Player Characters/Lee Smith\|Lee]] did (neither gave their real name)
-- Tried to diplomatically address [[NPCs/The Grief-Eater\|The Grief-Eater]]: *"Come out, come out. Don't have to be afraid. We're here to save you."* The creature looked insulted.
+- Tried to diplomatically address [[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]]: *"Come out, come out. Don't have to be afraid. We're here to save you."* The creature looked insulted.
 - **Round 2:** Fired his .38 Special at the creature — rolled a **NAT 1**. Gun broke. Has apparently never actually fired it before.
 - [[Player Characters/Chandler T. Harrow\|Chandler]] tossed him a replacement: *"Use it, but don't break it. You buy it."*
 - **Round 3:** Fired Chandler's borrowed .38 at the prone creature — rolled a **NAT 1**. Broke Chandler's gun too. Identically.
 - *"Yo, bro, your gun's broken."* Chandler: *"No. You broke my gun."*
 - **Lingering injury:** Persistent migraine — cannot benefit from short rest for 1 day
 - **Owes [[Player Characters/Chandler T. Harrow\|Chandler]] a gun.**
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- [[Player Characters/Leonard Holloway\|Leonard]] fixed [[Player Characters/Chandler T. Harrow\|Chandler]]'s .38 Special (mechanical check) — Pierre: *"Yo, Chandler, Chandler, you're cool, man. You know guns."* (credit to Leonard, eventually)
+- Pierre's own .38 is **unrepairable** — barrel looks like "a Looney Tunes explosion," literal seawater drained from it on inspection
+- Nearly deported by [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] on accent alone: *"That's not a fucking Boston accent. I'm guessing you're from somewhere up north."* Saved by [[Player Characters/Chandler T. Harrow\|Chandler]]'s *"He's a hockey fan."*
+- [[NPCs/Boston Harbor/Trudy\|Trudy]]'s new underwater capability revealed — she emerged from Boston Harbor with Pierre riding her at dawn: *"Wow. I don't know who put those mods on Trudy, but I'm happy."*
+- **Stayed in [[Player Characters/Jacques le Coq\|Jacques]]'s Park Plaza presidential suite** during the 10-day downtime
+- Took Trudy for rides — confirmed she has her own preferred destinations and will cross lanes of traffic to reach them
+- Day 9: scouted his old apartment — the **Red Saints believe he is dead**; no surveillance on the neighborhood
+- Visited [[Locations/Boval\|Boval]] (the bakery below his apartment); patron and [[NPCs/Bova/Marceline\|Marceline]] (the daughter) comped his croissants and grieved him; tipped her $5, then another $5 to do his dishes
+- Trudy took him unprompted to the **South Shore Diner** during his return run — foreshadowed a deeper connection between Trudy and the party's emerging investigation
+- Ordered a double-stack Krispy Kreme burger with three bacon strips and a strawberry-coffee milkshake — $4.25 total in 1986 money
+- Rode Trudy across Boston holding a doggy bag in one hand and a case of Budweiser in the other, neither hand on the bars
+- At the apartment meeting, attempted to cast "voodoo shit" on a candle — **accidentally cast Shatter**, dealing 3d8 thunder damage to [[Player Characters/Chandler T. Harrow\|Chandler]]'s coffee table
+- [[NPCs/Boston Harbor/Trudy\|Trudy]] let herself into Chandler's apartment mid-cast; nestled among the coffee table shrapnel
+- **Payday:** $50 (monthly from his mother)
+- **New nickname from [[Player Characters/Jacques le Coq\|Jacques]]:** Gary

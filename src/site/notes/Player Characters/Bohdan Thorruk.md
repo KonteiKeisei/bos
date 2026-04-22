@@ -133,7 +133,7 @@ The spores are restless. Forces older than the mob are paying attention.
 
 | NPC / Faction | Relationship |
 |---------------|--------------|
-| [[NPCs/Vox Libertas — The Voice of Liberty\|Vox Libertas — The Voice of Liberty]] | Future patron — holds the key to Harvard |
+| [[NPCs/Voices of Boston/Vox Libertas — The Voice of Liberty\|Vox Libertas — The Voice of Liberty]] | Future patron — holds the key to Harvard |
 | Boston Orc community | Informal network; mob-adjacent survival connections |
 | Harvard University | Rejected him; he is not done |
 
@@ -156,3 +156,20 @@ The spores are restless. Forces older than the mob are paying attention.
 - Only party member who understood the creature's last words; translated: *"The harvest was denied. The courts will remember. Winter judges. Summer rages. The Green One dreams of walking…"*
 - **Lingering injury:** Nosebleeds — ongoing
 - **Still has the spore sample from the pier.**
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- Healed to full by [[Player Characters/Jacques le Coq\|Jacques]]'s Lay on Hands at the start of the session
+- Revealed to [[Player Characters/Jacques le Coq\|Jacques]] as his true self — Orc — in a mutual glamour-slip; saw Jacques as a Winter-aligned Goliath in return
+- Named "Mr. Garbage Man" and "Mold Master" by [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] during the post-fire negotiation
+- Collected new samples of the **"grief eater myconid"** dark growth from the opposite side of the warehouse before it burned
+- Nosebleed trigger confirmed: any INT saving throw causes a nosebleed (*"300 years"* estimated duration)
+- Truck returned to the sanitation lot in pristine condition, contents cleared
+- End-of-downtime (~Nov 7, morning of the reconvergence): uncapped both sample vials in his kitchen simultaneously. The Luminous Hollow specimen **consumed** the dark growth. A Fae circle formed on the counter, hit a cast-iron pan, recoiled three inches, and produced a feral, winged Spring Court fey (see [[NPCs/Spring Court/Sprig\|Sprig]]) — she refused to give her name
+- Inadvertently agreed the fey was "doing him a favor" — **now owes her one favor**
+- The fey has taken up permanent residence in his kitchen, treating the Fae circle as an embassy of the Spring Court
+- Declined her request for his blood; cannot afford a TV; agreed to buy a plastic-cased radio with a remote
+- Bo did not press for her name
+- Took the bus to the Park Plaza to find [[Player Characters/Jacques le Coq\|Jacques]]; exhaled kombucha on [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] at the South Shore Diner (*"smells like battery acid"*)
+- At the apartment meeting, dropped his glamour and revealed himself as an orc to the entire party; [[Player Characters/Lee Smith\|Lee]] threw a knife past his head on reflex
+- **Payday:** $250/week after Teamster dues

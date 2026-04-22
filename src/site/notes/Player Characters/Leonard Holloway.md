@@ -100,7 +100,7 @@ Whatever he had been looking for at the harbor, it had just looked back.
 |---------------|--------------|
 | The Paranormal Society | Member and gadget builder |
 | [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]] | Met at Long Wharf; both witnessed the Spectacle Island event |
-| [[NPCs/Vox Innovatum — The Voice of Innovation\|Vox Innovatum — The Voice of Innovation]] | Unaware — the Voice of Innovation is seeking a successor |
+| [[NPCs/Voices of Boston/Vox Innovatum — The Voice of Innovation\|Vox Innovatum — The Voice of Innovation]] | Unaware — the Voice of Innovation is seeking a successor |
 
 ---
 
@@ -108,12 +108,28 @@ Whatever he had been looking for at the harbor, it had just looked back.
 
 ### [[Sessions/Session 01 - The Convergence\|Session 01 - The Convergence]]
 
-- Attended BPS meeting with [[NPCs/Diane Okoye\|Diane]]; [[NPCs/Gary Phelps\|Gary Phelps]] was drunk about Buckner; [[NPCs/Margaret Chen\|Margaret]] warned them: *"If the water speaks to you, try not to answer."*
-- Walked to Long Wharf with [[NPCs/Diane Okoye\|Diane]] to investigate three days of off-the-charts EM readings
-- Watched [[NPCs/The Ghost Captain\|The Ghost Captain]] pass through [[NPCs/Diane Okoye\|Diane]]; caught her before she hit the water; she said *"Leonard, are you getting the—"* and went down
+- Attended BPS meeting with [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]; [[NPCs/Boston Paranormal Society/Gary Phelps\|Gary Phelps]] was drunk about Buckner; [[NPCs/Boston Paranormal Society/Margaret Chen\|Margaret]] warned them: *"If the water speaks to you, try not to answer."*
+- Walked to Long Wharf with [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] to investigate three days of off-the-charts EM readings
+- Watched [[NPCs/Long Wharf/The Ghost Captain\|The Ghost Captain]] pass through [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]; caught her before she hit the water; she said *"Leonard, are you getting the—"* and went down
 - [[Player Characters/Chandler T. Harrow\|Chandler]] arrived, recognized the ghost, dissolved it
 - Got in a stolen skiff with Chandler; crossed to Spectacle Island; described by [[Player Characters/Jacques le Coq\|Jacques]] as *"an old man with his grandson"*
 - Assessed Trudy: *"What sort of mechanisms did they put in here to be able to control it remotely?"* Chandler: *"Is that the strangest thing you've seen tonight?"*
 - Under his breath on the walk to Blount Fisheries: *"Oh my god, it's just like the Goonies."*
 - In combat: Faerie Fire missed (creature saved DEX); successfully summoned Eldritch Cannon (Force Ballista); cannon hit and blasted the creature out of the Moonbeam, triggering Moonbeam damage on exit (11 radiant, saved)
 - **Lingering injury:** Right ring finger permanently under a minor illusion — shifts in color, size, and shape based on emotional state. **This is permanent.**
+
+### [[Sessions/Session 02 - Telephone\|Session 02 - Telephone]]
+
+- Named "Boy Scout," "Venkman," and "Baby Face" by [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] throughout the session
+- **Repaired [[Player Characters/Chandler T. Harrow\|Chandler]]'s .38 Special** on a mechanical check — despite never having held a gun before ("he's read manuals"). Chandler: *"I'll be damned."* Pierre: *"You're more cool than I think you were."*
+- Confirmed [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]'s gun is structurally unrepairable — whole barrel assembly and frame both cracked, still draining seawater
+- At Blount Fisheries: both he and [[Player Characters/Bohdan Thorruk\|Bo]] simultaneously recognized the Fae circle on the concrete — *"Fae"* — Leonard said it like a nerd, Bo said it like generational memory
+- On the tugboat: cast **Guidance** on [[Player Characters/Chandler T. Harrow\|Chandler]] in the form of what appeared to be an EpiPen; stabbed Chandler mid-negotiation with [[NPCs/Boston Harbor/Captain Sandy Madiera\|Captain Madiera]]
+- **Downtime (10 days):**
+  - Visited [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] at Mass General Room 372 every day; no change
+  - Talked the Boston Paranormal Society's ears off about Spectacle Island; **[[NPCs/Boston Paranormal Society/Gary Phelps\|Gary Phelps]] is especially angry at him for getting [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] nearly killed**; none of the Society believes the ghost story; some members have stopped returning his calls
+  - Pored over library books on the Fae — earned **advantage on Fae-related history checks until next long rest**
+- Revealed his **Bag of Holding** ("a bag that has no bottom") at the apartment meeting — reached in up to the shoulder, pulled out a quarter Lee threw in
+- **Payday:** $20 weekly allowance from his mother
+- Paged at Mass General as **"Harold"** (misheard by the desk nurse) while Chandler was trying to reach him
+- Handed out homemade business cards for the Boston Paranormal Society — [[Player Characters/Jacques le Coq\|Jacques]]: *"Ah, you're very cool, Leonard."*
