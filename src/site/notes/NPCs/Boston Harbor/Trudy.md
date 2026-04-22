@@ -8,7 +8,7 @@
 ![TrudyTile.webp](/img/user/Images/NPCs/TrudyTile.webp)
 
 > [!info] NPC Summary
-> **Type:** Motorcycle
+> **Type:** Motorcycle, Murderer
 > **Role:** [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]'s mount; harbor-touched familiar; autonomous agent
 > **Affiliation:** Bound to [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] through his pact with the harbor
 > **Status:** Active — drives herself, has opinions, can ride underwater
