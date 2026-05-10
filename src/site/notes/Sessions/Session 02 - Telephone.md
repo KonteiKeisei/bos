@@ -408,7 +408,7 @@ The circle does not vanish.
 She takes up residence. She asks for a television. [[Player Characters/Bohdan Thorruk\|Bo]] cannot afford a television. She asks for a radio. Plastic case, specifically — **iron is dangerous to her.** She refuses kombucha: *"I can't have any immortal food."* She complains about the smell. She refuses to name herself, and [[Player Characters/Bohdan Thorruk\|Bo]] does not press for it.
 
 > [!note] She does have a name
-> See [[NPCs/Spring Court/Sprig\|Sprig]]. [[Player Characters/Bohdan Thorruk\|Bo]] does not learn it this session.
+. [[Player Characters/Bohdan Thorruk\|Bo]] does not learn it this session.
 
 He leaves, with notebooks and sketches and a jar of kombucha placed just outside the circle as a gesture of — something. He heads to the Park Plaza to find [[Player Characters/Jacques le Coq\|Jacques]].
 
@@ -757,7 +757,7 @@ The bike rolls into the living room, does a slow circle, nestles amongst the sha
 > *"I think magic was always in you. You just made a deal to make it come out."*
 > — **[[Player Characters/Jacques le Coq\|Jacques]]**
 
-[[Player Characters/Bohdan Thorruk\|Bo]] pulls out his sketch of the Spring Court fey (see [[NPCs/Spring Court/Sprig\|Sprig]]) and explains the kitchen embassy.
+[[Player Characters/Bohdan Thorruk\|Bo]] pulls out his sketch of the Spring Court fey  and explains the kitchen embassy.
 
 > *"I think it's my roommate now."*
 > — **[[Player Characters/Bohdan Thorruk\|Bo]]**
@@ -765,7 +765,7 @@ The bike rolls into the living room, does a slow circle, nestles amongst the sha
 > *"That is one fucked-up looking fairy."*
 > — **[[Player Characters/Lee Smith\|Lee]]**
 
-The group agrees to follow two threads next: **the Spring Court fey** living in Bo's kitchen (see [[NPCs/Spring Court/Sprig\|Sprig]]) — as a possible source of information about what's happening in Faerie and why it's leaking into Boston — and **O'Malley's manila folder**, three incidents, ten days apart, wrong cold.
+The group agrees to follow two threads next: **the Spring Court fey** living in Bo's kitchen— as a possible source of information about what's happening in Faerie and why it's leaking into Boston — and **O'Malley's manila folder**, three incidents, ten days apart, wrong cold.
 
 ### Close
 
@@ -790,7 +790,7 @@ As he says that, [[NPCs/Boston Harbor/Trudy\|Trudy]] turns herself over fully in
 
 - **Three Cold Incidents.** O'Malley's manila folder: three reports, ten days apart, different neighborhoods, same log note — *cold, not cold weather, wrong cold.* Chapter 1's primary investigation, framed by the GM as [[Player Characters/Chandler T. Harrow\|Chandler]]'s chapter.
 - **"Fan lock" / Phan Lộc.** Wesley Drummond said the sound for three weeks before he walked into Fort Point Channel. Margaret heard an unfamiliar English-sounding phrase; what her husband was actually saying was the Vietnamese place name **Phan Lộc** — they're pronounced the same. Everyone who was at Phan Lộc is dying or dead. [[Player Characters/Chandler T. Harrow\|Chandler]] is the last one. Whatever is killing them is moving through dream.
-- **The Spring Court fey in Bo's kitchen** (see [[NPCs/Spring Court/Sprig\|Sprig]]). Unnamed, feral, willing to answer in exchange for favors. Wanted blood, settled for a plastic radio. [[Player Characters/Bohdan Thorruk\|Bo]] owes her one.
+- **The Spring Court fey in Bo's kitchen**  Unnamed, feral, willing to answer in exchange for favors. Wanted blood, settled for a plastic radio. [[Player Characters/Bohdan Thorruk\|Bo]] owes her one.
 - **[[NPCs/Boston Harbor/Trudy\|Trudy]]** — what she is. She drives underwater. She chooses destinations. She turns herself over for emphasis. [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] warlock-pacted the harbor; Trudy's transformation and her apparent intentionality are the pact's visible face.
 - **[[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]** — still comatose after ten days. [[Player Characters/Leonard Holloway\|Leonard]] visiting daily. No change. [[Player Characters/Chandler T. Harrow\|Chandler]] connecting her "cold" to O'Malley's three incidents.
 - **The MFA Security Key.** [[Player Characters/Lee Smith\|Lee]] stole it from Edward Johnson III. The Museum of Fine Arts may or may not matter yet.
@@ -804,34 +804,34 @@ As he says that, [[NPCs/Boston Harbor/Trudy\|Trudy]] turns herself over fully in
 
 ## NPCs Encountered
 
-| NPC | Status at Session End | Notes |
-|-----|----------------------|-------|
-| [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] | Active / more tired | Delivered the manila folder; drove off with a handle of Stoli in his coat |
-| [[NPCs/Spectacle Island/Monroe Tanner\|Monroe Tanner]] | Freed / home | First of the three out; never gave the party his name (they don't yet know it) |
-| [[NPCs/Spectacle Island/Mai Xiong\|Mai Xiong]] | Freed / home | Hmong, 30s; hockey fan; took Jacques's number; traded middle fingers with Lee |
-| [[NPCs/Spectacle Island/Sapper Ripley\|Sapper Ripley]] | Freed / home | North End Marine vet; clean since '76; gave Chandler the Kit Kat nickname |
-| Spring Court fey (see [[NPCs/Spring Court/Sprig\|Sprig]]) | Active / residing in Bo's kitchen | Unnamed in-world; collected the Luminous Hollow specimen; now permanent tenant; Bo owes her a favor |
-| [[NPCs/Boston Harbor/Captain Sandy Madiera\|Captain Madiera]] | Active / furious | Pilot boat captain; owes O'Malley a favor she is done repaying |
-| [[NPCs/Brookline/Margaret Drummond\|Margaret Drummond]] | Active / grieving | Gave Chandler the "fan lock" detail; declined Columbo round two |
-| [[NPCs/Bova/Marceline\|Marceline]] | Active | Bakery daughter at Boval; comps Pierre's croissants; charges extra for dishes |
-| [[Player Characters/Leonard Holloway\|Leonard]]'s mother | Active | Thought she won the sweepstakes |
-| Hotel Maitre d' (Park Plaza) | Knocked out, survived | Caught "Campbell"; Lee laid him out with a Soulknife pommel |
-| [[NPCs/Fidelity Investments/Edward Johnson III\|Edward Johnson III]] | Unaware | Fidelity chairman; Lee robbed his wife's purse |
-| [[NPCs/Fidelity Investments/Elizabeth Lilly Johnson\|Elizabeth "Lilly" Johnson]] | Unaware | MFA trustee; lost a security key she hasn't missed yet |
-| The Mobster Couple (Park Plaza) | Unaware | Untouched $50K fanny pack; Irish Goomba detail; identity unknown to the party |
+| NPC                                    | Status at Session End             | Notes                                                                                               |                                                                |
+| -------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]                 | Active / more tired               | Delivered the manila folder; drove off with a handle of Stoli in his coat                           |                                                                |
+| [[NPCs/Spectacle Island/Monroe Tanner\|Monroe Tanner]]                      | Freed / home                      | First of the three out; never gave the party his name (they don't yet know it)                      |                                                                |
+| [[NPCs/Spectacle Island/Mai Xiong\|Mai Xiong]]                          | Freed / home                      | Hmong, 30s; hockey fan; took Jacques's number; traded middle fingers with Lee                       |                                                                |
+| [[NPCs/Spectacle Island/Sapper Ripley\|Sapper Ripley]]                      | Freed / home                      | North End Marine vet; clean since '76; gave Chandler the Kit Kat nickname                           |                                                                |
+| Spring Court fey                       | Active / residing in Bo's kitchen | Unnamed in-world; collected the Luminous Hollow specimen; now permanent tenant; Bo owes her a favor |                                                                |
+| [[Captain Sandy Madiera                \| Captain Madiera]]                 | Active / furious                                                                                    | Pilot boat captain; owes O'Malley a favor she is done repaying |
+| [[NPCs/Brookline/Margaret Drummond\|Margaret Drummond]]                  | Active / grieving                 | Gave Chandler the "fan lock" detail; declined Columbo round two                                     |                                                                |
+| [[NPCs/Bova/Marceline\|Marceline]]                          | Active                            | Bakery daughter at Boval; comps Pierre's croissants; charges extra for dishes                       |                                                                |
+| [[Player Characters/Leonard Holloway\|Leonard]]'s mother | Active                            | Thought she won the sweepstakes                                                                     |                                                                |
+| Hotel Maitre d' (Park Plaza)           | Knocked out, survived             | Caught "Campbell"; Lee laid him out with a Soulknife pommel                                         |                                                                |
+| [[NPCs/Fidelity Investments/Edward Johnson III\|Edward Johnson III]]                 | Unaware                           | Fidelity chairman; Lee robbed his wife's purse                                                      |                                                                |
+| [[Elizabeth Lilly Johnson              \| Elizabeth "Lilly" Johnson]]       | Unaware                                                                                             | MFA trustee; lost a security key she hasn't missed yet         |
+| The Mobster Couple (Park Plaza)        | Unaware                           | Untouched $50K fanny pack; Irish Goomba detail; identity unknown to the party                       |                                                                |
 
 ---
 
 ## Lingering Effects & Downtime Results
 
-| Character | Effect |
+| Character | Effect                                                                                                                                                 |
 |-----------|--------|
-| [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] | Migraine resolved (10 days); .38 Special still unrepairable; [[NPCs/Boston Harbor/Trudy\|Trudy]] rides underwater |
-| [[Player Characters/Bohdan Thorruk\|Bo]] | Nosebleeds persist on INT saves; Spring Court tenant in kitchen; owes the fey (see [[NPCs/Spring Court/Sprig\|Sprig]]) one favor |
+| [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] | Migraine resolved (10 days); .38 Special still unrepairable; [[NPCs/Boston Harbor/Trudy\|Trudy]] rides underwater                                                                |
+| [[Player Characters/Bohdan Thorruk\|Bo]] | Nosebleeds persist on INT saves; Spring Court tenant in kitchen; owes the fey  one favor                                                               |
 | [[Player Characters/Leonard Holloway\|Leonard]] | Advantage on Fae-related history checks until next long rest; right ring finger still illusion-shifting; Paranormal Society members avoiding his calls |
-| [[Player Characters/Lee Smith\|Lee]] | Speech returned on Day 10; telepathy active (2 targets at once); possesses MFA security key |
-| [[Player Characters/Chandler T. Harrow\|Chandler]] | New nickname "Kit Kat" from Sapper; front-page Globe story published; coffee table destroyed by Pierre |
-| [[Player Characters/Jacques le Coq\|Jacques]] | Hotel heat from police; $1,200 weekly salary; blue Mustang; coach-provided pager |
+| [[Player Characters/Lee Smith\|Lee]] | Speech returned on Day 10; telepathy active (2 targets at once); possesses MFA security key                                                            |
+| [[Player Characters/Chandler T. Harrow\|Chandler]] | New nickname "Kit Kat" from Sapper; front-page Globe story published; coffee table destroyed by Pierre                                                 |
+| [[Player Characters/Jacques le Coq\|Jacques]] | Hotel heat from police; $1,200 weekly salary; blue Mustang; coach-provided pager                                                                       |
 
 ---
 
@@ -858,7 +858,7 @@ As he says that, [[NPCs/Boston Harbor/Trudy\|Trudy]] turns herself over fully in
 > — **[[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]**
 
 > *"I am in the embassy of the Spring Court right now."*
-> — **The Fey** *(see [[NPCs/Spring Court/Sprig\|Sprig]])*
+> — **The Fey** 
 
 > *"Three incidents. Ten days apart. Cold. Not cold weather, just wrong cold. Wrong. Wrong."*
 > — **[[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]**
