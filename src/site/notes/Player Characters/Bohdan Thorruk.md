@@ -165,7 +165,7 @@ The spores are restless. Forces older than the mob are paying attention.
 - Collected new samples of the **"grief eater myconid"** dark growth from the opposite side of the warehouse before it burned
 - Nosebleed trigger confirmed: any INT saving throw causes a nosebleed (*"300 years"* estimated duration)
 - Truck returned to the sanitation lot in pristine condition, contents cleared
-- End-of-downtime (~Nov 7, morning of the reconvergence): uncapped both sample vials in his kitchen simultaneously. The Luminous Hollow specimen **consumed** the dark growth. A Fae circle formed on the counter, hit a cast-iron pan, recoiled three inches, and produced a feral, winged Spring Court fey (see [[NPCs/Spring Court/Sprig\|Sprig]]) — she refused to give her name
+- End-of-downtime (~Nov 7, morning of the reconvergence): uncapped both sample vials in his kitchen simultaneously. The Luminous Hollow specimen **consumed** the dark growth. A Fae circle formed on the counter, hit a cast-iron pan, recoiled three inches, and produced a feral, winged Spring Court fey  — she refused to give her name
 - Inadvertently agreed the fey was "doing him a favor" — **now owes her one favor**
 - The fey has taken up permanent residence in his kitchen, treating the Fae circle as an embassy of the Spring Court
 - Declined her request for his blood; cannot afford a TV; agreed to buy a plastic-cased radio with a remote
