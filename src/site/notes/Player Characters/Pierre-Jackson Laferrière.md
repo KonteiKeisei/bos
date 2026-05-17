@@ -161,3 +161,10 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
 - [[NPCs/Boston Harbor/Trudy\|Trudy]] let herself into Chandler's apartment mid-cast; nestled among the coffee table shrapnel
 - **Payday:** $50 (monthly from his mother)
 - **New nickname from [[Player Characters/Jacques le Coq\|Jacques]]:** Gary
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- **Absent this session** (JoJo could not attend). The GM handwaved Pierre out of the apartment with a line of in-character dialogue at the top of the session:
+  > *"Alright, guys, I'm going to take this motorcycle outside and wear it down like a dog. You know, you have to take a dog for a walk. I'm going to take my bike for a walk, and hopefully it behaves better."*
+- Spent the session "walking [[NPCs/Boston Harbor/Trudy\|Trudy]] like a dog" through downtown Boston. Briefly seen across the Frog Pond at Boston Common while the rest of the party was investigating, then vanished again
+- Was *not* present at [[Player Characters/Bohdan Thorruk\|Bo]]'s apartment for the fey's banishment — and yet the fey knew his name. Titania apparently briefed her on the full party roster including the absent member, which means **[[Player Characters/Pierre-Jackson Laferrière\|Pierre]] is on the Summer Court's observation list** along with everyone else

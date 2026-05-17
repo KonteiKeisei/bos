@@ -176,3 +176,13 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 - **Payday:** $5 (tourist pickpocket, nat 20), $100 (Jacques), $200 (mobster tip)
 - **Items acquired:** MFA security key, Fisher Price binoculars ($4)
 
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- Participated in the apartment debrief; was sufficiently spooked by Bo's fey description to spend most of the session looking for ways to weaponize the Fae problem
+- Hopped the **T turnstile at South Station** (sixty cents not paid)
+- At Walgreens, bought: **first aid kit, band-aids, Bayer aspirin, Barbasol shaving cream, five rolls of film, five disposable lighters.** GM publicly speculated that Lee is building bombs. Lee did not deny it.
+- Helped jam [[Player Characters/Bohdan Thorruk\|Bo]]'s telephone cord against the wall with a switchblade at the start of the session — "*so nobody fucking trips over that shit*"
+- Used **Cybernetically Bolstered Knack** (psionic die) retroactively to beat the fey's Perception check on the iron-into-kombucha sleight of hand, ensuring [[Player Characters/Bohdan Thorruk\|Bo]] could see the play succeed *before* it succeeded
+- Witnessed the banishment of the fey
+- **Has not yet had Mr. Boots / Bulger consequences come due.** Still in the clear, for now

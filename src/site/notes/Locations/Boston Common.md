@@ -28,9 +28,26 @@ Established 1634. Site of revolutionary rallies, Vietnam War protests (1960s–7
 ## Key Features
 
 - Expansive green lawns and tree-lined paths
-- Frog Pond (skating in winter)
-- Civil War memorial
+- **Frog Pond** (skating in winter; ranger station staffed by Ranger Diggs)
+- **Soldier's Monument** — Civil War memorial column, 72 ft tall, *Genius of America* statue on top facing south
 - Views of the Massachusetts State House
+- Directly across the street from [[Player Characters/Chandler T. Harrow\|Chandler]]'s apartment at 53 Beacon Street
+
+---
+
+## In the Campaign
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]] — The Soldier's Monument Cold Incident
+
+On the morning of **November 3, 1986**, the Soldier's Monument was the site of the third confirmed Cold Incident. [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] was jogging past when the temperature dropped, fog thickened unnaturally around the monument *only,* and a frost-script — Sylvan-adjacent — appeared on the column. The frogs in the nearby pond went sluggish, then died in numbers. Ranger Diggs photographed the writing with a Polaroid before the frost melted off.
+
+When the party investigated the monument on November 7 with Detect Magic and Leonard's Ecto Arcane Scanner, they found:
+- A tall narrow-shoed humanoid footprint set, facing north
+- Conjuration magic at the footprint location (summoning)
+- Divination + Enchantment cast as a directed cone toward where [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] would have been jogging
+- Evocation cast from the footprints at the column itself (to write the script)
+
+The grass around the footprints and the monument remains noticeably less green than the surrounding lawn.
 
 ---
 
@@ -40,6 +57,6 @@ Established 1634. Site of revolutionary rallies, Vietnam War protests (1960s–7
 
 | Name | Role |
 |------|------|
-|      |      |
+| Ranger Diggs | Frog Pond ranger; witness to the Soldier's Monument incident |
 
 ---

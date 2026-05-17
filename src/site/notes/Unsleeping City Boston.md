@@ -41,5 +41,6 @@ Something woke up.
 | --- | --- | --- | --- |
 | 01 | [[Sessions/Session 01 - The Convergence\|The Convergence]] | 2026-03-29 | October 27–28, 1986 |
 | 02 | [[Sessions/Session 02 - Telephone\|Telephone]] | 2026-04-19 | October 28 → November 7, 1986 |
+| 03 | [[Sessions/Session 03 - Squiggly Bigglies\|Squiggly Bigglies]] | 2026-05-10 | November 7–12, 1986 |
 
 ---

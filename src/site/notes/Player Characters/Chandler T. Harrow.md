@@ -162,3 +162,18 @@ When he lifts the flute he hasn't touched in decades, the notes pull emotion fro
 - Connected the incidents to [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]]'s fractal frost — *"She wasn't in the water"*
 - Apartment at **53 Beacon Street** partially destroyed when [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] accidentally cast Shatter on his coffee table (3d8 thunder damage)
 - Still owed a gun by [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- **Chapter 1 lead.** Drove the investigation of the three cold incidents.
+- **Confessed the Phan Lộc thread to the party** — admitted he is the fourth (living) member connected to the dead/missing of his Vietnam unit and warned them they might be in danger by association
+- Apartment used as the team's first war room for reading the manila folder and pinning the map
+- Cast **Detect Magic as a ritual** at the Soldier's Monument; physically held [[Player Characters/Leonard Holloway\|Leonard]]'s Ecto Arcane Scanner and *boosted it* with his own innate magic. The scanner shouted four schools of magic: Conjuration, Divination, Enchantment, Evocation
+- Interviewed [[NPCs/Boston Common/Ranger Diggs\|Ranger Diggs]] at the Frog Pond posing as a Globe reporter investigating "meteorological anomalies and the impending ice age." Acquired Diggs's original full-resolution Polaroid of the frost-script
+- Called Harvard PR — rolled **double nat 2 Deception** even after burning Inspiration — got humiliated, redirected to [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]'s home line, and **set a 7:00 PM appointment at [[Locations/Café Pamplona\|Café Pamplona]]** that the party never made it to
+- Stocked up on Marlboro Menthols and ordered binoculars from [[NPCs/Bromfield Camera/Steve (Bromfield Camera)\|Steve]] at [[Locations/Bromfield Camera\|Bromfield Camera]]
+- **Slipped Leonard $20 via Sleight of Hand** at Bromfield Camera to help him afford the Polaroid One Step. Only [[Player Characters/Jacques le Coq\|Jacques]] caught it
+- Ground up Flintstones vitamins in Bo's mortar as part of [[Player Characters/Bohdan Thorruk\|Bo]]'s anti-fey plan
+- Witnessed the banishment of the Spring Court fey from Bo's kitchen
+- Has Diggs's Polaroid and a callback order for binoculars
+- Picked up the nickname **"Mr. Holmes"** from [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] (he tried to act academic by saying *"indubitably"* on the phone)

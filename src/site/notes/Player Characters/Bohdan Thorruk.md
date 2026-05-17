@@ -170,6 +170,23 @@ The spores are restless. Forces older than the mob are paying attention.
 - The fey has taken up permanent residence in his kitchen, treating the Fae circle as an embassy of the Spring Court
 - Declined her request for his blood; cannot afford a TV; agreed to buy a plastic-cased radio with a remote
 - Bo did not press for her name
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- **Called his sanitation boss for time off.** Got six days PTO. Conversation accidentally surfaced the name **[[NPCs/Boston Underworld/Mr. Boots\|Mr. Boots]]** — Bo's upstream connection in a smuggling network — to the entire party because Boston apartment walls are paper-thin
+- Lost the most recent package (left in his abandoned truck on Spectacle Island). Sanitation boss is forwarding the message to Mr. Boots
+- **Identified the frost-script** on the Soldier's Monument as Sylvan-adjacent — *similar to Druidic and Elvish, as if those languages branched off of this one in some distant timeline*
+- Rolled **22 Investigation** on the tracks at the monument — identified the figure as **tall, narrow dress-shoed, much bigger than [[Player Characters/Jacques le Coq\|Jacques]]'s build**
+- Bought **84 bottles of Flintstones Chewable Vitamins** at Walgreens specifically because they contain iron, plus a bottle of calamine lotion (8% iron oxide) as anti-fey ammunition
+- Returned to apartment to find **the fey** had hosted a 40-fey gingerbread-house party in his kitchen for 10 days
+- Confirmed the fey is an **espionage agent of Queen Titania, Summer Court** (her chain is Spring → Summer)
+- Learned she **knows all the party's names** — Titania told her
+- **Executed the iron-kombucha plan:** ground up Flintstones (via Chandler), spiked an open kombucha bottle, used **Sleight of Hand with advantage** (Jacques providing the distraction), spilled the bottle "accidentally" toward the Fae circle. The fey was at **Perception 6** — did not see it. [[Player Characters/Lee Smith\|Lee]] retroactively confirmed the powder-into-bottle moment via a **Cybernetically Bolstered Knack** psionic die
+- His nosebleed lingering injury contributed *actual iron-rich blood* to the spillage
+- **Banished the fey and the entire embassy back to the Feywild.** The mushroom circle is gone. The radio is in the puddle.
+- **Has declared functional war on the Summer Court** — Titania has not been notified yet, but she will be
+- Still owes the fey one favor (the verbal agreement survives the banishment)
+- **Payday:** still on PTO; no new income this session
 - Took the bus to the Park Plaza to find [[Player Characters/Jacques le Coq\|Jacques]]; exhaled kombucha on [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] at the South Shore Diner (*"smells like battery acid"*)
 - At the apartment meeting, dropped his glamour and revealed himself as an orc to the entire party; [[Player Characters/Lee Smith\|Lee]] threw a knife past his head on reflex
 - **Payday:** $250/week after Teamster dues

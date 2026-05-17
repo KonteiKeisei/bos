@@ -133,3 +133,14 @@ Whatever he had been looking for at the harbor, it had just looked back.
 - **Payday:** $20 weekly allowance from his mother
 - Paged at Mass General as **"Harold"** (misheard by the desk nurse) while Chandler was trying to reach him
 - Handed out homemade business cards for the Boston Paranormal Society — [[Player Characters/Jacques le Coq\|Jacques]]: *"Ah, you're very cool, Leonard."*
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- Ran his homemade **Ecto Arcane Scanner** at the Soldier's Monument. When [[Player Characters/Chandler T. Harrow\|Chandler]] held the device, it boosted on Chandler's innate magic and shouted four schools of magic in plain English
+- Rolled a **nat 20 Investigation** at the monument scene (with Chandler's help via Detect Magic), surfacing the full magical reconstruction of the November 3 incident
+- Bought a **Polaroid One Step camera** from [[NPCs/Bromfield Camera/Steve (Bromfield Camera)\|Steve]] at [[Locations/Bromfield Camera\|Bromfield Camera]]. [[Player Characters/Chandler T. Harrow\|Chandler]] and [[Player Characters/Jacques le Coq\|Jacques]] both quietly slipped him $20 each so he could afford it. Got a free roll of film thrown in for "making a good choice"
+- **Used the new Polaroid on the fey** in [[Player Characters/Bohdan Thorruk\|Bo]]'s apartment — confirmed the camera works mechanically: target a creature, click, consume film, the creature's portrait lands in the party journal. The fey priced future pictures at **$500 in legal precedent**
+- Still has the Polaroid of the fey (which survived her banishment)
+- Almost lectured [[NPCs/Boston Common/Ranger Diggs\|Ranger Diggs]] on the atmospheric refraction issue with satellite license-plate-reading, but politely held his tongue
+- Continued daily visits to [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] at Mass General (off-screen, ongoing — she remains comatose)
+- **Payday:** $20 weekly allowance from his mother (continuing baseline)

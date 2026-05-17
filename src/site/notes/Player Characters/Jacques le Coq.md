@@ -142,3 +142,15 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 - Drove [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] and [[Player Characters/Bohdan Thorruk\|Bo]] to Chandler's apartment in his **blue Mustang with white racing stripes** — spent $2.50 on parking
 - At the apartment meeting: dropped his glamour for the whole party — **8½ feet tall, full-body tattoos, ice blue eyes, all teeth intact**
 - **Payday:** $1,200/week (professional hockey salary); possesses a coach-provided pager
+
+### [[Sessions/Session 03 - Squiggly Bigglies\|Session 03 - Squiggly Bigglies]]
+
+- Delivered the session recap from a written prep doc *("after defeating the fungal creatures inside the spectral island warehouse...")*
+- Participated in the Soldier's Monument investigation and the Boston Common scene
+- Was the one to ask whether the *frogs* dying in the pond was a wider zone of effect than the visible footprints — a good investigative instinct
+- Caught [[Player Characters/Chandler T. Harrow\|Chandler]]'s **Sleight of Hand** at [[Locations/Bromfield Camera\|Bromfield Camera]] (rolled 18+ Perception) and quietly **matched the gift with his own $20** to [[Player Characters/Leonard Holloway\|Leonard]] for the Polaroid
+- Bought a bottle of **Drakkar Noir** cologne at Walgreens (+1 Charisma effect, per item piles)
+- Provided the **distraction help action** that gave [[Player Characters/Bohdan Thorruk\|Bo]] advantage on the kombucha sleight-of-hand against the fey
+- Announced his next-session intention: **acquire a cold-iron box** to store the Polaroid of the fey in. He does not want it loose in [[Player Characters/Leonard Holloway\|Leonard]]'s journal
+- Witnessed the banishment of the fey
+- **Payday:** continuing $1,200/week from the Bruins

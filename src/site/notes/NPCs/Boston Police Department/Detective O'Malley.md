@@ -69,6 +69,25 @@ On his way out, O'Malley walked straight into [[Player Characters/Bohdan Thorruk
 
 ---
 
+## Session 03
+
+The party finally **opened the manila folder** on November 7. O'Malley's case file contained:
+
+- **Incident 1:** October 29, 912 Massachusetts Ave, Cambridge. Witness: [[NPCs/Cambridge/Dennis Fahey\|Dennis Fahey]]. Witness discharged from Cambridge City Hospital before O'Malley could complete the interview.
+- **Incident 2:** October 31, 14 Quarter Street, Charlestown. Witnesses: [[NPCs/Charlestown/Robert Carey\|Robert Carey]], [[NPCs/Charlestown/Kelsey Carey\|Kelsey Carey]], plus uncooperative neighbor [[NPCs/Charlestown/Ruth Hanlon\|Ruth Hanlon]] at 12 Quarter Street.
+- **Incident 3:** November 3, Soldier's Monument, Boston Common. Witness: [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] (Harvard). Park ranger [[NPCs/Boston Common/Ranger Diggs\|Ranger Diggs]] photographed the frost-script.
+
+O'Malley conducted in-person follow-up interviews November 8 and November 9 — half the typed notes are unreadable because he was visibly drunk while typing them.
+
+> *"Drunk and Irish, and I can't tell which one's worse."*
+> — **[[Player Characters/Chandler T. Harrow\|Chandler]]** *(on O'Malley's report penmanship)*
+
+[[NPCs/Boston Common/Ranger Diggs\|Ranger Diggs]] confirmed that O'Malley interviewed him in person at the Frog Pond and that — *"that detective came to talk about it"* — he passed on the same details that ended up in [[Player Characters/Chandler T. Harrow\|Chandler]]'s copy of the file.
+
+O'Malley does not appear directly in Session 03. His file does. The party owes him at least a follow-up call now that they've started pulling threads.
+
+---
+
 ## Connections
 
 | Character / Faction | Relationship |
