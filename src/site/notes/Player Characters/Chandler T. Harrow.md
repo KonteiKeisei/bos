@@ -177,3 +177,18 @@ When he lifts the flute he hasn't touched in decades, the notes pull emotion fro
 - Witnessed the banishment of the Spring Court fey from Bo's kitchen
 - Has Diggs's Polaroid and a callback order for binoculars
 - Picked up the nickname **"Mr. Holmes"** from [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] (he tried to act academic by saying *"indubitably"* on the phone)
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- **Interviewed the Careys.** Got dismissed by [[NPCs/Charlestown/Robert Carey\|Robert Carey]] but pulled the crucial account out of [[NPCs/Charlestown/Kelsey Carey\|Kelsey Carey]] — including her drawing of [[NPCs/Winter Court/The Recorder\|The Recorder]] and her observation that the entity was harvesting emotional grief
+- **Detect Magic ritual + Ecto Arcane Scanner** in the Careys' living room — confirmed the same magical signature as Soldier's Monument
+- Rolled **history check with advantage** en route to Café Pamplona — realized the Bruins are away in Pittsburgh, catching Jacques's mistake
+- **Sleight of Hand DC 10** to steal a piece of Leonard's cookie at Café Pamplona — **failed**; Elisa yanked the cookie away
+- **Interviewed [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]** at Café Pamplona; picked up her full written statement including the *"evidence being gathered — yes, or a trial"* framing
+- **Persuasion + a Friday drink** with [[NPCs/Charlestown/Ruth Hanlon\|Ruth Hanlon]] — got her account of the tall devil-looking figure in the Careys' window and the fog-under-the-door
+- Cast Detect Magic **ritually on his flute** at Site 1 — played *"For What It's Worth"* for 10 minutes on the classical silver flute he's had since he was 9
+- Cast **Prestidigitation → Command → Detect Thoughts** on [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] — O'Malley saved the Command but not Detect Thoughts. Read O'Malley's inner monologue including his family collapse and the *Roger G-Man* pager frustration.
+- Ended concentration on Detect Thoughts when O'Malley drew his service weapon
+- Talked O'Malley down with **Persuasion** — closed with *"if you think I'm your enemy, then shoot"*
+- Gave O'Malley three Flintstones vitamins and the Winter Wolf photograph
+- **Now owes [[NPCs/Charlestown/Ruth Hanlon\|Ruth Hanlon]] a Friday drink.** She'll wear her good teeth.

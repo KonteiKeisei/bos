@@ -44,6 +44,30 @@ Ruth knows something. She lived 71 years on a street that, by her own account, h
 
 ---
 
+## [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+The party visited Ruth at 12 Cordis Street around 7:30 PM on November 12. She refused to open up until [[Player Characters/Chandler T. Harrow\|Chandler]] passed a **Persuasion** check and confirmed he was single. She then agreed to give him what she saw — in exchange for a Friday drink.
+
+> *"I know what cold looks like. It moves. It follows air. This didn't. This one just kind of plopped down like it sat there."*
+> — **Ruth Hanlon**
+
+> *"I saw this tall figure standing in their damn living room, framed, looking like the damn devil, blinking lights…"*
+> — **Ruth Hanlon**
+
+> *"It was more like there was a fog rolling under the door and then it lifted up and grew and then it just kind of disappeared."*
+> — **Ruth Hanlon**
+
+She confirmed no forced entry, doors locked, and blamed the whole thing on the Careys playing *"Diddlers and Doodads"* — her name for Dungeons and Dragons — as Satan worshippers.
+
+She slammed the door but not before locking in the Friday drink.
+
+> *"I'll wear my good teeth."*
+> — **Ruth Hanlon**
+
+**Chandler owes her a drink.** She has more to tell him. She almost certainly knows what [[NPCs/Winter Court/The Recorder\|The Recorder]] is by court affiliation, and she may know how long he's been active in Charlestown.
+
+---
+
 ## Connections
 
 | Character / Faction | Relationship |

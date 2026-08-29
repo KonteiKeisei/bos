@@ -23,9 +23,40 @@
 
 ## Background
 
-Sandra is part of the Carey family household at 14 Quarter Street in Charlestown. She watched Game 7 with her husband and daughter on October 27 — the same game-watching pattern that lines up with every other Cold Incident victim. On **October 31, 1986**, she went under during the incident along with her husband and daughter.
+Sandra is part of the Carey family household at 14 Cordis Street in Charlestown, and she is the primary breadwinner. She works at **Spalding Rehabilitation Hospital** as the **assistant manager of the front desk** — a solidly upper-middle-class institutional job in 1986 Boston, and one that involves regular exposure to medical instrumentation. She missed Game 7 live because of her shift, and watched the recap on Channel 4 with her husband and daughter on the night of **October 31, 1986**, when the Cold Incident struck.
 
-She is not on the record yet. The party has not interviewed her.
+---
+
+## [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+Sandra took over the interview after [[NPCs/Charlestown/Robert Carey\|Robert]] deferred to her and returned to his cooking. She confirmed the household account of the cold — corner of the room where the TV was, boundary abrupt, coming in around 33–34°F — and mentioned she came to with [[NPCs/Charlestown/Kelsey Carey\|Kelsey]] across the room *"with a dreamy look on her face"* and initially assumed her daughter had been drugged.
+
+Then she looked past [[Player Characters/Chandler T. Harrow\|Chandler]] at [[Player Characters/Leonard Holloway\|Leonard]], who was standing behind him running his Ecto Arcane Scanner, and said:
+
+> *"What are you getting on that thing? Is that an oscillating EM scanner he's got there?"*
+> — **Sandra Carey**
+
+She named it correctly — unprompted, on sight, in 1986. Leonard confirmed. She did not press for details.
+
+Before Chandler left she handed him her **business card** and framed a discreet offer:
+
+> *"If you do any investigations in any of the places where this has happened, and you come to some conclusive knowledge that can help me get this identified and sorted out so, you know, the house doesn't burn down while my husband is making dinner one of these days, that would be great."*
+> — **Sandra Carey**
+
+[[Player Characters/Leonard Holloway\|Leonard]] still has the card. It reads: **Sandra Carey · Front Desk · Spalding Rehabilitation Hospital · Assistant Manager.**
+
+---
+
+## GM Notes
+
+>
+> Possible framings for the GM to develop:
+> - Former Boston Paranormal Society member from the era before Leonard joined; walked away for family reasons
+> - Awakened-since-birth, quietly maintaining her cover from her husband
+> - Not awakened, but tied into the same academic-adjacent network that hosts [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]
+> - A civilian with an unusually well-developed spider-sense, whose Ecto knowledge is one-off luck
+>
+> Whichever it is, her giving Leonard a business card is the play. She wants a follow-up call.
 
 ---
 

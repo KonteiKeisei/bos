@@ -88,6 +88,67 @@ O'Malley does not appear directly in Session 03. His file does. The party owes h
 
 ---
 
+## Session 04 — The Night Everything Changed
+
+O'Malley arrived at Site 1 (the Long Wharf alley) shortly after the party killed the Winter Wolf that had been guarding [[NPCs/Winter Court/The Recorder\|The Recorder]]'s sigil. He came in furious — the crime scene had been vomited on, the chalk outlines wiped away, [[Player Characters/Bohdan Thorruk\|Bo]] was still spitting evaporating wolf-blood — and demanded an explanation.
+
+[[Player Characters/Chandler T. Harrow\|Chandler]] gave him one.
+
+- **Prestidigitation** to light his thumb on fire like a lighter
+- **Command** — *"Sit."* O'Malley saved.
+- **Detect Thoughts.** O'Malley did not save.
+- Chandler probed deeper. O'Malley *felt* it.
+
+### What Chandler Read in O'Malley's Head
+
+> *"You know what fucking gets me? The pager. The fucking pager. Thirty years a cop. Well, 18, but it feels like 30. And the thing that's going to put me in the ground is a goddamn beeper. Kid comes in, says there's a man, Roger. Roger fucking G-Man. What kind of a — that's not a name. That's what you say when someone asks you your name and you panic."*
+> — **Detective O'Malley** *(inner monologue)*
+
+> *"I had a dog smarter than whoever cooked that up. God rest him. Brennan. Best dog I ever had."*
+> — **Detective O'Malley** *(inner monologue)*
+
+Under the deeper probe:
+
+> *"Maureen took the kids to her sister's in Quincy. Quincy might as well be the moon. Declan Junior — eight years old — he doesn't even call. He calls me by my first name now, like we're at the wake, like I'm already in the box, like he's just being polite to a corpse. And Swerzy — she says nothing. Which is worse. She just looks at me with her mother's eyes, that same look, the one that says I had you measured years ago and you came up short."*
+> — **Detective O'Malley** *(inner monologue)*
+
+> [!note] O'Malley's family
+> **Wife: Maureen.** **Son: Declan O'Malley Jr.**, age 8. Maureen has taken the kids to her sister's in Quincy. Swerzy (unclear whether this is Maureen's mother or O'Malley's; either way, the disappointment vector is her). O'Malley has been drinking.
+
+He drew his service weapon while sitting on the ground, pointing at Chandler. Bo dropped his glamour to full Orc and cast **Halo of Spores** to underline the magic point. O'Malley's gun pivoted to Bo.
+
+Chandler ended concentration on Detect Thoughts.
+
+> *"Get out of my goddamn head."*
+> — **Detective O'Malley**
+
+> *"Do you know what that fucking feels like? Like someone taking their finger and pushing it into your skull like your bone is made out of butter and twisting it around in there?"*
+> — **Detective O'Malley**
+
+Chandler talked him down with a **Persuasion** roll and offered him:
+- A **photograph of the Winter Wolf**
+- **Three Flintstones vitamins** *(as anti-Fey iron ammunition)*
+- **A dose of calamine lotion** *(Bo, for its iron-oxide content)*
+
+O'Malley took them. He also confirmed:
+- He will report this as *"a raccoon came out of the trash and did all this bullshit"*
+- He will cancel the request to trace [[Player Characters/Jacques le Coq\|Jacques]]'s pager
+- He will take at least a week off
+- He will drink through it
+- He needs a list of *"why I needed calamine lotion, Flintstones vitamins, and anything else I need to deal with this bullshit"*
+
+Chandler suggested he go home to Maureen and the kids. O'Malley declined. *"They don't wanna see me."*
+
+### After
+
+The party ran. O'Malley stayed at the scene to call it in and cover their tracks.
+
+**The relationship has fundamentally changed.** O'Malley is now the party's *only* police contact who knows the whole truth. He knows Bo is an Orc. He knows Chandler can read minds. He knows Winter Wolves exist. He knows [[Player Characters/Jacques le Coq\|Jacques]]'s pager is entangled with a "Roger G-Man" incident. And the party knows his marriage is falling apart, his son is losing him, and his flask is what he's using to hold the line.
+
+Whether he becomes an ally or a liability from here is entirely up to how the party handles him next.
+
+---
+
 ## Connections
 
 | Character / Faction | Relationship |

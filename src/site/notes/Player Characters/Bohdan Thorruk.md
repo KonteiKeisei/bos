@@ -187,6 +187,22 @@ The spores are restless. Forces older than the mob are paying attention.
 - **Has declared functional war on the Summer Court** — Titania has not been notified yet, but she will be
 - Still owes the fey one favor (the verbal agreement survives the banishment)
 - **Payday:** still on PTO; no new income this session
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- Watched the Carey interview from across the street with [[Player Characters/Lee Smith\|Lee]]
+- Rolled a **Nature nat 20** with advantage at Site 1 — identified **Winter Wolf** paw prints; noted the energy taxonomy is related to the dark growth at Blount Fisheries
+- **Roger G-Man.** Volunteered to knock on the Careys' door disguised as a City of Boston sanitation outreach agent. Rolled **nat 1 on Persuasion, nat 1 on Deception, nat 1 on Performance** — got vibe-checked by [[NPCs/Charlestown/Kelsey Carey\|Kelsey]] in under two minutes
+  - Named himself "Roger G-Man" under pressure
+  - Handed [[NPCs/Charlestown/Kelsey Carey\|Kelsey]] **three Flintstones Chewable Vitamins** to *"keep the devil away"*
+  - Gave [[Player Characters/Jacques le Coq\|Jacques]]'s pager number as the callback
+  - Triggered distant police sirens on exit
+- Later suggested his backup alias: **Robert Smetiar** — Slovak for *garbage man*
+- At Site 1, **spent all Tenacity** to bump an Arcana roll on the sigil to a 20 with Leonard — surfaced the trap mechanic
+- **Wild Shape into a giant wolf-spider** during the Winter Wolf combat — an agonizing transformation that made him vomit in-fiction. Executed a **Mighty Deed** to leap the wolf, bit for 5 damage, reverted to human mid-bite on a low stability check
+- Dropped his glamour to full Orc form and cast **Halo of Spores** to convince [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] that magic is real
+- Squeezed **calamine lotion** into O'Malley's hand as bonus iron-oxide anti-fey ammunition
+- Session ends: opened his apartment door to find **the entire Summer Court has moved in**
 - Took the bus to the Park Plaza to find [[Player Characters/Jacques le Coq\|Jacques]]; exhaled kombucha on [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] at the South Shore Diner (*"smells like battery acid"*)
 - At the apartment meeting, dropped his glamour and revealed himself as an orc to the entire party; [[Player Characters/Lee Smith\|Lee]] threw a knife past his head on reflex
 - **Payday:** $250/week after Teamster dues

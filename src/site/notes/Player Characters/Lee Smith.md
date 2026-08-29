@@ -186,3 +186,11 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 - Used **Cybernetically Bolstered Knack** (psionic die) retroactively to beat the fey's Perception check on the iron-into-kombucha sleight of hand, ensuring [[Player Characters/Bohdan Thorruk\|Bo]] could see the play succeed *before* it succeeded
 - Witnessed the banishment of the fey
 - **Has not yet had Mr. Boots / Bulger consequences come due.** Still in the clear, for now
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- Watched the Carey interview from across the street with [[Player Characters/Bohdan Thorruk\|Bo]]
+- Ordered water at [[Locations/Café Pamplona\|Café Pamplona]]; declined coffee and food; snickered at Chandler's failed cookie theft
+- Reminded the party there had been an old woman watching them from a window across the street at Site 1 — she became a next-session hook
+- **Winter Wolf combat: dealt the killing blow.** Sneak attack from concealment (the wolf had no darkvision per stat block). Described as *"the smallest glint of light just punctures his eye and just keels over"* — no fanfare, delivered while everyone else was still yelling about Bo turning back into a man mid-bite
+- Cannot go to [[Player Characters/Jacques le Coq\|Jacques]]'s Park Plaza suite — Park Plaza security has his face on file since Session 02

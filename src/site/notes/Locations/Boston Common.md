@@ -49,6 +49,10 @@ When the party investigated the monument on November 7 with Detect Magic and Leo
 
 The grass around the footprints and the monument remains noticeably less green than the surrounding lawn.
 
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]] — The Fourth Frost-Script
+
+Via [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]'s written statement, the party learned that she has returned to Soldier's Monument multiple mornings. On the morning of **November 10**, she found a **fourth grouping of frost-script** — larger than the previous three, not present the previous day. Whoever wrote it is still working. The party has not been back to see if there's a fifth.
+
 ---
 
 ## Key NPCs

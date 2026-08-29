@@ -70,6 +70,51 @@ She closed the call with deliberate theatre, after [[Player Characters/Chandler 
 
 ---
 
+## [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+Corrected her form of address on first contact:
+
+> *"That's Doctor, I'm saying."*
+> — **Patricia Osei**
+
+Her actual title: **Associate Professor for Urban Planning at RBU, with consultant work for Harvard on ancient script.** Multiple published studies in adjacent fields.
+
+She had prepared a full written statement rather than being interviewed cold, and handed it to Chandler at the table. The key contents:
+
+- The cold at Soldier's Monument was **structured, directional, boundary-abrupt** — she estimated a 25–30°F differential over less than two feet
+- The frost-script was in **no language she recognizes** (Latin, French, and classical Greek all ruled out)
+- She was there approximately **90 seconds** during which she **felt observed** — *"like I was prey and there was a predator in the area. I was peripheral to whatever it was doing."*
+- She lost about **5 minutes**
+- **She has returned multiple mornings.** On the morning of **November 10** she found a *fourth grouping* of writing that had not been there the previous day, larger than the previous three. She counted characters. [[NPCs/Winter Court/The Recorder\|The Recorder]] is still working.
+
+Most importantly, she reframed the entire investigation in a single line:
+
+> *"The quality of it, it feels like evidence is being gathered."*
+> — **Patricia Osei**
+
+> *"Almost like an investigation."*
+> — **[[Player Characters/Chandler T. Harrow\|Chandler]]**
+
+> *"Eh, yes. Or a trial."*
+> — **Patricia Osei**
+
+That framing locks the current Cold Incidents to the Fenway Pact's *"Winter judges"* language from [[NPCs/Spectacle Island/The Grief-Eater\|The Grief-Eater]]'s dying prophecy. Someone is on trial. She has intuited what the party is only now beginning to see.
+
+She declined a follow-up dinner, took Chandler's card, and left with a Watson-out. Her closing line as she gestured at the rest of the party:
+
+> *"Sounds like an interesting puzzle."*
+> — **Patricia Osei**
+
+The party did not press her about the "seventh sense" comment. She has more to give when she next chooses to.
+
+### Ongoing Threads
+
+- Chandler still has her written statement.
+- She has his business card.
+- She is a regular at [[Locations/Café Pamplona\|Café Pamplona]] — [[NPCs/Café Pamplona/Elisa\|Elisa]] the barista knows her order (small lobster-tail pastry, fancy coffee with too much cream).
+
+---
+
 ## Connections
 
 | Character / Faction | Relationship |

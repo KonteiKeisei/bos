@@ -144,3 +144,14 @@ Whatever he had been looking for at the harbor, it had just looked back.
 - Almost lectured [[NPCs/Boston Common/Ranger Diggs\|Ranger Diggs]] on the atmospheric refraction issue with satellite license-plate-reading, but politely held his tongue
 - Continued daily visits to [[NPCs/Boston Paranormal Society/Diane Okoye\|Diane]] at Mass General (off-screen, ongoing — she remains comatose)
 - **Payday:** $20 weekly allowance from his mother (continuing baseline)
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- Backed up [[Player Characters/Chandler T. Harrow\|Chandler]] on the Carey interview with a notepad; ran the **Ecto Arcane Scanner** in the Careys' living room via a spell slot (not ritual, because a 10-minute silent ritual was too obvious)
+- Got asked about his age by [[NPCs/Charlestown/Robert Carey\|Robert Carey]] (*"you look awfully young to be 25"*); was told to eat his meat and vegetables
+- **[[NPCs/Charlestown/Sandra Carey\|Sandra Carey]] gave him her business card** — Spalding Rehabilitation Hospital, front-desk assistant manager. Kept it.
+- Rolled a **nat 20 Investigation** with two helpers on the Site 1 arcane sigil forensics — surfaced that the sigil is a record made intentionally visible to function as a trap
+- Summoned his **Eldritch Cannon (Spectral Anomaly Neutralizer / Force Ballista)** during the Winter Wolf combat, dealt 5 damage
+- **Photographed the Winter Wolf** with the Polaroid One Step just before it evaporated
+- Manually screenshotted the arcane sigil (Polaroid can't target inanimate objects)
+- Watched Bo turn into a wolf-spider and immediately vomit; watched Chandler mind-read a cop; night considered eventful

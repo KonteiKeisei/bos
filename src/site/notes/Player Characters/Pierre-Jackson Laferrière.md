@@ -168,3 +168,14 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
   > *"Alright, guys, I'm going to take this motorcycle outside and wear it down like a dog. You know, you have to take a dog for a walk. I'm going to take my bike for a walk, and hopefully it behaves better."*
 - Spent the session "walking [[NPCs/Boston Harbor/Trudy\|Trudy]] like a dog" through downtown Boston. Briefly seen across the Frog Pond at Boston Common while the rest of the party was investigating, then vanished again
 - Was *not* present at [[Player Characters/Bohdan Thorruk\|Bo]]'s apartment for the fey's banishment — and yet the fey knew his name. Titania apparently briefed her on the full party roster including the absent member, which means **[[Player Characters/Pierre-Jackson Laferrière\|Pierre]] is on the Summer Court's observation list** along with everyone else
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- **Back in the party.** JoJo returned. Pierre re-joined at [[Player Characters/Bohdan Thorruk\|Bo]]'s apartment as the group was heading out for Charlestown
+- Positioned parallel to the BMW during the Carey interview, watching the driveway
+- Ordered black coffee with two sugars at [[Locations/Café Pamplona\|Café Pamplona]]; later a beignet
+- **Threw [[Player Characters/Jacques le Coq\|Jacques]]'s discarded pager out the car window** because [[Player Characters/Jacques le Coq\|Jacques]] couldn't bring himself to do it
+- At Site 1: rolled **Religion** — his grandmother's stories about the **Frost Wolf**, spirit of the Unseelie Court, surfaced. Delivered the folklore context that let the party contextualize what they were fighting
+- Also at Site 1: rolled **Investigation**; found a **frozen shard shaped like a pencil** in the grass. Picked it up. Took **1 cold damage** from touching it. Kept it. Function unidentified.
+- During the Winter Wolf combat: had his legs frost'd by the wolf's breath attack
+- Ordered around Bo during the O'Malley scene; watched Chandler mind-read a cop and decided this was fine

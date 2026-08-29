@@ -40,10 +40,20 @@ A small, low-ceilinged coffee house near Harvard Square. Quiet, academic, the ki
 
 ---
 
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+- The party arrived 11 minutes early
+- Barista **Elisa** (Italian, warm-and-cutting) handled the entire order round, insulted Bo about his Canadian ethnicity, and yanked Leonard's cookie out of Chandler's reach at unnatural speed
+- [[NPCs/Harvard/Patricia Osei\|Patricia Osei]] handed over her full written statement and framed the Cold Incidents as *"evidence being gathered — yes, or a trial"* — an interpretive lens that lands directly on the Fenway Pact's *Winter judges* language
+- [[Player Characters/Jacques le Coq\|Jacques]] arrived late (having taxied back from a wrong-city hockey game); ordered a latte and chocolate croissant
+- Osei confirmed she is a regular; Elisa knew her order (small lobster-tail pastry, fancy coffee with too much cream)
+
+---
+
 ## Key NPCs
 
 *(Plain text only — no wikilinks per graph hierarchy rules)*
 
 | Name | Role |
 |------|------|
-| Patricia Osei | Harvard affiliate; chose Pamplona as her preferred meeting venue |
+| Elisa | Barista; the counter runs through her |
+| Patricia Osei | Harvard consultant, regular; chose Pamplona as her preferred meeting venue |

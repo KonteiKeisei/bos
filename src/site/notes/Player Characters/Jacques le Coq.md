@@ -154,3 +154,12 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 - Announced his next-session intention: **acquire a cold-iron box** to store the Polaroid of the fey in. He does not want it loose in [[Player Characters/Leonard Holloway\|Leonard]]'s journal
 - Witnessed the banishment of the fey
 - **Payday:** continuing $1,200/week from the Bruins
+
+### [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+
+- **Delivered the session recap** (from written prep notes) and earned a free Tenacity point
+- **The Pittsburgh Mistake.** Left the party in Charlestown to attend a Bruins home game that was actually an *away* game in Pittsburgh. Arrived at TD Garden to find it empty. [[Player Characters/Bohdan Thorruk\|Bo]] paged him *"How's Pittsburgh?"* Threw the pager. Drove Bebe (his blue Mustang) angrily back across the bridge to Cambridge.
+- Arrived late to [[Locations/Café Pamplona\|Café Pamplona]]; recognized on sight by [[NPCs/Café Pamplona/Elisa\|Elisa]] the barista; ordered a latte and chocolate croissant
+- **The Pager Discard.** [[Player Characters/Bohdan Thorruk\|Bo]] gave [[Player Characters/Jacques le Coq\|Jacques]]'s team-issued pager number to [[NPCs/Charlestown/Kelsey Carey\|Kelsey Carey]] under the alias *Roger G-Man.* Refused to throw the pager out himself. [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] did it for him. Jacques will need to report it stolen — allegedly by *"Robert G-Man."*
+- Attempted a slap shot on the Winter Wolf during combat; saw [[Player Characters/Bohdan Thorruk\|Bo]] wildshape into a wolf-spider and immediately revert mid-bite; lost the beat
+- Did not shoot [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]. Restrained. Composed. Watched Chandler handle it.
