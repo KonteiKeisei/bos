@@ -163,3 +163,8 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 - **The Pager Discard.** [[Player Characters/Bohdan Thorruk\|Bo]] gave [[Player Characters/Jacques le Coq\|Jacques]]'s team-issued pager number to [[NPCs/Charlestown/Kelsey Carey\|Kelsey Carey]] under the alias *Roger G-Man.* Refused to throw the pager out himself. [[Player Characters/Pierre-Jackson Laferrière\|Pierre]] did it for him. Jacques will need to report it stolen — allegedly by *"Robert G-Man."*
 - Attempted a slap shot on the Winter Wolf during combat; saw [[Player Characters/Bohdan Thorruk\|Bo]] wildshape into a wolf-spider and immediately revert mid-bite; lost the beat
 - Did not shoot [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]]. Restrained. Composed. Watched Chandler handle it.
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Offers the Park Plaza suite as a refuge. Sinden arranges a replacement pager with the same number and November 15 game tickets for a $20 paycheck deduction. Frank Galloway is the lead for after-hours rink permission. Jacques buys Kevlar for himself and Leonard. Two shops fail to supply suitable longbow arrows. He offers his pager as Sparks's callback contact.
+

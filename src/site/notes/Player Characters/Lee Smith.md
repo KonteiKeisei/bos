@@ -194,3 +194,8 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 - Reminded the party there had been an old woman watching them from a window across the street at Site 1 — she became a next-session hook
 - **Winter Wolf combat: dealt the killing blow.** Sneak attack from concealment (the wolf had no darkvision per stat block). Described as *"the smallest glint of light just punctures his eye and just keels over"* — no fanfare, delivered while everyone else was still yelling about Bo turning back into a man mid-bite
 - Cannot go to [[Player Characters/Jacques le Coq\|Jacques]]'s Park Plaza suite — Park Plaza security has his face on file since Session 02
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Leaves Bo's apartment as the Summer Court hearing opens, saying he will find another place to sleep. Young is absent; no further offscreen actions are established.
+

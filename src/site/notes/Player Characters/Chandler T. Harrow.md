@@ -192,3 +192,8 @@ When he lifts the flute he hasn't touched in decades, the notes pull emotion fro
 - Talked O'Malley down with **Persuasion** — closed with *"if you think I'm your enemy, then shoot"*
 - Gave O'Malley three Flintstones vitamins and the Winter Wolf photograph
 - **Now owes [[NPCs/Charlestown/Ruth Hanlon\|Ruth Hanlon]] a Friday drink.** She'll wear her good teeth.
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Challenges Summer jurisdiction, leaves whisky for O'Malley, and wears FADAR on his necklace. Earns $123.20 for the Globe article and buys $10 of .38 Special ammunition. Detect Magic exposes him to Sparks's overwhelming aura; Perception checks have disadvantage for the remainder of November 14. Ruth's for-sale sign is reported at wrap-up; checking the obituaries is still planned.
+

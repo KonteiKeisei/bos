@@ -160,3 +160,7 @@ Whether he becomes an ally or a liability from here is entirely up to how the pa
 | [[Player Characters/Bohdan Thorruk\|Bohdan Thorruk]] | Takes up too much space in doorways; smells like battery acid |
 | [[Player Characters/Jacques le Coq\|Jacques le Coq]] | Hockey hero; O'Malley wants front-row tickets |
 | Boston Police Department | Detective |
+
+## Session 05 Update
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]], Chandler leaves a $60 bottle of Midleton Very Rare 1984 with the precinct desk for O'Malley. The desk officer says he has called in all his sick time. O'Malley does not appear and receipt of the gift is not yet confirmed.

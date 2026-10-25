@@ -75,3 +75,7 @@ She slammed the door but not before locking in the Friday drink.
 | [[NPCs/Charlestown/Robert Carey\|Robert Carey]] | Neighbor; watched his family's incident from her step |
 | [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] | Interviewed her unsuccessfully |
 | Charlestown | Lifelong resident; institutional memory |
+
+## Session 05 Update
+
+During the closing wrap-up of [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]], the GM says Chandler finds a for-sale sign when he goes to Ruth's house for their date. Her whereabouts and reason for selling remain unknown. Chandler plans to check the obituaries next session; no search result or death is established.

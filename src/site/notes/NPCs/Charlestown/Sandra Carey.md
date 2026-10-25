@@ -50,13 +50,7 @@ Before Chandler left she handed him her **business card** and framed a discreet 
 ## GM Notes
 
 >
-> Possible framings for the GM to develop:
-> - Former Boston Paranormal Society member from the era before Leonard joined; walked away for family reasons
-> - Awakened-since-birth, quietly maintaining her cover from her husband
-> - Not awakened, but tied into the same academic-adjacent network that hosts [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]
-> - A civilian with an unusually well-developed spider-sense, whose Ecto knowledge is one-off luck
->
-> Whichever it is, her giving Leonard a business card is the play. She wants a follow-up call.
+> If the GM wants her to be more, the door is open (BPS lapsed member, awakened-since-birth quietly, plugged into academic networks like [[NPCs/Harvard/Patricia Osei\|Patricia Osei]]'s, etc.), but nothing she did in Session 04 requires that read. The business card is a real ask for a real follow-up. Leave her mysterious only if it's fun to.
 
 ---
 

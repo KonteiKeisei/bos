@@ -206,3 +206,8 @@ The spores are restless. Forces older than the mob are paying attention.
 - Took the bus to the Park Plaza to find [[Player Characters/Jacques le Coq\|Jacques]]; exhaled kombucha on [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] at the South Shore Diner (*"smells like battery acid"*)
 - At the apartment meeting, dropped his glamour and revealed himself as an orc to the entire party; [[Player Characters/Lee Smith\|Lee]] threw a knife past his head on reflex
 - **Payday:** $250/week after Teamster dues
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Summer tries to bind Bo to noninterference in exchange for validating his mycelium. He accepts neither settlement. Sparks obtains an adjournment. Bo discovers the Hollow specimen reacts to the ice shard, helps build FADAR, and gives the specimen to Chandler while retaining the contained shard. He presses Sparks for practical guidance and leaves the Friday conversation frustrated.
+

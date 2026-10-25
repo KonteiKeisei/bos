@@ -179,3 +179,8 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
 - Also at Site 1: rolled **Investigation**; found a **frozen shard shaped like a pencil** in the grass. Picked it up. Took **1 cold damage** from touching it. Kept it. Function unidentified.
 - During the Winter Wolf combat: had his legs frost'd by the wolf's breath attack
 - Ordered around Bo during the O'Malley scene; watched Chandler mind-read a cop and decided this was fine
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Passes the cold shard to Bo. Gets drunk at the hotel; Trudy intervenes when Jacques dunks him in cold water, and Pierre mentally calms her. A call to the bakery reveals nearly daily visits from men in leather jackets. He asks that his whereabouts be kept private.
+

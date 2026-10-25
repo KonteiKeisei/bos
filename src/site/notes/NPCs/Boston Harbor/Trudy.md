@@ -59,3 +59,7 @@ Quietly watched [[Player Characters/Leonard Holloway\|Leonard]] [[Player Charact
 | [[Player Characters/Pierre-Jackson Laferrière\|Pierre-Jackson Laferrière]] | Mount, partner, and something else |
 | Old Scituate / The Undertow | Patron that invested her; the harbor entity |
 | [[Player Characters/Lee Smith\|Lee Smith]] | Once called her "croissant"; she remembers |
+
+## Session 05 Update
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]], Trudy forces her way into Jacques's hotel suite and bumps him while he is dunking Pierre's face in cold water. Pierre mentally reassures her that he is safe and Jacques is a friend.

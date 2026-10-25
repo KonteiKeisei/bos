@@ -155,3 +155,8 @@ Whatever he had been looking for at the harbor, it had just looked back.
 - **Photographed the Winter Wolf** with the Polaroid One Step just before it evaporated
 - Manually screenshotted the arcane sigil (Polaroid can't target inanimate objects)
 - Watched Bo turn into a wolf-spider and immediately vomit; watched Chandler mind-read a cop; night considered eventful
+
+## Session 05
+
+In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Stays at the hotel with Pierre during the surplus trip and barely drinks the rum and Coke offered to him. Jacques gives him a Kevlar vest. He accompanies the group to Harvard and the Friday meeting. Sparks's companion also named Leonard is not established as this PC.
+
