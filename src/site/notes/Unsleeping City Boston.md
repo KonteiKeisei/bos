@@ -44,5 +44,6 @@ Something woke up.
 | 03 | [[Sessions/Session 03 - Squiggly Bigglies\|Squiggly Bigglies]] | 2026-05-10 | November 7–12, 1986 |
 | 04 | [[Sessions/Session 04 - Roger G-Man\|Roger G-Man]] | 2026-06-14 | November 12, 1986 (evening) |
 | 05 | [[Sessions/Session 05 - Boston Jesus\|Boston Jesus]] | 2026-08-30 | November 12-14, 1986 |
+| 06 | [[Sessions/Session 06 - Who the Fuck Is Lee\|Who the Fuck Is Lee?]] | 2026-10-25 | November 14-15, 1986 |
 
 ---

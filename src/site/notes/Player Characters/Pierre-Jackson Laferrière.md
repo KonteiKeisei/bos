@@ -184,3 +184,6 @@ Pierre-Jackson Laferrière was twenty-two years old. He had drowned. And somethi
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Passes the cold shard to Bo. Gets drunk at the hotel; Trudy intervenes when Jacques dunks him in cold water, and Pierre mentally calms her. A call to the bakery reveals nearly daily visits from men in leather jackets. He asks that his whereabouts be kept private.
 
+## Session 06
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]: Joins the failed tail and dinner at Warren Tavern. Remembers Lee, including his presence at the harbor before Spectacle Island, while Leonard and Jacques do not. Appears in the Bull & Finch photograph. Visits Bo on November 15 to help clean up and ask for help controlling magic. Uses his motorcycle-club patch as a focus, casts Toll the Dead and Eldritch Blast on rats, and begins Arms of Hadar before being given the chance to stop without spending a slot. No new level or permanent ability is awarded by this practice scene.

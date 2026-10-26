@@ -199,3 +199,6 @@ Lee woke at dawn on the shore of **Spectacle Island**, coughing brine and bile, 
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Leaves Bo's apartment as the Summer Court hearing opens, saying he will find another place to sleep. Young is absent; no further offscreen actions are established.
 
+## Session 06
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]: Remains absent. During the November 14 Warren Tavern conversation, Leonard and Jacques genuinely cannot remember him. Chandler, Pierre, and Bo do remember him; Bo checks that the others are not joking. His whereabouts, the cause of the loss, and when it began are unknown. The subsequent group photograph shows the five present, not Lee.

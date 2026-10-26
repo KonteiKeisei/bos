@@ -160,3 +160,6 @@ Whatever he had been looking for at the harbor, it had just looked back.
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Stays at the hotel with Pierre during the surplus trip and barely drinks the rum and Coke offered to him. Jacques gives him a Kevlar vest. He accompanies the group to Harvard and the Friday meeting. Sparks's companion also named Leonard is not established as this PC.
 
+## Session 06
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]: Gets a 20 on Stealth during the failed group tail. Explains he wants to study the phenomena and needs the others' help in a fight. By the Warren Tavern conversation, he has no recollection of Lee and counts five party members. Bo confirms the loss is real. Appears in the group photograph; no memory is restored. Reports his free Eldritch Cannon use unavailable until a long rest and one spell slot missing.

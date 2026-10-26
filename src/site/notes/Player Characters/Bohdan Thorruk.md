@@ -211,3 +211,6 @@ The spores are restless. Forces older than the mob are paying attention.
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Summer tries to bind Bo to noninterference in exchange for validating his mycelium. He accepts neither settlement. Sparks obtains an adjournment. Bo discovers the Hollow specimen reacts to the ice shard, helps build FADAR, and gives the specimen to Chandler while retaining the contained shard. He presses Sparks for practical guidance and leaves the Friday conversation frustrated.
 
+## Session 06
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]: Asks the group what they intend to do about the courts and the investigation, with his November 20 return to work approaching. Offers Seamus four vitamins as Bob, spelled B-O-H-B, and is refused. Drinks four whiskey sours before a painful spider transformation, vomits in the alley, rides on Jacques's shirt, and reverts when Chandler returns alone. Remembers Lee and confirms through Insight that Leonard and Jacques genuinely do not. On Saturday, while clearing Summer's furniture, agrees to help Pierre practice. Demonstrates his focus sprig and Shillelagh on a machete, then backs away as Pierre begins Arms of Hadar.

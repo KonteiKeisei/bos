@@ -48,3 +48,7 @@ The Bull & Finch was constructed near a ley line, creating a place of confluence
 |      |      |
 
 ---
+
+## Session 06: The Group Photograph
+
+The party arrives around 9:30 p.m. on November 14 during [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]. They have discovered Leonard and Jacques do not remember Lee, and want a record of the people present. Chandler buys six Jamesons, one for their unnamed photographer, for $3 by the table's ruling. All five appear in the [[Campaign Notes/November 14 Group Photograph\|November 14 Group Photograph]], captioned 9:37 p.m. Chandler also wants a record placing him away from Ruth's house that evening. No memory returns and no new magical behavior of the pub is shown.

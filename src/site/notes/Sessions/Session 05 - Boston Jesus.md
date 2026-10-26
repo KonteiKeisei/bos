@@ -11,6 +11,7 @@
 > **Locations:** Bo's apartment, O'Malley's precinct, [[Locations/Park Plaza Hotel\|Park Plaza Hotel]], [[Locations/Kenmore Army Navy\|Kenmore Army Navy]], a gun store, Harvard, and the old Custom House site near [[Locations/Old State House\|Old State House]].
 > **Players:** [[Player Characters/Chandler T. Harrow\|Chandler T. Harrow]]; [[Player Characters/Pierre-Jackson Laferrière\|Pierre]]; [[Player Characters/Jacques le Coq\|Jacques]]; [[Player Characters/Leonard Holloway\|Leonard]]; [[Player Characters/Bohdan Thorruk\|Bo]]. Young is absent. [[Player Characters/Lee Smith\|Lee]] leaves at the start.
 > **Previous:** [[Sessions/Session 04 - Roger G-Man\|Session 04 - Roger G-Man]]
+> **Next:** [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]
 
 Bo comes home to a Summer Court hearing in his kitchen. A Harvard professor gets him out of it, then spends Friday frustrating the shit out of him. In between, the party makes FADAR, buys supplies, and fails to find arrows for Jacques's ridiculous bow. Pierre gets drunk in the hotel suite while Leonard nurses the drink he was too polite to refuse. The hockey game will have to wait until next session.
 

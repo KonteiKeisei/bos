@@ -164,3 +164,9 @@ Whether he becomes an ally or a liability from here is entirely up to how the pa
 ## Session 05 Update
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]], Chandler leaves a $60 bottle of Midleton Very Rare 1984 with the precinct desk for O'Malley. The desk officer says he has called in all his sick time. O'Malley does not appear and receipt of the gift is not yet confirmed.
+
+## Session 06 Update: Missing
+
+On November 15 in [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]], Chandler cannot reach O'Malley through the precinct or his home telephone. The precinct calls it emergency leave and says he has not checked in. Chandler visits and finds [[NPCs/Boston Police Department/Maureen O'Malley\|Maureen and the children]] outside in a station wagon. They cannot reach him either. His usual bars either haven't seen him or refuse to say whether they have.
+
+Chandler and Maureen exchange contact information and promise to pass on any news. O'Malley's location and condition are unknown. His emergency leave no longer accounts for the family's inability to find him.

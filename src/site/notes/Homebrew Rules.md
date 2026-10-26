@@ -20,7 +20,7 @@ A long rest represents true recovery — physical, emotional, and spiritual. It 
 **Requirements:**
 - Can only be completed in a **safe haven** — a location the characters genuinely consider secure: a home, sanctified refuge, trusted sanctuary, or similarly protected space.
 - A rented room, roadside inn, or hotel is **not automatically** a safe haven. The DM determines whether a location qualifies.
-- Requires **three consecutive days (72 hours)**.
+- Requires **seven consecutive days (one week)**, as reaffirmed in [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]].
 - During this time, a character: cannot engage in combat, cannot cast offensive spells, cannot participate in strenuous activity beyond light travel, conversation, study, or routine daily tasks.
 
 **Benefits (at the end of a long rest):**
@@ -118,3 +118,8 @@ These rules assume:
 - The world does not pause simply because the characters wish it to.
 
 *Choose your havens carefully.*
+
+
+## Session 06 Rest Ruling
+
+The GM removed the limit on short rests between long rests so the party can take an overnight short rest each day. Long rests still require a full week of downtime, rather than arriving automatically every calendar week. The successful rest does not restore features that require a long rest. See [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]].

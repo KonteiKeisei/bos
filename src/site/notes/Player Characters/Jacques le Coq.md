@@ -168,3 +168,6 @@ In his absence, **Lyndon Byers** stepped into the role Jacques vacated. Jacques 
 
 In [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]]: Offers the Park Plaza suite as a refuge. Sinden arranges a replacement pager with the same number and November 15 game tickets for a $20 paycheck deduction. Frank Galloway is the lead for after-hours rink permission. Jacques buys Kevlar for himself and Leonard. Two shops fail to supply suitable longbow arrows. He offers his pager as Sparks's callback contact.
 
+## Session 06
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]]: Sprays Chandler with Drakkar Noir, drives the group to Charlestown after the Cambridge mistake, and helps spider-Bo back into the tavern. Has no memory of Lee, including the trouble at his hotel; Bo confirms this is genuine. Appears in the group photograph. On November 15, successfully arranges after-hours rink access with Frank Gallo: report to security after the game, wait an hour and a half in a back room, then meet Frank by the shield. The game has not yet happened.

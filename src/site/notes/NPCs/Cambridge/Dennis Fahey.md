@@ -50,3 +50,9 @@ The party has his home address and phone number via the file.
 |---------------------|--------------|
 | Cambridge City Hospital | Admitted and discharged after Incident 1 |
 | [[NPCs/Boston Police Department/Detective O'Malley\|Detective O'Malley]] | Attempted follow-up; incomplete |
+
+## Session 06 Update
+
+[[Locations/The Plough & Stars\|The Plough & Stars]] at 912 Massachusetts Avenue is the incident location, not Dennis's confirmed home. In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]], its owner, Seamus Connolly, identifies him as a longtime regular and childhood friend who worked at the bar when younger. Seamus left him watching the place during a smoke break and remembers returning to find him and three other men frozen at the bar. That recollection conflicts with the report and is explicitly deteriorating.
+
+Seamus has not seen Dennis since. He suggests an old childhood address on Ellery Street, possibly 150, but says it is thirty years out of date. The earlier handout's 163 Ellery Street, Apt. 2 remains a separate lead. The party still has not interviewed Dennis.

@@ -79,3 +79,12 @@ She slammed the door but not before locking in the Friday drink.
 ## Session 05 Update
 
 During the closing wrap-up of [[Sessions/Session 05 - Boston Jesus\|Session 05 - Boston Jesus]], the GM says Chandler finds a for-sale sign when he goes to Ruth's house for their date. Her whereabouts and reason for selling remain unknown. Chandler plans to check the obituaries next session; no search result or death is established.
+
+## Session 06 Update
+
+In [[Sessions/Session 06 - Who the Fuck Is Lee\|Session 06 - Who the Fuck Is Lee]], Chandler reaches Ruth's house at 12 Cordis Street on November 14 and finds it apparently abandoned with a for-sale sign. The Careys' house is not for sale. Two days of mail remain in her mailbox. He detects Enchantment inside, then investigates Conjuration footprints on the front stoop.
+
+Chandler enters through an unlocked bathroom window. He finds blood on the living-room carpet and coffee-table edge, plus police evidence markers. His successful investigation reconstructs someone being startled, turning, tripping, and hitting their head. The injured person's identity and survival remain unconfirmed. Matching footprints beyond the stain connect the visitor to the figure at the monument.
+
+He finds her late husband's urn and a bridge-club number, which he copies. No body is present. He tells the party he suspects Ruth is dead and the Scout was involved; that suspicion is not a confirmed death or murder. The bridge-club contact is their next lead.
+
